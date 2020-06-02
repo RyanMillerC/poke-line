@@ -132,8 +132,8 @@ Minimum of 3 units are required for poke-mode."
         ;; Compute Poke Cat string.
       (propertize
         (concat
-          element-string
           pokemon-string
+          element-string
           background-string)
         'help-echo +poke-modeline-help-string+))))
 
