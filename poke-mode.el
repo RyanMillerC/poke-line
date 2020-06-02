@@ -80,27 +80,14 @@ Minimum of 3 units are required for poke-mode."
          (poke-refresh))
   :group 'poke)
 
-(defcustom poke-selector 1
-  "Select cat face number for console."
-  :type 'integer
-  :group 'poke)
-
 (defun poke-number-of-elements ()
+  "Calculate number of elements."
   (round (/ (* (round (* 100
-    (/ (- (float (point))
-      (float (point-min)))
-        (float (point-max)))))
-            (- poke-bar-length +poke-size+))
-          100)))
-
-(defun poke-pokemon-index ()
-  (min (round (/ (* (round (* 100
-    (/ (- (float (point))
-      (float (point-min)))
-        (float (point-max)))))
-          (length (poke-catface)))
-            100))
-    (- (length (poke-catface)) 1)))
+                        (/ (- (float (point))
+                             (float (point-min)))
+                          (float (point-max)))))
+              (- poke-bar-length +poke-size+))
+           100)))
 
 (defun poke-scroll-buffer (percentage buffer)
   "Move point `BUFFER' to `PERCENTAGE' percent in the buffer."
@@ -115,39 +102,40 @@ Minimum of 3 units are required for poke-mode."
     (propertize string 'keymap `(keymap (mode-line keymap (down-mouse-1 . ,(lambda () (interactive) (poke-scroll-buffer percentage buffer))))))))
 
 (defun poke-create ()
-  "Return the Poke Cat indicator to be inserted into mode line."
+  "Return the Pokemon indicator to be inserted into mode line."
+  (setq debug-on-error t)
   (if (< (window-width) poke-minimum-window-width)
+      "" ; Disable for small windows
     (let* ((elements (poke-number-of-elements))
       (backgrounds (- poke-bar-length elements +poke-size+))
       (element-string "")
       (xpm-support (image-type-available-p 'xpm))
-        (pokemon-string (propertize (aref (poke-face) (poke-face-index)
-          'display (poke-get-anim-frame)))
-            (background-string "")
-            (buffer (current-buffer)))
-        (dotimes (number elements)
-          (setq element-string
-            (concat element-string
-              (poke-add-scroll-handler
-                (if xpm-support
-                    (propertize "|" 'display (create-image +poke-element-image+ 'xpm nil
-                                             :ascent (or (and poke-wavy-trail (poke-wavy-rainbow-ascent number))
-                                                       (if (poke--is-animating-p) 95 'center))))
-                  "|")
-                (/ (float number) poke-bar-length) buffer))))
+      (pokemon-string (propertize "|||" 'display (create-image +poke-image+ 'xpm nil :ascent 'center)))
+      (background-string "")
+      (buffer (current-buffer)))
+      (dotimes (number elements)
+        (setq element-string
+          (concat element-string
+            (poke-add-scroll-handler
+              (if xpm-support
+                  (propertize "|" 'display (create-image +poke-element-image+ 'xpm nil :ascent 'center))
+                "|")
+              (/ (float number) poke-bar-length) buffer))))
         (dotimes (number backgrounds)
           (setq background-string
-            (concat background-string (poke-add-scroll-handler)
-              (if xpm-support
-                  (propertize "-" 'display (create-image +poke-background-image+ 'xpm nil
-                    :ascent (if (poke--is-animating-p) 95 'center)))
-                "-")
-              (/ (float (+ elements +nyan-cat-size+ number)) nyan-bar-length) buffer)))
-            ;; Compute Poke Cat string.
-            (propertize (concat pokemon-string
-                          element-string
-                          background-string)
-                  'help-echo +poke-modeline-help-string+)))))
+            (concat background-string
+              (poke-add-scroll-handler
+                (if xpm-support
+                    (propertize "-" 'display (create-image +poke-background-image+ 'xpm nil :ascent 'center))
+                  "-")
+                (/ (float (+ elements +poke-size+ number)) poke-bar-length) buffer))))
+        ;; Compute Poke Cat string.
+      (propertize
+        (concat
+          element-string
+          pokemon-string
+          background-string)
+        'help-echo +poke-modeline-help-string+))))
 
 ;;;###autoload
 (define-minor-mode poke-mode
@@ -159,12 +147,13 @@ option `scroll-bar-mode'."
   :global t
   :group 'poke
   (cond (poke-mode
-         (unless poke-old-car-mode-line-position
-           (setq poke-old-car-mode-line-position (car mode-line-position)))
-         (setcar mode-line-position '(:eval (list (poke-create))))
+          (unless poke-old-car-mode-line-position
+            (setq poke-old-car-mode-line-position (car mode-line-position)))
+          (poke-create)
+          (setcar mode-line-position '(:eval (list (poke-create)))))
         ((not poke-mode)
-         (setcar mode-line-position poke-old-car-mode-line-position)
-         (setq poke-old-car-mode-line-position nil))))
+          (setcar mode-line-position poke-old-car-mode-line-position)
+          (setq poke-old-car-mode-line-position nil))))
 
 
 (provide 'poke-mode)
