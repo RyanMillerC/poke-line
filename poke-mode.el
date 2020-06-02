@@ -39,13 +39,13 @@
 
 (defconst +poke-directory+ (file-name-directory (or load-file-name buffer-file-name)))
 
-(defconst +poke-size+ 3)
-
 (defconst +poke-image+ (concat +poke-directory+ "img/charizard.xpm"))
 (defconst +poke-element-image+ (concat +poke-directory+ "img/flamethrower.xpm"))
 (defconst +poke-background-image+ (concat +poke-directory+ "img/background.xpm"))
 
 (defconst +poke-modeline-help-string+ "Gotta catch 'em all!\nmouse-1: Scroll buffer position")
+
+(defconst +poke-size+ 3)
 
 (defvar poke-old-car-mode-line-position nil)
 
