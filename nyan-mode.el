@@ -1,15 +1,11 @@
-;;; nyan-mode.el --- Nyan Cat shows position in current buffer in mode-line.
+;;; poke-mode.el --- A Pokemon shows position in current buffer in mode-line.
 
-;; Nyanyanyanyanyanyanya!
-
-;; Author: Jacek "TeMPOraL" Zlydach <temporal.pl@gmail.com>
-;; URL: https://github.com/TeMPOraL/nyan-mode/
-;; Version: 1.1.3
-;; Keywords: nyan, cat, lulz, scrolling, pop tart cat, build something amazing
+;; Author: Ryan Miller <ryan@devopsmachine.com>
+;; URL: https://github.com/RyanMillerC/poke-mode/
+;; Version: 0.0.1
+;; Keywords: pokemon, charizard, fun, mode-line
 
 ;; This file is not part of GNU Emacs.
-
-;; ...yet. ;).
 
 ;; This program is free software; you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License as
@@ -59,8 +55,8 @@
 
 (defconst +nyan-cat-size+ 3)
 
-(defconst +nyan-cat-image+ (concat +nyan-directory+ "img/nyan.xpm"))
-(defconst +nyan-rainbow-image+ (concat +nyan-directory+ "img/rainbow.xpm"))
+(defconst +nyan-cat-image+ (concat +nyan-directory+ "img/charizard.xpm"))
+(defconst +nyan-rainbow-image+ (concat +nyan-directory+ "img/flamethrower.xpm"))
 (defconst +nyan-outerspace-image+ (concat +nyan-directory+ "img/outerspace.xpm"))
 
 (defconst +nyan-music+ (concat +nyan-directory+ "mus/nyanlooped.mp3"))
@@ -271,25 +267,6 @@ This can be t or nil."
                           nyancat-string
                           outerspace-string)
                   'help-echo +nyan-modeline-help-string+))))
-
-
-;;; Music handling.
-
-;; mplayer needs to be installed for that
-(defvar nyan-music-process nil)
-
-(defun nyan-start-music ()
-  (interactive)
-  (unless nyan-music-process
-    (setq nyan-music-process (start-process-shell-command "nyan-music" "nyan-music" (concat "mplayer " +nyan-music+ " -loop 0")))))
-
-(defun nyan-stop-music ()
-  (interactive)
-  (when nyan-music-process
-    (delete-process nyan-music-process)
-    (setq nyan-music-process nil)))
-
-
 
 ;;;###autoload
 (define-minor-mode nyan-mode
