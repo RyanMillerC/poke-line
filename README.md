@@ -8,7 +8,7 @@ TODO: Add image here
 
 * [] Normal
 * [x] Fire
-* [] Water
+* [x] Water
 * [x] Grass
 * [] Electric
 * [] Ice
