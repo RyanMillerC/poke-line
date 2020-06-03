@@ -10,7 +10,7 @@ TODO: Add image here
 * [x] Fire
 * [x] Water
 * [x] Grass
-* [] Electric
+* [x] Electric
 * [] Ice
 * [] Fighting
 * [] Poison
