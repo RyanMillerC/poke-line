@@ -2,4 +2,5 @@
 *.elc
 /assets/output
 /tmp
+.DS_Store
 
