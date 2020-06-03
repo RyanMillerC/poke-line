@@ -1,6 +1,7 @@
 *.sos
 *.elc
 /assets/output
+/assets/sprites
 /tmp
 .DS_Store
 
