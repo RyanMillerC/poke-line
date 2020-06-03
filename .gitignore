@@ -1,4 +1,5 @@
 *.sos
 *.elc
 /assets/output
+/tmp
 
