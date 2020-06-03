@@ -4,27 +4,6 @@
 
 TODO: Add image here
 
-## Pokemon Types to Add
-
-* [] Normal
-* [x] Fire
-* [x] Water
-* [x] Grass
-* [x] Electric
-* [] Ice
-* [] Fighting
-* [] Poison
-* [] Ground
-* [] Flying
-* [] Psychic
-* [x] Bug
-* [] Rock
-* [] Ghost
-* [] Dark
-* [] Dragon
-* [] Steel
-* [] Fairy
-
 ## Adding New Pokemon
 
 Images are stored as XPM. These can be easily created from PNG files using
