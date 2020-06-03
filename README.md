@@ -21,3 +21,7 @@ Poke mode images should be 20x30 pixels.
 
 To create an XPM image file that is 20x30 with whitespace trimmed:
 `convert pokemon.png -trim -flop -thumbnail 20x30 pokemon.xpm`
+
+## Crop command for turing base image into element
+
+`convert flamethrower_base.png -crop 8x20+22+0 test.png`
