@@ -8,12 +8,11 @@
 
 BASE_DIRECTORY='./assets/base'
 ELEMENTS_DIRECTORY='./assets/elements'
-OUTPUT_DIRECTORY='./assets/output'
 
 for image in $(find "${BASE_DIRECTORY}" -name '*.png') ; do
     image_base_name="${image##*/}"
     element_type="${image_base_name%%_*}"
-    output_file="${OUTPUT_DIRECTORY}/${element_type}.png"
+    output_file="${ELEMENTS_DIRECTORY}/${element_type}.png"
     echo "Processing ${element_type} -> ${output_file}"
     convert "${image}" -crop 8x20+22+0 "${output_file}"
 done
