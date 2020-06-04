@@ -39,9 +39,10 @@
 
 (defconst +poke-directory+ (file-name-directory (or load-file-name buffer-file-name)))
 
-(defconst +poke-image+ (concat +poke-directory+ "img/charizard.xpm"))
-(defconst +poke-element-image+ (concat +poke-directory+ "img/flamethrower.xpm"))
 (defconst +poke-background-image+ (concat +poke-directory+ "img/background.xpm"))
+
+;; (defconst +poke-image+ (concat +poke-directory+ "img/charizard.xpm"))
+;; (defconst +poke-element-image+ (concat +poke-directory+ "img/flamethrower.xpm"))
 
 (defconst +poke-modeline-help-string+ "Gotta catch 'em all!\nmouse-1: Scroll buffer position")
 
@@ -61,6 +62,14 @@ Intended to be called when customizations were changed, to reapply them immediat
       (poke-mode -1)
       (poke-mode 1))))
 
+(defcustom poke-pokemon "pikachu"
+  "Pokemon to display."
+  :type 'string
+  :set (lambda (sym val)
+         (set-default sym val)
+         (poke-refresh))
+  :group 'poke)
+
 (defcustom poke-minimum-window-width 64
   "Minimum width of the window, below which poke-mode will not be displayed.
 This is important because poke-mode will push out all informations from small windows."
@@ -79,6 +88,14 @@ Minimum of 3 units are required for poke-mode."
          (set-default sym val)
          (poke-refresh))
   :group 'poke)
+
+(defun poke-get-pokemon ()
+  "Get path to Pokemon XPM image."
+  (concat +poke-directory+ "img/pokemon/" poke-pokemon ".xpm"))
+
+(defun poke-get-element ()
+  "Get path to Pokemon XPM image."
+  (concat +poke-directory+ "img/elements/electric.xpm"))
 
 (defun poke-number-of-elements ()
   "Calculate number of elements."
@@ -110,7 +127,7 @@ Minimum of 3 units are required for poke-mode."
       (backgrounds (- poke-bar-length elements +poke-size+))
       (element-string "")
       (xpm-support (image-type-available-p 'xpm))
-      (pokemon-string (propertize "|||" 'display (create-image +poke-image+ 'xpm nil :ascent 'center)))
+      (pokemon-string (propertize "|||" 'display (create-image (poke-get-pokemon) 'xpm nil :ascent 'center)))
       (background-string "")
       (buffer (current-buffer)))
       (dotimes (number elements)
@@ -118,7 +135,7 @@ Minimum of 3 units are required for poke-mode."
           (concat element-string
             (poke-add-scroll-handler
               (if xpm-support
-                  (propertize "|" 'display (create-image +poke-element-image+ 'xpm nil :ascent 'center))
+                  (propertize "|" 'display (create-image (poke-get-element) 'xpm nil :ascent 'center))
                 "|")
               (/ (float number) poke-bar-length) buffer))))
         (dotimes (number backgrounds)
