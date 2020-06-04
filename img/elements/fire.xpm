@@ -1,5 +1,5 @@
 /* XPM */
-static char *flamethrower[] = {
+static char *fire[] = {
 /* columns rows colors chars-per-pixel */
 "8 20 83 1 ",
 "  c None",
@@ -28,7 +28,7 @@ static char *flamethrower[] = {
 "5 c #F79515",
 "6 c #FA9210",
 "7 c #F99312",
-"8 c #FE9310",
+"8 c #FE9210",
 "9 c #FE9610",
 "0 c #F99813",
 "q c #FF9A11",
@@ -100,7 +100,7 @@ static char *flamethrower[] = {
 "LLLLLLTT",
 "LL//NNNN",
 "vvlldada",
-"49999q0e",
+"46999q0e",
 "#$$$==,,",
 "   oo.+O",
 "        ",
