@@ -39,16 +39,16 @@
 
 (defconst +poke-directory+ (file-name-directory (or load-file-name buffer-file-name)))
 
-(defconst +poke-background-image+ (concat +poke-directory+ "img/background.xpm"))
+(load-file (concat +poke-directory+ "poke-pokemon-types.el"))
 
-;; (defconst +poke-image+ (concat +poke-directory+ "img/charizard.xpm"))
-;; (defconst +poke-element-image+ (concat +poke-directory+ "img/flamethrower.xpm"))
+(defconst +poke-background-image+ (concat +poke-directory+ "img/background.xpm"))
 
 (defconst +poke-modeline-help-string+ "Gotta catch 'em all!\nmouse-1: Scroll buffer position")
 
 (defconst +poke-size+ 3)
 
 (defvar poke-old-car-mode-line-position nil)
+(defvar poke-pokemon-type nil)
 
 (defgroup poke nil
   "Customization group for `poke-mode'."
@@ -62,11 +62,16 @@ Intended to be called when customizations were changed, to reapply them immediat
       (poke-mode -1)
       (poke-mode 1))))
 
+(defun poke-get-type ()
+  "Get name of Pokemon type."
+  (cdr (assoc poke-pokemon poke-pokemon-types)))
+
 (defcustom poke-pokemon "pikachu"
   "Pokemon to display."
   :type 'string
   :set (lambda (sym val)
          (set-default sym val)
+         (setq poke-pokemon-type (poke-get-type))
          (poke-refresh))
   :group 'poke)
 
@@ -95,7 +100,7 @@ Minimum of 3 units are required for poke-mode."
 
 (defun poke-get-element ()
   "Get path to Pokemon XPM image."
-  (concat +poke-directory+ "img/elements/electric.xpm"))
+  (concat +poke-directory+ "img/elements/" poke-pokemon-type ".xpm"))
 
 (defun poke-number-of-elements ()
   "Calculate number of elements."
