@@ -71,7 +71,6 @@ Intended to be called when customizations were changed, to reapply them immediat
   :type 'string
   :set (lambda (sym val)
          (set-default sym val)
-         (setq poke-pokemon-type (poke-get-type))
          (poke-refresh))
   :group 'poke)
 
@@ -100,6 +99,7 @@ Minimum of 3 units are required for poke-mode."
 
 (defun poke-get-element ()
   "Get path to Pokemon XPM image."
+  (setq poke-pokemon-type (poke-get-type))
   (concat +poke-directory+ "img/elements/" poke-pokemon-type ".xpm"))
 
 (defun poke-number-of-elements ()
