@@ -20,7 +20,7 @@ create_file() {
   printf "(setq poke-pokemon-types '("
   get_alist_entry 0
 
-  for ((iterator=1; iterator<number_of_pokemon-1; iterator++)) ; do
+  for ((iterator=1; iterator<number_of_pokemon; iterator++)) ; do
     printf '\n                           '
     get_alist_entry "${iterator}"
   done
