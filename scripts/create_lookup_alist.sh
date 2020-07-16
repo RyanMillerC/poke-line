@@ -28,6 +28,6 @@ create_file() {
   printf ')\n'
 }
 
-echo 'Creating poke-pokemon-types.el...'
-create_file > poke-pokemon-types.el
+echo 'Creating pokemon-types.el...'
+create_file > pokemon-types.el
 echo 'Complete!'
