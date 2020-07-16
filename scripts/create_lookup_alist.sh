@@ -3,24 +3,31 @@
 # Create Elisp file with Pokemon type lookups
 #
 
-BASE_API_URL='https://pokeapi.co/api/v2/pokemon'
+POKEMON_DATA_URL='https://raw.githubusercontent.com/RyanMillerC/poke-position-images/master/pokemon-data.json'
+
+echo 'Downloading pokemon-data.json...'
+curl -s "${POKEMON_DATA_URL}" -o pokemon-data.json
 
 get_alist_entry() {
-    pokemon_id="${1}"
-    api_response=$(curl -s "${BASE_API_URL}/${pokemon_id}")
-    pokemon_name=$(jq -r '.name' <<< ${api_response})
-    pokemon_type=$(jq -r '.types[] | select (.slot==1) | .type.name' <<< ${api_response})
+    index="${1}"
+    pokemon_name=$(jq -r ".[${index}].name" pokemon-data.json)
+    pokemon_type=$(jq -r ".[${index}].type" pokemon-data.json)
     printf "(\"${pokemon_name}\" . \"${pokemon_type}\")"
 }
 
-printf "(setq poke-pokemon-types '("
-get_alist_entry 1
+create_file() {
+  number_of_pokemon=$(jq '. | length' pokemon-data.json)
+  printf "(setq poke-pokemon-types '("
+  get_alist_entry 0
 
-for ((pokemon_id=2; pokemon_id<24; pokemon_id++)) ; do
-   printf "\n                           "
-   get_alist_entry "${pokemon_id}"
-done
+  for ((iterator=1; iterator<number_of_pokemon-1; iterator++)) ; do
+    printf '\n                           '
+    get_alist_entry "${iterator}"
+  done
 
-printf "\n                           "
-get_alist_entry 25
-printf ')\n'
+  printf ')\n'
+}
+
+echo 'Creating poke-pokemon-types.el...'
+create_file > poke-pokemon-types.el
+echo 'Complete!'
