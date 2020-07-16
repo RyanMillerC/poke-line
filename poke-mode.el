@@ -41,7 +41,7 @@
 
 (load-file (concat +poke-directory+ "pokemon-types.el"))
 
-(defconst +poke-background-image+ (concat +poke-directory+ "img/background.xpm"))
+(defconst +poke-background-image+ (concat +poke-directory+ "img/background.png"))
 
 (defconst +poke-modeline-help-string+ "Gotta catch 'em all!\nmouse-1: Scroll buffer position")
 
@@ -94,13 +94,13 @@ Minimum of 3 units are required for poke-mode."
   :group 'poke)
 
 (defun poke-get-pokemon ()
-  "Get path to Pokemon XPM image."
-  (concat +poke-directory+ "img/pokemon/" poke-pokemon ".xpm"))
+  "Get path to Pokemon PNG image."
+  (concat +poke-directory+ "img/pokemon/" poke-pokemon ".png"))
 
 (defun poke-get-element ()
-  "Get path to Pokemon XPM image."
+  "Get path to Pokemon PNG image."
   (setq poke-pokemon-type (poke-get-type))
-  (concat +poke-directory+ "img/elements/" poke-pokemon-type ".xpm"))
+  (concat +poke-directory+ "img/elements/" poke-pokemon-type ".png"))
 
 (defun poke-number-of-elements ()
   "Calculate number of elements."
@@ -131,24 +131,24 @@ Minimum of 3 units are required for poke-mode."
     (let* ((elements (poke-number-of-elements))
       (backgrounds (- poke-bar-length elements +poke-size+))
       (element-string "")
-      (xpm-support (image-type-available-p 'xpm))
-      (pokemon-string (propertize "|||" 'display (create-image (poke-get-pokemon) 'xpm nil :ascent 'center)))
+      (png-support (image-type-available-p 'png))
+      (pokemon-string (propertize "|||" 'display (create-image (poke-get-pokemon) 'png nil :ascent 'center)))
       (background-string "")
       (buffer (current-buffer)))
       (dotimes (number elements)
         (setq element-string
           (concat element-string
             (poke-add-scroll-handler
-              (if xpm-support
-                  (propertize "|" 'display (create-image (poke-get-element) 'xpm nil :ascent 'center))
+              (if png-support
+                  (propertize "|" 'display (create-image (poke-get-element) 'png nil :ascent 'center))
                 "|")
               (/ (float number) poke-bar-length) buffer))))
         (dotimes (number backgrounds)
           (setq background-string
             (concat background-string
               (poke-add-scroll-handler
-                (if xpm-support
-                    (propertize "-" 'display (create-image +poke-background-image+ 'xpm nil :ascent 'center))
+                (if png-support
+                    (propertize "-" 'display (create-image +poke-background-image+ 'png nil :ascent 'center))
                   "-")
                 (/ (float (+ elements +poke-size+ number)) poke-bar-length) buffer))))
         ;; Compute Poke Cat string.
