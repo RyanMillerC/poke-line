@@ -39,7 +39,7 @@
 
 (defconst +poke-directory+ (file-name-directory (or load-file-name buffer-file-name)))
 
-(load-file (concat +poke-directory+ "poke-pokemon-types.el"))
+(load-file (concat +poke-directory+ "pokemon-types.el"))
 
 (defconst +poke-background-image+ (concat +poke-directory+ "img/background.xpm"))
 
