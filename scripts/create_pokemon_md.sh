@@ -20,6 +20,8 @@ using this list if you run into issues setting poke-mode to a particular value.
 
 ## Pokemon List
 
+| Pokedex ID | Pokemon Name | Sprite |
+| ---------- | ------------ | ------ |
 EOF
 
 get_pokemon_data() {
@@ -28,12 +30,11 @@ get_pokemon_data() {
     pokemon_name=$(jq -r ".[${index}].name" pokemon-data.json)
     pokemon_type=$(jq -r ".[${index}].type" pokemon-data.json)
     pokemon_image_file_name=$(echo "${pokemon_name}" | sed 's/ /\&#32;/')
-    echo "* #${pokemon_id}: \`${pokemon_name}\`"
-    printf "  * ![${pokemon_name}](/img/pokemon/${pokemon_image_file_name}.png)"
+    printf "| #${pokemon_id} | \`${pokemon_name}\` | ![${pokemon_name}](/img/pokemon/${pokemon_image_file_name}.png)"
     for ((element_counter=0; element_counter<10; element_counter++)) ; do
       printf "![-](/img/elements/${pokemon_type}.png)"
     done
-    echo ""
+    echo " |"
 }
 
 echo 'Adding data to Pokemon.md...'
