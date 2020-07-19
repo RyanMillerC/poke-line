@@ -4,6 +4,9 @@
 
 ![Demo GIF](/docs/demo.gif)
 
+Select from all 890 different Pokemon! Change Pokemon on the fly! (Can set a
+different Pokemon for each mode!)
+
 ## Usage
 
 `poke-mode` can be activated with:
