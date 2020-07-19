@@ -2,6 +2,8 @@
 
 > A Pokemon shows position in current buffer in mode-line.
 
+![Demo GIF](/docs/demo.gif)
+
 ## Usage
 
 `poke-mode` can be activated with:
