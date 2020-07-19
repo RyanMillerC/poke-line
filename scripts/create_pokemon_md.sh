@@ -28,7 +28,11 @@ get_pokemon_data() {
     pokemon_name=$(jq -r ".[${index}].name" pokemon-data.json)
     pokemon_type=$(jq -r ".[${index}].type" pokemon-data.json)
     echo "* #${pokemon_id}: \`${pokemon_name}\`"
-    echo "  * ![${pokemon_name}](/img/pokemon/${pokemon_name}.png)"
+    printf "  * ![${pokemon_name}](/img/pokemon/${pokemon_name}.png)"
+    for ((element_counter=0; element_counter<10; element_counter++)) ; do
+      printf "![](/img/element/${pokemon_type}.png)"
+    done
+    echo ""
 }
 
 echo 'Adding data to Pokemon.md...'
