@@ -1,6 +1,6 @@
 # Poke Mode
 
-> A Pokemon shows position in current buffer in mode-line.
+> A Pokemon shows position of current buffer in mode-line.
 
 ![Demo GIF](/docs/demo.gif)
 
@@ -20,4 +20,4 @@ Pokemon sprites were obtained from [PokemonDB.net](https://img.pokemondb.net/spr
 and processed with [this tool](https://github.com/RyanMillerC/poke-position-images).
 
 Pokémon is property of Nintendo/Creatures Inc./GAME FREAK inc.
-- [Legal Information](https://www.pokemon.com/us/legal/)
+[Legal Information](https://www.pokemon.com/us/legal/)
