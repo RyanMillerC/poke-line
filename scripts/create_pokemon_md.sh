@@ -40,7 +40,7 @@ get_pokemon_data() {
 echo 'Adding data to Pokemon.md...'
 number_of_pokemon=$(jq '. | length' pokemon-data.json)
 for ((iterator=0; iterator<number_of_pokemon; iterator++)) ; do
-    echo "Processing Pokemon $((iterator+1)) of $((number_of_pokemon+1))..."
+    echo "Processing Pokemon $((iterator+1)) of $((number_of_pokemon))..."
     get_pokemon_data "${iterator}" >> Pokemon.md
 done
 echo '' >> Pokemon.md
