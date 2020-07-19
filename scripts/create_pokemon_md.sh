@@ -27,8 +27,9 @@ get_pokemon_data() {
     pokemon_id=$(jq -r ".[${index}].id" pokemon-data.json)
     pokemon_name=$(jq -r ".[${index}].name" pokemon-data.json)
     pokemon_type=$(jq -r ".[${index}].type" pokemon-data.json)
+    pokemon_image_file_name=$(echo "${pokemon_name}" | sed 's/ /\&#32;/')
     echo "* #${pokemon_id}: \`${pokemon_name}\`"
-    printf "  * ![${pokemon_name}](/img/pokemon/${pokemon_name}.png)"
+    printf "  * ![${pokemon_name}](/img/pokemon/${pokemon_image_file_name}.png)"
     for ((element_counter=0; element_counter<10; element_counter++)) ; do
       printf "![-](/img/elements/${pokemon_type}.png)"
     done
