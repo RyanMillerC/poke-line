@@ -30,7 +30,7 @@ get_pokemon_data() {
     echo "* #${pokemon_id}: \`${pokemon_name}\`"
     printf "  * ![${pokemon_name}](/img/pokemon/${pokemon_name}.png)"
     for ((element_counter=0; element_counter<10; element_counter++)) ; do
-      printf "![](/img/element/${pokemon_type}.png)"
+      printf "![-](/img/element/${pokemon_type}.png)"
     done
     echo ""
 }
