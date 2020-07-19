@@ -12,7 +12,12 @@
 (poke-mode 1)
 ```
 
-## Details
+## Credits
 
-Pokemon sprites were obtained from [PokemonDB](https://img.pokemondb.net/sprites/)
+Software was inspired and forked from [nyan-mode](https://github.com/TeMPOraL/nyan-mode).
+
+Pokemon sprites were obtained from [PokemonDB.net](https://img.pokemondb.net/sprites/)
 and processed with [this tool](https://github.com/RyanMillerC/poke-position-images).
+
+Pokémon is property of Nintendo/Creatures Inc./GAME FREAK inc.
+- [Legal Information](https://www.pokemon.com/us/legal/)
