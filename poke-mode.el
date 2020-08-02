@@ -1,4 +1,4 @@
-;;; poke-mode.el --- A Pokemon shows position in current buffer in mode-line -*- lexical-binding: t; -*-
+;;; poke-mode.el --- Minor Emacs mode to show position in a buffer using a Pokemon -*- lexical-binding: t; -*-
 
 ;; Author: Ryan Miller <ryan@devopsmachine.com>
 ;; URL: https://github.com/RyanMillerC/poke-mode/
@@ -25,6 +25,8 @@
 ;;; Commentary:
 
 ;; To activate, load and put `(poke-mode 1)' in your init file.
+
+;; You can change pokemon with `(poke-set-pokemon "charmander")'.
 
 ;; You can click on the position bar (or the empty space) to scroll
 ;; your buffer!
