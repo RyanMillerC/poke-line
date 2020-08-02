@@ -48,7 +48,8 @@
 (defconst +poke-size+ 3)
 
 (defvar poke-old-car-mode-line-position nil)
-(defvar poke-pokemon-type nil)
+(defvar poke-active-pokemon nil)
+(defvar poke-active-pokemon-type nil)
 
 (defgroup poke nil
   "Customization group for `poke-mode'."
@@ -62,20 +63,21 @@ Intended to be called when customizations were changed, to reapply them immediat
       (poke-mode -1)
       (poke-mode 1))))
 
-(defun poke-get-type ()
-  "Get name of Pokemon type."
-  (cdr (assoc poke-pokemon poke-pokemon-types)))
+(defun poke-get-pokemon-type ()
+  "Get the current Pokemon's type."
+  (cdr (assoc poke-active-pokemon poke-pokemon-types)))
 
 (defun set-pokemon (pokemon)
+  "Set the active 'POKEMON for poke-mode."
   (interactive "sWhich Pokemon would you like to set? ")
   (if (car (assoc pokemon poke-pokemon-types))
       (progn
-        (set-default 'poke-pokemon pokemon)
+        (set-default 'poke-active-pokemon pokemon)
         (poke-refresh)
         (message "Pokemon set to %s" pokemon))
     (message "Couldn't find Pokemon \"%s\". See poke-mode repo for Pokemon names." pokemon)))
 
-(defcustom poke-pokemon "pikachu"
+(defcustom poke-active-pokemon "pikachu"
   "Pokemon to display."
   :type 'string
   :set (lambda (sym val)
@@ -104,12 +106,12 @@ Minimum of 3 units are required for poke-mode."
 
 (defun poke-get-pokemon ()
   "Get path to Pokemon PNG image."
-  (concat +poke-directory+ "img/pokemon/" poke-pokemon ".png"))
+  (concat +poke-directory+ "img/pokemon/" poke-active-pokemon ".png"))
 
 (defun poke-get-element ()
   "Get path to Pokemon PNG image."
-  (setq poke-pokemon-type (poke-get-type))
-  (concat +poke-directory+ "img/elements/" poke-pokemon-type ".png"))
+  (setq poke-active-pokemon-type (poke-get-pokemon-type))
+  (concat +poke-directory+ "img/elements/" poke-active-pokemon-type ".png"))
 
 (defun poke-number-of-elements ()
   "Calculate number of elements."
