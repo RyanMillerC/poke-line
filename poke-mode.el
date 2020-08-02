@@ -66,6 +66,15 @@ Intended to be called when customizations were changed, to reapply them immediat
   "Get name of Pokemon type."
   (cdr (assoc poke-pokemon poke-pokemon-types)))
 
+(defun set-pokemon (pokemon)
+  (interactive "sWhich Pokemon would you like to set? ")
+  (if (car (assoc pokemon poke-pokemon-types))
+      (progn
+        (set-default 'poke-pokemon pokemon)
+        (poke-refresh)
+        (message "Pokemon set to %s" pokemon))
+    (message "Couldn't find Pokemon \"%s\". See poke-mode repo for Pokemon names." pokemon)))
+
 (defcustom poke-pokemon "pikachu"
   "Pokemon to display."
   :type 'string
