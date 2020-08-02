@@ -51,12 +51,13 @@ See [this page](docs/pokemon.md) for a list of available Pokemon.
 
 ## Customization
 
-poke-mode allows for two custom values to be set. Both values either need to be
-set before starting poke-mode or `poke-refresh` must be called to re-read them.
+poke-mode allows for two custom variables to be set. If either variable is
+updated after starting poke-mode, `poke-refresh` must be called to refresh
+their values them.
 
 ### poke-minimum-window-width
 
-Minimum width of the window, below which poke-mode will not be displayed.  This
+Minimum width of the window, below which poke-mode will not be displayed. This
 is important because poke-mode will push out all informations from small
 windows.
 
