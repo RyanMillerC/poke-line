@@ -119,7 +119,7 @@ Minimum of 3 units are required for poke-mode."
 
 (defun poke-add-scroll-handler (string percentage buffer)
   "Propertize `STRING' to scroll `BUFFER' to `PERCENTAGE' on click."
-  (lexical-let ((percentage percentage)
+  (let ((percentage percentage)
                  (buffer buffer))
     (propertize string 'keymap `(keymap (mode-line keymap (down-mouse-1 . ,(lambda () (interactive) (poke-scroll-buffer percentage buffer))))))))
 
