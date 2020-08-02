@@ -25,7 +25,7 @@ create_file() {
     get_alist_entry "${iterator}"
   done
 
-  printf ')\n'
+  printf '))\n'
 }
 
 echo 'Creating poke-mode-types.el...'

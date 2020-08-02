@@ -887,4 +887,4 @@
                            ("dragapult" . "dragon")
                            ("zacian" . "fairy")
                            ("zamazenta" . "fighting")
-                           ("eternatus" . "poison"))
+                           ("eternatus" . "poison")))
