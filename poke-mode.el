@@ -47,7 +47,7 @@
 (defvar poke-old-car-mode-line-position nil)
 
 ;; Load required package for Pokemon type data
-(load-file (concat poke-directory "pokemon-types.el"))
+(load-file (concat poke-directory "poke-mode-types.el"))
 
 (defun poke-refresh ()
   "Refresh poke-mode.
