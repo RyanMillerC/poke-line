@@ -44,6 +44,7 @@ Easily set the default Pokemon in your config with use-package:
 (use-package poke-mode
   :ensure t
   :config
+  (poke-mode 1)
   (poke-set-pokemon "gengar"))
 ```
 
