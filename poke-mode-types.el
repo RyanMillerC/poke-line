@@ -919,4 +919,6 @@
                            ("zamazenta" . "fighting")
                            ("eternatus" . "poison")))
 
+(provide 'poke-mode-types)
+
 ;;; poke-mode-types.el ends here

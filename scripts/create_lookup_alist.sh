@@ -60,6 +60,13 @@ for ((iterator=1; iterator<number_of_pokemon; iterator++)) ; do
   get_alist_entry "${iterator}" >> poke-mode-types.el
 done
 
-printf '))\n\n;;; poke-mode-types.el ends here\n' >> poke-mode-types.el
+printf '))\n' >> poke-mode-types.el
+
+cat >> poke-mode-types.el <<'EOF'
+
+(provide 'poke-mode-types)
+
+;;; poke-mode-types.el ends here
+EOF
 
 echo 'Complete!'
