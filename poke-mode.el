@@ -1,4 +1,4 @@
-;;; poke-mode.el --- A Pokemon shows position in current buffer in mode-line
+;;; poke-mode.el --- A Pokemon shows position in current buffer in mode-line -*- lexical-binding: t; -*-
 
 ;; Author: Ryan Miller <ryan@devopsmachine.com>
 ;; URL: https://github.com/RyanMillerC/poke-mode/
