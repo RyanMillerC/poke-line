@@ -1,9 +1,9 @@
-;;; poke-mode.el --- A Pokemon shows position in current buffer in mode-line.
+;;; poke-mode.el --- A Pokemon shows position in current buffer in mode-line
 
 ;; Author: Ryan Miller <ryan@devopsmachine.com>
 ;; URL: https://github.com/RyanMillerC/poke-mode/
-;; Version: 0.0.1
-;; Keywords: pokemon, fun, mode-line
+;; Version: 1.0.0
+;; Keywords: pokemon, fun, mode-line, mouse
 
 ;; This file is not part of GNU Emacs.
 
@@ -35,19 +35,19 @@
 
 ;;; Code:
 
-(eval-when-compile (require 'cl))
+(require 'cl-lib)
 
-(defconst +poke-directory+ (file-name-directory (or load-file-name buffer-file-name)))
-
-(load-file (concat +poke-directory+ "pokemon-types.el"))
-
-(defconst +poke-background-image+ (concat +poke-directory+ "img/background.png"))
-(defconst +poke-modeline-help-string+ "Gotta catch 'em all!\nmouse-1: Scroll buffer position")
-(defconst +poke-size+ 3)
+(defconst poke-directory (file-name-directory (or load-file-name buffer-file-name)))
+(defconst poke-background-image (concat poke-directory "img/background.png"))
+(defconst poke-modeline-help-string "Gotta catch 'em all!\nmouse-1: Scroll buffer position")
+(defconst poke-size 3)
 
 (defvar poke-active-pokemon nil)
 (defvar poke-active-pokemon-type nil)
 (defvar poke-old-car-mode-line-position nil)
+
+;; Load required package for Pokemon type data
+(load-file (concat poke-directory "pokemon-types.el"))
 
 (defun poke-refresh ()
   "Refresh poke-mode.
@@ -57,8 +57,8 @@ Intended to be called when customizations were changed, to reapply them immediat
       (poke-mode -1)
       (poke-mode 1))))
 
-(defun set-pokemon (pokemon)
-  "Set the active 'POKEMON for poke-mode."
+(defun poke-set-pokemon (pokemon)
+  "Set the active `POKEMON' for `poke-mode'."
   (interactive "sWhich Pokemon would you like to set? ")
   (if (car (assoc pokemon poke-pokemon-types))
       (progn
@@ -69,7 +69,7 @@ Intended to be called when customizations were changed, to reapply them immediat
     (message "Couldn't find Pokemon \"%s\". See poke-mode repo for Pokemon names." pokemon)))
 
 ;; Set default Pokemon
-(set-pokemon "charmander")
+(poke-set-pokemon "charmander")
 
 (defgroup poke nil
   "Customization group for `poke-mode'."
@@ -96,11 +96,11 @@ Minimum of 3 units are required for poke-mode."
 
 (defun poke-get-pokemon-image ()
   "Get path to Pokemon PNG image."
-  (concat +poke-directory+ "img/pokemon/" poke-active-pokemon ".png"))
+  (concat poke-directory "img/pokemon/" poke-active-pokemon ".png"))
 
 (defun poke-get-element-image ()
   "Get path to Pokemon PNG image."
-  (concat +poke-directory+ "img/elements/" poke-active-pokemon-type ".png"))
+  (concat poke-directory "img/elements/" poke-active-pokemon-type ".png"))
 
 (defun poke-number-of-elements ()
   "Calculate number of elements."
@@ -108,7 +108,7 @@ Minimum of 3 units are required for poke-mode."
                         (/ (- (float (point))
                              (float (point-min)))
                           (float (point-max)))))
-              (- poke-bar-length +poke-size+))
+              (- poke-bar-length poke-size))
            100)))
 
 (defun poke-scroll-buffer (percentage buffer)
@@ -129,7 +129,7 @@ Minimum of 3 units are required for poke-mode."
   (if (< (window-width) poke-minimum-window-width)
       "" ; Disable for small windows
     (let* ((elements (poke-number-of-elements))
-      (backgrounds (- poke-bar-length elements +poke-size+))
+      (backgrounds (- poke-bar-length elements poke-size))
       (element-string "")
       (png-support (image-type-available-p 'png))
       (pokemon-string (propertize "|||" 'display (create-image (poke-get-pokemon-image) 'png nil :ascent 'center)))
@@ -148,16 +148,16 @@ Minimum of 3 units are required for poke-mode."
             (concat background-string
               (poke-add-scroll-handler
                 (if png-support
-                    (propertize "-" 'display (create-image +poke-background-image+ 'png nil :ascent 'center))
+                    (propertize "-" 'display (create-image poke-background-image 'png nil :ascent 'center))
                   "-")
-                (/ (float (+ elements +poke-size+ number)) poke-bar-length) buffer))))
+                (/ (float (+ elements poke-size number)) poke-bar-length) buffer))))
       ;; Compute Poke Cat string.
       (propertize
         (concat
           pokemon-string
           element-string
           background-string)
-        'help-echo +poke-modeline-help-string+))))
+        'help-echo poke-modeline-help-string))))
 
 ;;;###autoload
 (define-minor-mode poke-mode

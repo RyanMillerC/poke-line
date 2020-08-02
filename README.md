@@ -35,7 +35,7 @@ poke-mode can be activated with:
 The active pokemon can be swapped out at any time with:
 
 ```elisp
-(set-pokemon "charmander")
+(poke-set-pokemon "charmander")
 ```
 
 Easily set the default Pokemon in your config with use-package:
@@ -44,7 +44,7 @@ Easily set the default Pokemon in your config with use-package:
 (use-package poke-mode
   :ensure t
   :config
-  (set-pokemon "gengar"))
+  (poke-set-pokemon "gengar"))
 ```
 
 See [this page](docs/pokemon.md) for a list of available Pokemon.
