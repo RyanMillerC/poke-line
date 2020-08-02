@@ -3,7 +3,7 @@
 ;; Author: Ryan Miller <ryan@devopsmachine.com>
 ;; URL: https://github.com/RyanMillerC/poke-mode/
 ;; Version: 0.0.1
-;; Keywords: pokemon, charizard, fun, mode-line
+;; Keywords: pokemon, fun, mode-line
 
 ;; This file is not part of GNU Emacs.
 
@@ -42,18 +42,12 @@
 (load-file (concat +poke-directory+ "pokemon-types.el"))
 
 (defconst +poke-background-image+ (concat +poke-directory+ "img/background.png"))
-
 (defconst +poke-modeline-help-string+ "Gotta catch 'em all!\nmouse-1: Scroll buffer position")
-
 (defconst +poke-size+ 3)
 
-(defvar poke-old-car-mode-line-position nil)
 (defvar poke-active-pokemon nil)
 (defvar poke-active-pokemon-type nil)
-
-(defgroup poke nil
-  "Customization group for `poke-mode'."
-  :group 'frames)
+(defvar poke-old-car-mode-line-position nil)
 
 (defun poke-refresh ()
   "Refresh poke-mode.
@@ -63,27 +57,23 @@ Intended to be called when customizations were changed, to reapply them immediat
       (poke-mode -1)
       (poke-mode 1))))
 
-(defun poke-get-pokemon-type ()
-  "Get the current Pokemon's type."
-  (cdr (assoc poke-active-pokemon poke-pokemon-types)))
-
 (defun set-pokemon (pokemon)
   "Set the active 'POKEMON for poke-mode."
   (interactive "sWhich Pokemon would you like to set? ")
   (if (car (assoc pokemon poke-pokemon-types))
       (progn
         (set-default 'poke-active-pokemon pokemon)
+        (set-default 'poke-active-pokemon-type (cdr (assoc pokemon poke-pokemon-types)))
         (poke-refresh)
         (message "Pokemon set to %s" pokemon))
     (message "Couldn't find Pokemon \"%s\". See poke-mode repo for Pokemon names." pokemon)))
 
-(defcustom poke-active-pokemon "pikachu"
-  "Pokemon to display."
-  :type 'string
-  :set (lambda (sym val)
-         (set-default sym val)
-         (poke-refresh))
-  :group 'poke)
+;; Set default Pokemon
+(set-pokemon "charmander")
+
+(defgroup poke nil
+  "Customization group for `poke-mode'."
+  :group 'frames)
 
 (defcustom poke-minimum-window-width 64
   "Minimum width of the window, below which poke-mode will not be displayed.
@@ -104,13 +94,12 @@ Minimum of 3 units are required for poke-mode."
          (poke-refresh))
   :group 'poke)
 
-(defun poke-get-pokemon ()
+(defun poke-get-pokemon-image ()
   "Get path to Pokemon PNG image."
   (concat +poke-directory+ "img/pokemon/" poke-active-pokemon ".png"))
 
-(defun poke-get-element ()
+(defun poke-get-element-image ()
   "Get path to Pokemon PNG image."
-  (setq poke-active-pokemon-type (poke-get-pokemon-type))
   (concat +poke-directory+ "img/elements/" poke-active-pokemon-type ".png"))
 
 (defun poke-number-of-elements ()
@@ -143,7 +132,7 @@ Minimum of 3 units are required for poke-mode."
       (backgrounds (- poke-bar-length elements +poke-size+))
       (element-string "")
       (png-support (image-type-available-p 'png))
-      (pokemon-string (propertize "|||" 'display (create-image (poke-get-pokemon) 'png nil :ascent 'center)))
+      (pokemon-string (propertize "|||" 'display (create-image (poke-get-pokemon-image) 'png nil :ascent 'center)))
       (background-string "")
       (buffer (current-buffer)))
       (dotimes (number elements)
@@ -151,7 +140,7 @@ Minimum of 3 units are required for poke-mode."
           (concat element-string
             (poke-add-scroll-handler
               (if png-support
-                  (propertize "|" 'display (create-image (poke-get-element) 'png nil :ascent 'center))
+                  (propertize "|" 'display (create-image (poke-get-element-image) 'png nil :ascent 'center))
                 "|")
               (/ (float number) poke-bar-length) buffer))))
         (dotimes (number backgrounds)
@@ -162,7 +151,7 @@ Minimum of 3 units are required for poke-mode."
                     (propertize "-" 'display (create-image +poke-background-image+ 'png nil :ascent 'center))
                   "-")
                 (/ (float (+ elements +poke-size+ number)) poke-bar-length) buffer))))
-        ;; Compute Poke Cat string.
+      ;; Compute Poke Cat string.
       (propertize
         (concat
           pokemon-string
@@ -172,7 +161,7 @@ Minimum of 3 units are required for poke-mode."
 
 ;;;###autoload
 (define-minor-mode poke-mode
-  "Use Pokemon to show buffer size and position in mode-line.
+  "Use Pokemon to show buffer position in mode-line.
 You can customize this minor mode, see option `poke-mode'.
 
 Note: If you turn this mode on then you probably want to turn off
