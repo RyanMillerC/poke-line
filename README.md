@@ -32,10 +32,45 @@ poke-mode can be activated with:
 (poke-mode 1)
 ```
 
-The active pokemon can be swapped out with:
+The active pokemon can be swapped out at any time with:
 
 ```elisp
 (set-pokemon "charmander")
+```
+
+Easily set the default Pokemon in your config with use-package:
+
+```elisp
+(use-package poke-mode
+  :ensure t
+  :config
+  (set-pokemon "gengar"))
+```
+
+See [this page](docs/pokemon.md) for a list of available Pokemon.
+
+## Customization
+
+poke-mode allows for two custom values to be set. Both values either need to be
+set before starting poke-mode or `poke-refresh` must be called to re-read them.
+
+### poke-minimum-window-width
+
+Minimum width of the window, below which poke-mode will not be displayed.  This
+is important because poke-mode will push out all informations from small
+windows.
+
+```elisp
+(setq poke-minimum-window-width 64)
+```
+
+### poke-bar-length
+
+Length of Poke element bar in units.  Each unit is equal to an 8px image.
+Minimum of 3 units are required for poke-mode.
+
+```elisp
+(setq poke-bar-length 32)
 ```
 
 ## Credits
