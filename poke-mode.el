@@ -1,7 +1,7 @@
 ;;; poke-mode.el --- Minor mode to show position in a buffer using a Pokemon -*- lexical-binding: t; -*-
 
 ;; Author: Ryan Miller <ryan@devopsmachine.com>
-;; Package-Requires: (emacs "24.3")
+;; Package-Requires: ((emacs "24.3"))
 ;; Homepage: https://github.com/RyanMillerC/poke-mode/
 ;; Version: 1.0.0
 ;; Keywords: pokemon, fun, mode-line, mouse
