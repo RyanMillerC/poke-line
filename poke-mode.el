@@ -38,6 +38,7 @@
 ;;; Code:
 
 (require 'cl-lib)
+(require 'poke-mode-types)
 
 (defconst poke-directory (file-name-directory (or load-file-name buffer-file-name)))
 (defconst poke-background-image (concat poke-directory "img/background.png"))
@@ -47,9 +48,6 @@
 (defvar poke-active-pokemon nil)
 (defvar poke-active-pokemon-type nil)
 (defvar poke-old-car-mode-line-position nil)
-
-;; Load required package for Pokemon type data
-(load-file (concat poke-directory "poke-mode-types.el"))
 
 (defun poke-refresh ()
   "Refresh poke-mode.
