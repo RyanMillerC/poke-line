@@ -169,6 +169,7 @@ Note: If you turn this mode on then you probably want to turn off
 option `scroll-bar-mode'."
   :global t
   :group 'poke
+  :lighter " ◓"
   (cond (poke-mode
           (unless poke-old-car-mode-line-position
             (setq poke-old-car-mode-line-position (car mode-line-position)))
