@@ -37,7 +37,10 @@
 
 ;;; Code:
 
-(require 'cl-lib)
+(if (version<= emacs-version "24")
+    (error "poke-mode requires Emacs version 24 or higher")
+  (require 'cl-lib))
+
 (require 'poke-mode-types)
 
 (defconst poke-directory (file-name-directory (or load-file-name buffer-file-name)))
