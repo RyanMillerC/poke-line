@@ -51,12 +51,12 @@ get_alist_entry() {
 
 number_of_pokemon=$(jq '. | length' pokemon-data.json)
 echo "Processing Pokemon 1 of ${number_of_pokemon}"
-printf "(setq poke-pokemon-types '(" >> poke-mode-types.el
+printf "(defvar poke-pokemon-types '(" >> poke-mode-types.el
 get_alist_entry 0 >> poke-mode-types.el
 
 for ((iterator=1; iterator<number_of_pokemon; iterator++)) ; do
   echo "Processing Pokemon $((iterator+1)) of $((number_of_pokemon))..."
-  printf '\n                           ' >> poke-mode-types.el
+  printf '\n                             ' >> poke-mode-types.el
   get_alist_entry "${iterator}" >> poke-mode-types.el
 done
 
