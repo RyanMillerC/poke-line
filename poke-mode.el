@@ -1,4 +1,4 @@
-;;; poke-mode.el --- Minor Emacs mode to show position in a buffer using a Pokemon -*- lexical-binding: t; -*-
+;;; poke-mode.el --- Minor mode to show position in a buffer using a Pokemon -*- lexical-binding: t; -*-
 
 ;; Author: Ryan Miller <ryan@devopsmachine.com>
 ;; URL: https://github.com/RyanMillerC/poke-mode/
