@@ -58,16 +58,19 @@ Intended to be called when customizations were changed, to reapply them immediat
       (poke-mode -1)
       (poke-mode 1))))
 
-(defun poke-set-pokemon (pokemon)
-  "Set the active `POKEMON' for `poke-mode'."
-  (interactive "sWhich Pokemon would you like to set? ")
-  (if (car (assoc pokemon poke-pokemon-types))
-      (progn
-        (set-default 'poke-active-pokemon pokemon)
-        (set-default 'poke-active-pokemon-type (cdr (assoc pokemon poke-pokemon-types)))
-        (poke-refresh)
-        (message "Pokemon set to %s" pokemon))
-    (message "Couldn't find Pokemon \"%s\". See poke-mode repo for Pokemon names." pokemon)))
+(defun poke-set-pokemon (&optional name)
+  "Choose active Pokemon by NAME.
+Prompt for NAME if it is nil."
+  (interactive)
+  (let* ((choice (or name
+                     (completing-read "Who do you choose? "
+                                      (mapcar #'car poke-pokemon-types) nil 'require-match)))
+         (pokemon (assoc-string choice poke-pokemon-types)))
+    (unless pokemon (user-error "Couldn't find Pokemon \"%s\"" choice))
+    (set-default 'poke-active-pokemon (car pokemon))
+    (set-default 'poke-active-pokemon-type (cdr pokemon))
+    (poke-refresh)
+    (message "%s, I choose you!" (upcase-initials choice))))
 
 ;; Set default Pokemon
 (poke-set-pokemon "charmander")
