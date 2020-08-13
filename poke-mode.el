@@ -1,8 +1,8 @@
-;;; poke-mode.el --- Minor mode to show position in a buffer using a Pokemon -*- lexical-binding: t; -*-
+;;; poke-line.el --- Minor mode to show position in a buffer using a Pokemon -*- lexical-binding: t; -*-
 
 ;; Author: Ryan Miller <ryan@devopsmachine.com>
 ;; Package-Requires: ((emacs "24.3"))
-;; Homepage: https://github.com/RyanMillerC/poke-mode/
+;; Homepage: https://github.com/RyanMillerC/poke-line/
 ;; Version: 1.0.0
 ;; Keywords: pokemon, fun, mode-line, mouse
 
@@ -25,163 +25,161 @@
 
 ;;; Commentary:
 
-;; To activate, load and put `(poke-mode 1)' in your init file.
+;; To activate, load and put `(poke-line-mode 1)' in your init file.
 
-;; You can change pokemon with `(poke-set-pokemon "charmander")'.
+;; You can change pokemon with `(poke-line-set-pokemon "charmander")'.
 
 ;; You can click on the position bar (or the empty space) to scroll
 ;; your buffer!
 
-;; You can customize the minimum window width below which poke-mode
+;; You can customize the minimum window width below which poke-line
 ;; will be disabled, so that more important information can be shown
 ;; in the modeline.
 
 ;;; Code:
 
 (require 'cl-lib)
-(require 'poke-mode-types)
+(require 'poke-line-types)
 
-(defconst poke-directory (file-name-directory (or load-file-name buffer-file-name)))
-(defconst poke-background-image (concat poke-directory "img/background.png"))
-(defconst poke-modeline-help-string "Gotta catch 'em all!\nmouse-1: Scroll buffer position")
-(defconst poke-size 3)
+(defconst poke-line-directory (file-name-directory (or load-file-name buffer-file-name)))
+(defconst poke-line-background-image (concat poke-line-directory "img/background.png"))
+(defconst poke-line-modeline-help-string "Gotta catch 'em all!\nmouse-1: Scroll buffer position")
+(defconst poke-line-size 3)
 
-(defvar poke-active-pokemon nil)
-(defvar poke-active-pokemon-type nil)
-(defvar poke-old-car-mode-line-position nil)
+(defvar poke-line-active-pokemon nil)
+(defvar poke-line-active-pokemon-type nil)
+(defvar poke-line-old-car-mode-line-position nil)
 
-(defun poke-refresh ()
-  "Refresh poke-mode.
+(defun poke-line-refresh ()
+  "Refresh poke-line.
 Intended to be called when customizations were changed, to reapply them immediately."
-  (when (featurep 'poke-mode)
-    (when (and (boundp 'poke-mode) poke-mode)
-      (poke-mode -1)
-      (poke-mode 1))))
+  (when (featurep 'poke-line-mode)
+    (when (and (boundp 'poke-line-mode) poke-line-mode)
+      (poke-line-mode -1)
+      (poke-line-mode 1))))
 
-(defun poke-set-pokemon (&optional name)
+(defun poke-line-set-pokemon (&optional name)
   "Choose active Pokemon by NAME.
 Prompt for NAME if it is nil."
   (interactive)
   (let* ((choice (or name
                      (completing-read "Who do you choose? "
-                                      (mapcar #'car poke-pokemon-types) nil 'require-match)))
-         (pokemon (assoc-string choice poke-pokemon-types)))
+                                      (mapcar #'car poke-line-pokemon-types) nil 'require-match)))
+         (pokemon (assoc-string choice poke-line-pokemon-types)))
     (unless pokemon (user-error "Couldn't find Pokemon \"%s\"" choice))
-    (set-default 'poke-active-pokemon (car pokemon))
-    (set-default 'poke-active-pokemon-type (cdr pokemon))
-    (poke-refresh)
+    (set-default 'poke-line-active-pokemon (car pokemon))
+    (set-default 'poke-line-active-pokemon-type (cdr pokemon))
+    (poke-line-refresh)
     (message "%s, I choose you!" (upcase-initials choice))))
 
 ;; Set default Pokemon
-(poke-set-pokemon "charmander")
+(poke-line-set-pokemon "charmander")
 
-(defgroup poke nil
-  "Customization group for `poke-mode'."
+(defgroup poke-line nil
+  "Customization group for `poke-line'."
   :group 'frames)
 
-(defcustom poke-minimum-window-width 64
-  "Minimum width of the window, below which poke-mode will not be displayed.
-This is important because poke-mode will push out all informations from small windows."
+(defcustom poke-line-minimum-window-width 64
+  "Minimum width of the window, below which poke-line will not be displayed.
+This is important because poke-line will push out all informations from small windows."
   :type 'integer
   :set (lambda (sym val)
          (set-default sym val)
-         (poke-refresh))
+         (poke-line-refresh))
   :group 'poke)
 
-(defcustom poke-bar-length 32
+(defcustom poke-line-bar-length 32
   "Length of Poke element bar in units.
 Each unit is equal to an 8px image.
-Minimum of 3 units are required for poke-mode."
+Minimum of 3 units are required for poke-line."
   :type 'integer
   :set (lambda (sym val)
          (set-default sym val)
-         (poke-refresh))
+         (poke-line-refresh))
   :group 'poke)
 
-(defun poke-get-pokemon-image ()
+(defun poke-line-get-pokemon-image ()
   "Get path to Pokemon PNG image."
-  (concat poke-directory "img/pokemon/" poke-active-pokemon ".png"))
+  (concat poke-line-directory "img/pokemon/" poke-line-active-pokemon ".png"))
 
-(defun poke-get-element-image ()
+(defun poke-line-get-element-image ()
   "Get path to Pokemon PNG image."
-  (concat poke-directory "img/elements/" poke-active-pokemon-type ".png"))
+  (concat poke-line-directory "img/elements/" poke-line-active-pokemon-type ".png"))
 
-(defun poke-number-of-elements ()
+(defun poke-line-number-of-elements ()
   "Calculate number of elements."
   (round (/ (* (round (* 100
                         (/ (- (float (point))
                              (float (point-min)))
                           (float (point-max)))))
-              (- poke-bar-length poke-size))
+              (- poke-line-bar-length poke-line-size))
            100)))
 
-(defun poke-scroll-buffer (percentage buffer)
+(defun poke-line-scroll-buffer (percentage buffer)
   "Move point `BUFFER' to `PERCENTAGE' percent in the buffer."
   (interactive)
   (with-current-buffer buffer
     (goto-char (floor (* percentage (point-max))))))
 
-(defun poke-add-scroll-handler (string percentage buffer)
+(defun poke-line-add-scroll-handler (string percentage buffer)
   "Propertize `STRING' to scroll `BUFFER' to `PERCENTAGE' on click."
-  (let ((percentage percentage)
-                 (buffer buffer))
-    (propertize string 'keymap `(keymap (mode-line keymap (down-mouse-1 . ,(lambda () (interactive) (poke-scroll-buffer percentage buffer))))))))
+  (let ((percentage percentage) (buffer buffer))
+    (propertize string 'keymap `(keymap (mode-line keymap (down-mouse-1 . ,(lambda () (interactive) (poke-line-scroll-buffer percentage buffer))))))))
 
-(defun poke-create ()
+(defun poke-line-create ()
   "Return the Pokemon indicator to be inserted into mode line."
   (setq debug-on-error t)
-  (if (< (window-width) poke-minimum-window-width)
+  (if (< (window-width) poke-line-minimum-window-width)
       "" ; Disable for small windows
-    (let* ((elements (poke-number-of-elements))
-      (backgrounds (- poke-bar-length elements poke-size))
-      (element-string "")
-      (png-support (image-type-available-p 'png))
-      (pokemon-string (propertize "|||" 'display (create-image (poke-get-pokemon-image) 'png nil :ascent 'center)))
-      (background-string "")
-      (buffer (current-buffer)))
-      (dotimes (number elements)
-        (setq element-string
-          (concat element-string
-            (poke-add-scroll-handler
-              (if png-support
-                  (propertize "|" 'display (create-image (poke-get-element-image) 'png nil :ascent 'center))
-                "|")
-              (/ (float number) poke-bar-length) buffer))))
-        (dotimes (number backgrounds)
-          (setq background-string
-            (concat background-string
-              (poke-add-scroll-handler
-                (if png-support
-                    (propertize "-" 'display (create-image poke-background-image 'png nil :ascent 'center))
-                  "-")
-                (/ (float (+ elements poke-size number)) poke-bar-length) buffer))))
+    (let* ((elements (poke-line-number-of-elements))
+           (backgrounds (- poke-line-bar-length elements poke-line-size))
+           (element-string "")
+           (png-support (image-type-available-p 'png))
+           (pokemon-string (propertize "|||" 'display (create-image (poke-line-get-pokemon-image) 'png nil :ascent 'center)))
+           (background-string "")
+           (buffer (current-buffer)))
+           (dotimes (number elements)
+             (setq element-string
+               (concat element-string
+                 (poke-line-add-scroll-handler
+                   (if png-support
+                       (propertize "|" 'display (create-image (poke-line-get-element-image) 'png nil :ascent 'center))
+                     "|")
+                   (/ (float number) poke-line-bar-length) buffer))))
+             (dotimes (number backgrounds)
+               (setq background-string
+                 (concat background-string
+                   (poke-line-add-scroll-handler
+                     (if png-support
+                         (propertize "-" 'display (create-image poke-line-background-image 'png nil :ascent 'center))
+                       "-")
+                     (/ (float (+ elements poke-line-size number)) poke-line-bar-length) buffer))))
       ;; Compute Poke Cat string.
       (propertize
         (concat
           pokemon-string
           element-string
           background-string)
-        'help-echo poke-modeline-help-string))))
+        'help-echo poke-line-modeline-help-string))))
 
 ;;;###autoload
-(define-minor-mode poke-mode
+(define-minor-mode poke-line-mode
   "Use Pokemon to show buffer position in mode-line.
-You can customize this minor mode, see option `poke-mode'.
+You can customize this minor mode, see option `poke-line-mode'.
 
 Note: If you turn this mode on then you probably want to turn off
 option `scroll-bar-mode'."
   :global t
-  :group 'poke
-  (cond (poke-mode
-          (unless poke-old-car-mode-line-position
-            (setq poke-old-car-mode-line-position (car mode-line-position)))
-          (poke-create)
-          (setcar mode-line-position '(:eval (list (poke-create)))))
-        ((not poke-mode)
-          (setcar mode-line-position poke-old-car-mode-line-position)
-          (setq poke-old-car-mode-line-position nil))))
+  :group 'poke-line
+  (cond (poke-line-mode
+          (unless poke-line-old-car-mode-line-position
+            (setq poke-line-old-car-mode-line-position (car mode-line-position)))
+          (poke-line-create)
+          (setcar mode-line-position '(:eval (list (poke-line-create)))))
+        ((not poke-line-mode)
+          (setcar mode-line-position poke-line-old-car-mode-line-position)
+          (setq poke-line-old-car-mode-line-position nil))))
 
+(provide 'poke-line)
 
-(provide 'poke-mode)
-
-;;; poke-mode.el ends here
+;;; poke-line.el ends here
