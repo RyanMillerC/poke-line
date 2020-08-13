@@ -1,4 +1,4 @@
-# poke-mode
+# poke-line
 
 > Minor Emacs mode to show position in a buffer using a Pokemon.
 
@@ -9,11 +9,11 @@ different Pokemon for each mode!
 
 ## Installation
 
-I highly recommended installing poke-mode with
+I highly recommended installing poke-line with
 [use-package](https://github.com/jwiegley/use-package):
 
 ```elisp
-(use-package poke-mode
+(use-package poke-line
   :ensure t)
 ```
 
@@ -21,58 +21,58 @@ Alternatively, this package can be installed with package-install
 and included in your initial config with:
 
 ```elisp
-(require 'poke-mode)
+(require 'poke-line)
 ```
 
 ## Usage
 
-poke-mode can be activated with:
+poke-line can be activated with:
 
 ```elisp
-(poke-mode 1)
+(poke-line-mode 1)
 ```
 
 The active pokemon can be swapped out at any time with:
 
 ```elisp
-(poke-set-pokemon "charmander")
+(poke-line-set-pokemon "charmander")
 ```
 
 Easily set the default Pokemon in your config with use-package:
 
 ```elisp
-(use-package poke-mode
+(use-package poke-line
   :ensure t
   :config
-  (poke-mode 1)
-  (poke-set-pokemon "gengar"))
+  (poke-line-mode 1)
+  (poke-line-set-pokemon "gengar"))
 ```
 
 See [this page](docs/pokemon.md) for a list of available Pokemon.
 
 ## Customization
 
-poke-mode allows for two custom variables to be set. If either variable is
-updated after starting poke-mode, `poke-refresh` must be called to refresh
-their values them.
+poke-line allows for two custom variables to be set. If either variable is
+updated after starting poke-line, `poke-line-refresh` must be called to
+refresh their values them.
 
-### poke-minimum-window-width
+### poke-line-minimum-window-width
 
-Minimum width of the window, below which poke-mode will not be displayed. This
-is important because poke-mode will push out all informations from small
+Minimum width of the window, below which poke-line-mode will not be displayed. This
+is important because poke-line-mode will push out all informations from small
 windows.
 
 ```elisp
-(setq poke-minimum-window-width 64)
+(setq poke-line-minimum-window-width 64)
 ```
 
-### poke-bar-length
+### poke-line-bar-length
 
 Length of Poke element bar in units.  Each unit is equal to an 8px image.
-Minimum of 3 units are required for poke-mode.
+Minimum of 3 units are required for poke-line.
 
 ```elisp
-(setq poke-bar-length 32)
+(setq poke-line-bar-length 32)
 ```
 
 ## Credits
