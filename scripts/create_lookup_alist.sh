@@ -8,12 +8,12 @@ POKEMON_DATA_URL='https://raw.githubusercontent.com/RyanMillerC/poke-position-im
 echo 'Downloading pokemon-data.json...'
 curl -s "${POKEMON_DATA_URL}" -o pokemon-data.json
 
-echo 'Creating poke-mode-types.el...'
-cat > poke-mode-types.el <<'EOF'
-;;; poke-mode-types.el --- Provides Pokemon types used by `poke-mode' -*- lexical-binding: t; -*-
+echo 'Creating poke-line-types.el...'
+cat > poke-line-types.el <<'EOF'
+;;; poke-line-types.el --- Provides Pokemon types used by `poke-line' -*- lexical-binding: t; -*-
 
 ;; Author: Ryan Miller <ryan@devopsmachine.com>
-;; URL: https://github.com/RyanMillerC/poke-mode/
+;; URL: https://github.com/RyanMillerC/poke-line/
 ;; Version: 1.0.0
 ;; Keywords: pokemon, fun, mode-line, mouse
 
@@ -36,7 +36,7 @@ cat > poke-mode-types.el <<'EOF'
 
 ;;; Commentary:
 
-;; This package is required by poke-mode to provide Pokemon types
+;; This package is required by poke-line to provide Pokemon types
 
 ;;; Code:
 
@@ -51,22 +51,22 @@ get_alist_entry() {
 
 number_of_pokemon=$(jq '. | length' pokemon-data.json)
 echo "Processing Pokemon 1 of ${number_of_pokemon}"
-printf "(defvar poke-pokemon-types '(" >> poke-mode-types.el
-get_alist_entry 0 >> poke-mode-types.el
+printf "(defvar poke-line-pokemon-types '(" >> poke-line-types.el
+get_alist_entry 0 >> poke-line-types.el
 
 for ((iterator=1; iterator<number_of_pokemon; iterator++)) ; do
   echo "Processing Pokemon $((iterator+1)) of $((number_of_pokemon))..."
-  printf '\n                             ' >> poke-mode-types.el
-  get_alist_entry "${iterator}" >> poke-mode-types.el
+  printf '\n                                  ' >> poke-line-types.el
+  get_alist_entry "${iterator}" >> poke-line-types.el
 done
 
-printf '))\n' >> poke-mode-types.el
+printf '))\n' >> poke-line-types.el
 
-cat >> poke-mode-types.el <<'EOF'
+cat >> poke-line-types.el <<'EOF'
 
-(provide 'poke-mode-types)
+(provide 'poke-line-types)
 
-;;; poke-mode-types.el ends here
+;;; poke-line-types.el ends here
 EOF
 
 echo 'Complete!'
