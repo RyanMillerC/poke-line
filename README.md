@@ -11,19 +11,24 @@ different Pokemon for each mode!
 
 ## Installation
 
-I highly recommended installing poke-line with
-[use-package](https://github.com/jwiegley/use-package):
+poke-line is available through MELPA. You will need to
+[enable MELPA](https://melpa.org/#/getting-started) in your Emacs
+configuration before installing poke-line.
+
+I recommend installing poke-line with
+[use-package](https://github.com/jwiegley/use-package) in your Emacs
+configuration:
 
 ```elisp
 (use-package poke-line
   :ensure t)
 ```
 
-Alternatively, this package can be installed with package-install
-and included in your initial config with:
+Alternatively, this package can be installed with
+package-install:
 
 ```elisp
-(require 'poke-line)
+M-x package-install RET poke-line
 ```
 
 ## Usage
@@ -34,10 +39,17 @@ poke-line can be activated with:
 (poke-line-mode 1)
 ```
 
-The active pokemon can be swapped out at any time with:
+The chosen Pokemon can be selected with:
 
 ```elisp
 (poke-line-set-pokemon "charmander")
+```
+
+The command above is also interactive so Pokemon can be swapped
+on the fly:
+
+```elisp
+M-x poke-line-set-pokemon "charmander"
 ```
 
 Easily set the default Pokemon in your config with use-package:
