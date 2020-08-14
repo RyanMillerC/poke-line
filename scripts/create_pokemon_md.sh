@@ -16,7 +16,7 @@ cat > docs/pokemon.md <<EOF
 
 This page contains images and lookup names for each Pokemon. Because some pokemon
 have unique names with special characters, it's a good idea to validate the name
-using this list if you run into issues setting poke-mode to a particular value.
+using this list if you run into issues setting poke-line to a particular value.
 
 ## Pokemon List
 
