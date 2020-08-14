@@ -54,12 +54,12 @@ See [this page](docs/pokemon.md) for a list of available Pokemon.
 
 poke-line allows for two custom variables to be set. If either variable is
 updated after starting poke-line, `poke-line-refresh` must be called to
-refresh their values them.
+refresh their values.
 
 ### poke-line-minimum-window-width
 
 Minimum width of the window, below which poke-line-mode will not be displayed. This
-is important because poke-line-mode will push out all informations from small
+is important because poke-line-mode will push out all information from small
 windows.
 
 ```elisp
