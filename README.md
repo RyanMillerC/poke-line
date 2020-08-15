@@ -2,7 +2,7 @@
 
 [![MELPA](https://melpa.org/packages/poke-line-badge.svg)](https://melpa.org/#/poke-line)
 
-> Minor Emacs mode to show position in a buffer using a Pokémon.
+> Minor Emacs mode to show buffer position using a Pokémon!
 
 ![Demo GIF](/docs/demo.gif)
 
