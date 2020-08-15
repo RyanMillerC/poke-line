@@ -37,9 +37,9 @@ get_pokemon_data() {
     echo "  <tr>"
     echo "    <td>${pokemon_id}</td>"
     echo "    <td>${pokemon_name}</td>"
-    printf "    <td>![${pokemon_name}](/img/pokemon/${pokemon_image_file_name}.png"
+    printf "    <td><img src=\"/img/pokemon/${pokemon_image_file_name}.png\" alt=\"${pokemon_name}\" />"
     for ((element_counter=0; element_counter<10; element_counter++)) ; do
-      printf "![-](/img/elements/${pokemon_type}.png)"
+      printf "<img src=\"/img/elements/${pokemon_type}.png\" alt=\"-\" />"
     done
     echo "</td>"
     echo "  </tr>"
