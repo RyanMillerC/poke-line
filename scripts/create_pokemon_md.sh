@@ -37,12 +37,11 @@ get_pokemon_data() {
     echo "  <tr>"
     echo "    <td align=\"center\">${pokemon_id}</td>"
     echo "    <td><code>${pokemon_name}</code></td>"
-    echo "    <td align=\"center\" nowrap>"
-    echo "      <img src=\"/img/pokemon/${pokemon_image_file_name}.png\" alt=\"${pokemon_name}\" />"
+    printf "    <td align=\"center\" nowrap><img src=\"/img/pokemon/${pokemon_image_file_name}.png\" alt=\"${pokemon_name}\" />"
     for ((element_counter=0; element_counter<10; element_counter++)) ; do
-      echo "      <img src=\"/img/elements/${pokemon_type}.png\" alt=\"-\" />"
+      printf "<img src=\"/img/elements/${pokemon_type}.png\" alt=\"-\" />"
     done
-    echo "    </td>"
+    echo "</td>"
     echo "  </tr>"
 }
 
