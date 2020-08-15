@@ -2,7 +2,7 @@
 
 # Pokémon Images
 
-This page contains images and lookup names for each Pokémon. Because some pokemon
+This page contains images and lookup names for each Pokémon. Because some Pokémon
 have unique names with special characters, it's a good idea to validate the name
 using this list if you run into issues setting poke-line to a particular value.
 
