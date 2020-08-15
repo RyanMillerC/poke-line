@@ -10,9 +10,9 @@ using this list if you run into issues setting poke-line to a particular value.
 
 <table>
   <tr>
-    <th width="35">Pokédex ID</td>
+    <th width="40">Pokédex ID</td>
     <th width="150">Pokémon Name</td>
-    <th width="130">Sprite</td>
+    <th width="150">Sprite</td>
   </tr>
   <tr>
     <td align="right">1</td>
