@@ -2,12 +2,12 @@
 
 [![MELPA](https://melpa.org/packages/poke-line-badge.svg)](https://melpa.org/#/poke-line)
 
-> Minor Emacs mode to show position in a buffer using a Pokemon.
+> Minor Emacs mode to show position in a buffer using a Pokémon.
 
 ![Demo GIF](/docs/demo.gif)
 
-Select from all 890 different Pokemon! Change Pokemon on the fly! Set a
-different Pokemon for each mode!
+Select from all 890 different Pokémon! Change Pokémon on the fly! Set a
+different Pokéeon for each mode!
 
 ## Installation
 
@@ -39,20 +39,20 @@ poke-line can be activated with:
 (poke-line-mode 1)
 ```
 
-The chosen Pokemon can be selected with:
+The chosen Pokémon can be selected with:
 
 ```elisp
 (poke-line-set-pokemon "charmander")
 ```
 
-The command above is also interactive so Pokemon can be swapped
+The command above is also interactive so Pokémon can be swapped
 on the fly:
 
 ```elisp
 M-x poke-line-set-pokemon "charmander"
 ```
 
-Easily set the default Pokemon in your config with use-package:
+Easily set the default Pokémon in your config with use-package:
 
 ```elisp
 (use-package poke-line
@@ -62,7 +62,7 @@ Easily set the default Pokemon in your config with use-package:
   (poke-line-set-pokemon "gengar"))
 ```
 
-See [this page](docs/pokemon.md) for a list of available Pokemon.
+See [this page](docs/pokemon.md) for a list of available Pokémon.
 
 ## Customization
 
@@ -93,7 +93,7 @@ Minimum of 3 units are required for poke-line.
 
 Software was inspired and forked from [nyan-mode](https://github.com/TeMPOraL/nyan-mode).
 
-Pokemon sprites were obtained from [PokemonDB.net](https://img.pokemondb.net/sprites/)
+Pokémon sprites were obtained from [PokemonDB.net](https://img.pokemondb.net/sprites/)
 and processed with [this tool](https://github.com/RyanMillerC/poke-position-images).
 
 Pokémon is property of Nintendo/Creatures Inc./GAME FREAK inc. Legal
