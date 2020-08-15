@@ -8,896 +8,4460 @@ using this list if you run into issues setting poke-line to a particular value.
 
 ## Pokémon List
 
-| Pokédex ID | Pokémon Name | Sprite |
-| ---------- | ------------ | ------ |
-| #1 | `bulbasaur` | ![bulbasaur](/img/pokemon/bulbasaur.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #2 | `ivysaur` | ![ivysaur](/img/pokemon/ivysaur.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #3 | `venusaur` | ![venusaur](/img/pokemon/venusaur.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #4 | `charmander` | ![charmander](/img/pokemon/charmander.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #5 | `charmeleon` | ![charmeleon](/img/pokemon/charmeleon.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #6 | `charizard` | ![charizard](/img/pokemon/charizard.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #7 | `squirtle` | ![squirtle](/img/pokemon/squirtle.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #8 | `wartortle` | ![wartortle](/img/pokemon/wartortle.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #9 | `blastoise` | ![blastoise](/img/pokemon/blastoise.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #10 | `caterpie` | ![caterpie](/img/pokemon/caterpie.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #11 | `metapod` | ![metapod](/img/pokemon/metapod.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #12 | `butterfree` | ![butterfree](/img/pokemon/butterfree.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #13 | `weedle` | ![weedle](/img/pokemon/weedle.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #14 | `kakuna` | ![kakuna](/img/pokemon/kakuna.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #15 | `beedrill` | ![beedrill](/img/pokemon/beedrill.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #16 | `pidgey` | ![pidgey](/img/pokemon/pidgey.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #17 | `pidgeotto` | ![pidgeotto](/img/pokemon/pidgeotto.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #18 | `pidgeot` | ![pidgeot](/img/pokemon/pidgeot.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #19 | `rattata` | ![rattata](/img/pokemon/rattata.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #20 | `raticate` | ![raticate](/img/pokemon/raticate.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #21 | `spearow` | ![spearow](/img/pokemon/spearow.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #22 | `fearow` | ![fearow](/img/pokemon/fearow.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #23 | `ekans` | ![ekans](/img/pokemon/ekans.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #24 | `arbok` | ![arbok](/img/pokemon/arbok.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #25 | `pikachu` | ![pikachu](/img/pokemon/pikachu.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #26 | `raichu` | ![raichu](/img/pokemon/raichu.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #27 | `sandshrew` | ![sandshrew](/img/pokemon/sandshrew.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #28 | `sandslash` | ![sandslash](/img/pokemon/sandslash.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #29 | `nidoran-m` | ![nidoran-m](/img/pokemon/nidoran-m.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #30 | `nidorina` | ![nidorina](/img/pokemon/nidorina.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #31 | `nidoqueen` | ![nidoqueen](/img/pokemon/nidoqueen.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #32 | `nidoran-f` | ![nidoran-f](/img/pokemon/nidoran-f.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #33 | `nidorino` | ![nidorino](/img/pokemon/nidorino.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #34 | `nidoking` | ![nidoking](/img/pokemon/nidoking.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #35 | `clefairy` | ![clefairy](/img/pokemon/clefairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #36 | `clefable` | ![clefable](/img/pokemon/clefable.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #37 | `vulpix` | ![vulpix](/img/pokemon/vulpix.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #38 | `ninetales` | ![ninetales](/img/pokemon/ninetales.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #39 | `jigglypuff` | ![jigglypuff](/img/pokemon/jigglypuff.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #40 | `wigglytuff` | ![wigglytuff](/img/pokemon/wigglytuff.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #41 | `zubat` | ![zubat](/img/pokemon/zubat.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #42 | `golbat` | ![golbat](/img/pokemon/golbat.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #43 | `oddish` | ![oddish](/img/pokemon/oddish.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #44 | `gloom` | ![gloom](/img/pokemon/gloom.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #45 | `vileplume` | ![vileplume](/img/pokemon/vileplume.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #46 | `paras` | ![paras](/img/pokemon/paras.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #47 | `parasect` | ![parasect](/img/pokemon/parasect.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #48 | `venonat` | ![venonat](/img/pokemon/venonat.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #49 | `venomoth` | ![venomoth](/img/pokemon/venomoth.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #50 | `diglett` | ![diglett](/img/pokemon/diglett.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #51 | `dugtrio` | ![dugtrio](/img/pokemon/dugtrio.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #52 | `meowth` | ![meowth](/img/pokemon/meowth.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #53 | `persian` | ![persian](/img/pokemon/persian.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #54 | `psyduck` | ![psyduck](/img/pokemon/psyduck.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #55 | `golduck` | ![golduck](/img/pokemon/golduck.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #56 | `mankey` | ![mankey](/img/pokemon/mankey.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #57 | `primeape` | ![primeape](/img/pokemon/primeape.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #58 | `growlithe` | ![growlithe](/img/pokemon/growlithe.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #59 | `arcanine` | ![arcanine](/img/pokemon/arcanine.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #60 | `poliwag` | ![poliwag](/img/pokemon/poliwag.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #61 | `poliwhirl` | ![poliwhirl](/img/pokemon/poliwhirl.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #62 | `poliwrath` | ![poliwrath](/img/pokemon/poliwrath.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #63 | `abra` | ![abra](/img/pokemon/abra.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #64 | `kadabra` | ![kadabra](/img/pokemon/kadabra.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #65 | `alakazam` | ![alakazam](/img/pokemon/alakazam.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #66 | `machop` | ![machop](/img/pokemon/machop.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #67 | `machoke` | ![machoke](/img/pokemon/machoke.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #68 | `machamp` | ![machamp](/img/pokemon/machamp.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #69 | `bellsprout` | ![bellsprout](/img/pokemon/bellsprout.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #70 | `weepinbell` | ![weepinbell](/img/pokemon/weepinbell.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #71 | `victreebel` | ![victreebel](/img/pokemon/victreebel.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #72 | `tentacool` | ![tentacool](/img/pokemon/tentacool.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #73 | `tentacruel` | ![tentacruel](/img/pokemon/tentacruel.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #74 | `geodude` | ![geodude](/img/pokemon/geodude.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #75 | `graveler` | ![graveler](/img/pokemon/graveler.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #76 | `golem` | ![golem](/img/pokemon/golem.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #77 | `ponyta` | ![ponyta](/img/pokemon/ponyta.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #78 | `rapidash` | ![rapidash](/img/pokemon/rapidash.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #79 | `slowpoke` | ![slowpoke](/img/pokemon/slowpoke.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #80 | `slowbro` | ![slowbro](/img/pokemon/slowbro.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #81 | `magnemite` | ![magnemite](/img/pokemon/magnemite.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #82 | `magneton` | ![magneton](/img/pokemon/magneton.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #83 | `farfetchd` | ![farfetchd](/img/pokemon/farfetchd.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #84 | `doduo` | ![doduo](/img/pokemon/doduo.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #85 | `dodrio` | ![dodrio](/img/pokemon/dodrio.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #86 | `seel` | ![seel](/img/pokemon/seel.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #87 | `dewgong` | ![dewgong](/img/pokemon/dewgong.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #88 | `grimer` | ![grimer](/img/pokemon/grimer.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #89 | `muk` | ![muk](/img/pokemon/muk.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #90 | `shellder` | ![shellder](/img/pokemon/shellder.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #91 | `cloyster` | ![cloyster](/img/pokemon/cloyster.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #92 | `gastly` | ![gastly](/img/pokemon/gastly.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #93 | `haunter` | ![haunter](/img/pokemon/haunter.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #94 | `gengar` | ![gengar](/img/pokemon/gengar.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #95 | `onix` | ![onix](/img/pokemon/onix.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #96 | `drowzee` | ![drowzee](/img/pokemon/drowzee.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #97 | `hypno` | ![hypno](/img/pokemon/hypno.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #98 | `krabby` | ![krabby](/img/pokemon/krabby.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #99 | `kingler` | ![kingler](/img/pokemon/kingler.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #100 | `voltorb` | ![voltorb](/img/pokemon/voltorb.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #101 | `electrode` | ![electrode](/img/pokemon/electrode.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #102 | `exeggcute` | ![exeggcute](/img/pokemon/exeggcute.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #103 | `exeggutor` | ![exeggutor](/img/pokemon/exeggutor.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #104 | `cubone` | ![cubone](/img/pokemon/cubone.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #105 | `marowak` | ![marowak](/img/pokemon/marowak.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #106 | `hitmonlee` | ![hitmonlee](/img/pokemon/hitmonlee.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #107 | `hitmonchan` | ![hitmonchan](/img/pokemon/hitmonchan.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #108 | `lickitung` | ![lickitung](/img/pokemon/lickitung.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #109 | `koffing` | ![koffing](/img/pokemon/koffing.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #110 | `weezing` | ![weezing](/img/pokemon/weezing.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #111 | `rhyhorn` | ![rhyhorn](/img/pokemon/rhyhorn.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #112 | `rhydon` | ![rhydon](/img/pokemon/rhydon.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #113 | `chansey` | ![chansey](/img/pokemon/chansey.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #114 | `tangela` | ![tangela](/img/pokemon/tangela.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #115 | `kangaskhan` | ![kangaskhan](/img/pokemon/kangaskhan.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #116 | `horsea` | ![horsea](/img/pokemon/horsea.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #117 | `seadra` | ![seadra](/img/pokemon/seadra.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #118 | `goldeen` | ![goldeen](/img/pokemon/goldeen.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #119 | `seaking` | ![seaking](/img/pokemon/seaking.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #120 | `staryu` | ![staryu](/img/pokemon/staryu.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #121 | `starmie` | ![starmie](/img/pokemon/starmie.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #122 | `mr mime` | ![mr mime](/img/pokemon/mr&#32;mime.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #123 | `scyther` | ![scyther](/img/pokemon/scyther.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #124 | `jynx` | ![jynx](/img/pokemon/jynx.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #125 | `electabuzz` | ![electabuzz](/img/pokemon/electabuzz.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #126 | `magmar` | ![magmar](/img/pokemon/magmar.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #127 | `pinsir` | ![pinsir](/img/pokemon/pinsir.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #128 | `tauros` | ![tauros](/img/pokemon/tauros.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #129 | `magikarp` | ![magikarp](/img/pokemon/magikarp.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #130 | `gyarados` | ![gyarados](/img/pokemon/gyarados.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #131 | `lapras` | ![lapras](/img/pokemon/lapras.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #132 | `ditto` | ![ditto](/img/pokemon/ditto.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #133 | `eevee` | ![eevee](/img/pokemon/eevee.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #134 | `vaporeon` | ![vaporeon](/img/pokemon/vaporeon.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #135 | `jolteon` | ![jolteon](/img/pokemon/jolteon.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #136 | `flareon` | ![flareon](/img/pokemon/flareon.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #137 | `porygon` | ![porygon](/img/pokemon/porygon.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #138 | `omanyte` | ![omanyte](/img/pokemon/omanyte.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #139 | `omastar` | ![omastar](/img/pokemon/omastar.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #140 | `kabuto` | ![kabuto](/img/pokemon/kabuto.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #141 | `kabutops` | ![kabutops](/img/pokemon/kabutops.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #142 | `aerodactyl` | ![aerodactyl](/img/pokemon/aerodactyl.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #143 | `snorlax` | ![snorlax](/img/pokemon/snorlax.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #144 | `articuno` | ![articuno](/img/pokemon/articuno.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #145 | `zapdos` | ![zapdos](/img/pokemon/zapdos.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #146 | `moltres` | ![moltres](/img/pokemon/moltres.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #147 | `dratini` | ![dratini](/img/pokemon/dratini.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #148 | `dragonair` | ![dragonair](/img/pokemon/dragonair.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #149 | `dragonite` | ![dragonite](/img/pokemon/dragonite.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #150 | `mewtwo` | ![mewtwo](/img/pokemon/mewtwo.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #151 | `mew` | ![mew](/img/pokemon/mew.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #152 | `chikorita` | ![chikorita](/img/pokemon/chikorita.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #153 | `bayleef` | ![bayleef](/img/pokemon/bayleef.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #154 | `meganium` | ![meganium](/img/pokemon/meganium.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #155 | `cyndaquil` | ![cyndaquil](/img/pokemon/cyndaquil.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #156 | `quilava` | ![quilava](/img/pokemon/quilava.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #157 | `typhlosion` | ![typhlosion](/img/pokemon/typhlosion.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #158 | `totodile` | ![totodile](/img/pokemon/totodile.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #159 | `croconaw` | ![croconaw](/img/pokemon/croconaw.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #160 | `feraligatr` | ![feraligatr](/img/pokemon/feraligatr.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #161 | `sentret` | ![sentret](/img/pokemon/sentret.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #162 | `furret` | ![furret](/img/pokemon/furret.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #163 | `hoothoot` | ![hoothoot](/img/pokemon/hoothoot.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #164 | `noctowl` | ![noctowl](/img/pokemon/noctowl.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #165 | `ledyba` | ![ledyba](/img/pokemon/ledyba.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #166 | `ledian` | ![ledian](/img/pokemon/ledian.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #167 | `spinarak` | ![spinarak](/img/pokemon/spinarak.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #168 | `ariados` | ![ariados](/img/pokemon/ariados.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #169 | `crobat` | ![crobat](/img/pokemon/crobat.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #170 | `chinchou` | ![chinchou](/img/pokemon/chinchou.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #171 | `lanturn` | ![lanturn](/img/pokemon/lanturn.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #172 | `pichu` | ![pichu](/img/pokemon/pichu.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #173 | `cleffa` | ![cleffa](/img/pokemon/cleffa.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #174 | `igglybuff` | ![igglybuff](/img/pokemon/igglybuff.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #175 | `togepi` | ![togepi](/img/pokemon/togepi.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #176 | `togetic` | ![togetic](/img/pokemon/togetic.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #177 | `natu` | ![natu](/img/pokemon/natu.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #178 | `xatu` | ![xatu](/img/pokemon/xatu.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #179 | `mareep` | ![mareep](/img/pokemon/mareep.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #180 | `flaaffy` | ![flaaffy](/img/pokemon/flaaffy.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #181 | `ampharos` | ![ampharos](/img/pokemon/ampharos.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #182 | `bellossom` | ![bellossom](/img/pokemon/bellossom.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #183 | `marill` | ![marill](/img/pokemon/marill.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #184 | `azumarill` | ![azumarill](/img/pokemon/azumarill.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #185 | `sudowoodo` | ![sudowoodo](/img/pokemon/sudowoodo.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #186 | `politoed` | ![politoed](/img/pokemon/politoed.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #187 | `hoppip` | ![hoppip](/img/pokemon/hoppip.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #188 | `skiploom` | ![skiploom](/img/pokemon/skiploom.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #189 | `jumpluff` | ![jumpluff](/img/pokemon/jumpluff.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #190 | `aipom` | ![aipom](/img/pokemon/aipom.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #191 | `sunkern` | ![sunkern](/img/pokemon/sunkern.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #192 | `sunflora` | ![sunflora](/img/pokemon/sunflora.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #193 | `yanma` | ![yanma](/img/pokemon/yanma.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #194 | `wooper` | ![wooper](/img/pokemon/wooper.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #195 | `quagsire` | ![quagsire](/img/pokemon/quagsire.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #196 | `espeon` | ![espeon](/img/pokemon/espeon.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #197 | `umbreon` | ![umbreon](/img/pokemon/umbreon.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #198 | `murkrow` | ![murkrow](/img/pokemon/murkrow.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #199 | `slowking` | ![slowking](/img/pokemon/slowking.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #200 | `misdreavus` | ![misdreavus](/img/pokemon/misdreavus.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #201 | `unown` | ![unown](/img/pokemon/unown.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #202 | `wobbuffet` | ![wobbuffet](/img/pokemon/wobbuffet.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #203 | `girafarig` | ![girafarig](/img/pokemon/girafarig.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #204 | `pineco` | ![pineco](/img/pokemon/pineco.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #205 | `forretress` | ![forretress](/img/pokemon/forretress.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #206 | `dunsparce` | ![dunsparce](/img/pokemon/dunsparce.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #207 | `gligar` | ![gligar](/img/pokemon/gligar.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #208 | `steelix` | ![steelix](/img/pokemon/steelix.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #209 | `snubbull` | ![snubbull](/img/pokemon/snubbull.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #210 | `granbull` | ![granbull](/img/pokemon/granbull.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #211 | `qwilfish` | ![qwilfish](/img/pokemon/qwilfish.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #212 | `scizor` | ![scizor](/img/pokemon/scizor.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #213 | `shuckle` | ![shuckle](/img/pokemon/shuckle.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #214 | `heracross` | ![heracross](/img/pokemon/heracross.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #215 | `sneasel` | ![sneasel](/img/pokemon/sneasel.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #216 | `teddiursa` | ![teddiursa](/img/pokemon/teddiursa.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #217 | `ursaring` | ![ursaring](/img/pokemon/ursaring.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #218 | `slugma` | ![slugma](/img/pokemon/slugma.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #219 | `magcargo` | ![magcargo](/img/pokemon/magcargo.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #220 | `swinub` | ![swinub](/img/pokemon/swinub.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #221 | `piloswine` | ![piloswine](/img/pokemon/piloswine.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #222 | `corsola` | ![corsola](/img/pokemon/corsola.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #223 | `remoraid` | ![remoraid](/img/pokemon/remoraid.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #224 | `octillery` | ![octillery](/img/pokemon/octillery.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #225 | `delibird` | ![delibird](/img/pokemon/delibird.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #226 | `mantine` | ![mantine](/img/pokemon/mantine.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #227 | `skarmory` | ![skarmory](/img/pokemon/skarmory.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #228 | `houndour` | ![houndour](/img/pokemon/houndour.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #229 | `houndoom` | ![houndoom](/img/pokemon/houndoom.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #230 | `kingdra` | ![kingdra](/img/pokemon/kingdra.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #231 | `phanpy` | ![phanpy](/img/pokemon/phanpy.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #232 | `donphan` | ![donphan](/img/pokemon/donphan.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #233 | `porygon2` | ![porygon2](/img/pokemon/porygon2.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #234 | `stantler` | ![stantler](/img/pokemon/stantler.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #235 | `smeargle` | ![smeargle](/img/pokemon/smeargle.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #236 | `tyrogue` | ![tyrogue](/img/pokemon/tyrogue.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #237 | `hitmontop` | ![hitmontop](/img/pokemon/hitmontop.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #238 | `smoochum` | ![smoochum](/img/pokemon/smoochum.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #239 | `elekid` | ![elekid](/img/pokemon/elekid.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #240 | `magby` | ![magby](/img/pokemon/magby.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #241 | `miltank` | ![miltank](/img/pokemon/miltank.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #242 | `blissey` | ![blissey](/img/pokemon/blissey.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #243 | `raikou` | ![raikou](/img/pokemon/raikou.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #244 | `entei` | ![entei](/img/pokemon/entei.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #245 | `suicune` | ![suicune](/img/pokemon/suicune.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #246 | `larvitar` | ![larvitar](/img/pokemon/larvitar.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #247 | `pupitar` | ![pupitar](/img/pokemon/pupitar.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #248 | `tyranitar` | ![tyranitar](/img/pokemon/tyranitar.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #249 | `lugia` | ![lugia](/img/pokemon/lugia.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #250 | `ho-oh` | ![ho-oh](/img/pokemon/ho-oh.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #251 | `celebi` | ![celebi](/img/pokemon/celebi.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #252 | `treecko` | ![treecko](/img/pokemon/treecko.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #253 | `grovyle` | ![grovyle](/img/pokemon/grovyle.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #254 | `sceptile` | ![sceptile](/img/pokemon/sceptile.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #255 | `torchic` | ![torchic](/img/pokemon/torchic.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #256 | `combusken` | ![combusken](/img/pokemon/combusken.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #257 | `blaziken` | ![blaziken](/img/pokemon/blaziken.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #258 | `mudkip` | ![mudkip](/img/pokemon/mudkip.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #259 | `marshtomp` | ![marshtomp](/img/pokemon/marshtomp.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #260 | `swampert` | ![swampert](/img/pokemon/swampert.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #261 | `poochyena` | ![poochyena](/img/pokemon/poochyena.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #262 | `mightyena` | ![mightyena](/img/pokemon/mightyena.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #263 | `zigzagoon` | ![zigzagoon](/img/pokemon/zigzagoon.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #264 | `linoone` | ![linoone](/img/pokemon/linoone.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #265 | `wurmple` | ![wurmple](/img/pokemon/wurmple.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #266 | `silcoon` | ![silcoon](/img/pokemon/silcoon.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #267 | `beautifly` | ![beautifly](/img/pokemon/beautifly.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #268 | `cascoon` | ![cascoon](/img/pokemon/cascoon.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #269 | `dustox` | ![dustox](/img/pokemon/dustox.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #270 | `lotad` | ![lotad](/img/pokemon/lotad.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #271 | `lombre` | ![lombre](/img/pokemon/lombre.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #272 | `ludicolo` | ![ludicolo](/img/pokemon/ludicolo.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #273 | `seedot` | ![seedot](/img/pokemon/seedot.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #274 | `nuzleaf` | ![nuzleaf](/img/pokemon/nuzleaf.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #275 | `shiftry` | ![shiftry](/img/pokemon/shiftry.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #276 | `taillow` | ![taillow](/img/pokemon/taillow.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #277 | `swellow` | ![swellow](/img/pokemon/swellow.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #278 | `wingull` | ![wingull](/img/pokemon/wingull.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #279 | `pelipper` | ![pelipper](/img/pokemon/pelipper.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #280 | `ralts` | ![ralts](/img/pokemon/ralts.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #281 | `kirlia` | ![kirlia](/img/pokemon/kirlia.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #282 | `gardevoir` | ![gardevoir](/img/pokemon/gardevoir.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #283 | `surskit` | ![surskit](/img/pokemon/surskit.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #284 | `masquerain` | ![masquerain](/img/pokemon/masquerain.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #285 | `shroomish` | ![shroomish](/img/pokemon/shroomish.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #286 | `breloom` | ![breloom](/img/pokemon/breloom.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #287 | `slakoth` | ![slakoth](/img/pokemon/slakoth.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #288 | `vigoroth` | ![vigoroth](/img/pokemon/vigoroth.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #289 | `slaking` | ![slaking](/img/pokemon/slaking.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #290 | `nincada` | ![nincada](/img/pokemon/nincada.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #291 | `ninjask` | ![ninjask](/img/pokemon/ninjask.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #292 | `shedinja` | ![shedinja](/img/pokemon/shedinja.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #293 | `whismur` | ![whismur](/img/pokemon/whismur.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #294 | `loudred` | ![loudred](/img/pokemon/loudred.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #295 | `exploud` | ![exploud](/img/pokemon/exploud.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #296 | `makuhita` | ![makuhita](/img/pokemon/makuhita.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #297 | `hariyama` | ![hariyama](/img/pokemon/hariyama.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #298 | `azurill` | ![azurill](/img/pokemon/azurill.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #299 | `nosepass` | ![nosepass](/img/pokemon/nosepass.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #300 | `skitty` | ![skitty](/img/pokemon/skitty.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #301 | `delcatty` | ![delcatty](/img/pokemon/delcatty.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #302 | `sableye` | ![sableye](/img/pokemon/sableye.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #303 | `mawile` | ![mawile](/img/pokemon/mawile.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #304 | `aron` | ![aron](/img/pokemon/aron.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #305 | `lairon` | ![lairon](/img/pokemon/lairon.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #306 | `aggron` | ![aggron](/img/pokemon/aggron.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #307 | `meditite` | ![meditite](/img/pokemon/meditite.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #308 | `medicham` | ![medicham](/img/pokemon/medicham.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #309 | `electrike` | ![electrike](/img/pokemon/electrike.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #310 | `manectric` | ![manectric](/img/pokemon/manectric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #311 | `plusle` | ![plusle](/img/pokemon/plusle.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #312 | `minun` | ![minun](/img/pokemon/minun.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #313 | `volbeat` | ![volbeat](/img/pokemon/volbeat.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #314 | `illumise` | ![illumise](/img/pokemon/illumise.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #315 | `roselia` | ![roselia](/img/pokemon/roselia.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #316 | `gulpin` | ![gulpin](/img/pokemon/gulpin.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #317 | `swalot` | ![swalot](/img/pokemon/swalot.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #318 | `carvanha` | ![carvanha](/img/pokemon/carvanha.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #319 | `sharpedo` | ![sharpedo](/img/pokemon/sharpedo.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #320 | `wailmer` | ![wailmer](/img/pokemon/wailmer.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #321 | `wailord` | ![wailord](/img/pokemon/wailord.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #322 | `numel` | ![numel](/img/pokemon/numel.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #323 | `camerupt` | ![camerupt](/img/pokemon/camerupt.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #324 | `torkoal` | ![torkoal](/img/pokemon/torkoal.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #325 | `spoink` | ![spoink](/img/pokemon/spoink.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #326 | `grumpig` | ![grumpig](/img/pokemon/grumpig.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #327 | `spinda` | ![spinda](/img/pokemon/spinda.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #328 | `trapinch` | ![trapinch](/img/pokemon/trapinch.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #329 | `vibrava` | ![vibrava](/img/pokemon/vibrava.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #330 | `flygon` | ![flygon](/img/pokemon/flygon.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #331 | `cacnea` | ![cacnea](/img/pokemon/cacnea.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #332 | `cacturne` | ![cacturne](/img/pokemon/cacturne.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #333 | `swablu` | ![swablu](/img/pokemon/swablu.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #334 | `altaria` | ![altaria](/img/pokemon/altaria.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #335 | `zangoose` | ![zangoose](/img/pokemon/zangoose.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #336 | `seviper` | ![seviper](/img/pokemon/seviper.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #337 | `lunatone` | ![lunatone](/img/pokemon/lunatone.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #338 | `solrock` | ![solrock](/img/pokemon/solrock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #339 | `barboach` | ![barboach](/img/pokemon/barboach.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #340 | `whiscash` | ![whiscash](/img/pokemon/whiscash.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #341 | `corphish` | ![corphish](/img/pokemon/corphish.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #342 | `crawdaunt` | ![crawdaunt](/img/pokemon/crawdaunt.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #343 | `baltoy` | ![baltoy](/img/pokemon/baltoy.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #344 | `claydol` | ![claydol](/img/pokemon/claydol.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #345 | `lileep` | ![lileep](/img/pokemon/lileep.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #346 | `cradily` | ![cradily](/img/pokemon/cradily.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #347 | `anorith` | ![anorith](/img/pokemon/anorith.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #348 | `armaldo` | ![armaldo](/img/pokemon/armaldo.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #349 | `feebas` | ![feebas](/img/pokemon/feebas.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #350 | `milotic` | ![milotic](/img/pokemon/milotic.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #351 | `castform` | ![castform](/img/pokemon/castform.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #352 | `kecleon` | ![kecleon](/img/pokemon/kecleon.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #353 | `shuppet` | ![shuppet](/img/pokemon/shuppet.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #354 | `banette` | ![banette](/img/pokemon/banette.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #355 | `duskull` | ![duskull](/img/pokemon/duskull.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #356 | `dusclops` | ![dusclops](/img/pokemon/dusclops.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #357 | `tropius` | ![tropius](/img/pokemon/tropius.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #358 | `chimecho` | ![chimecho](/img/pokemon/chimecho.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #359 | `absol` | ![absol](/img/pokemon/absol.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #360 | `wynaut` | ![wynaut](/img/pokemon/wynaut.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #361 | `snorunt` | ![snorunt](/img/pokemon/snorunt.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #362 | `glalie` | ![glalie](/img/pokemon/glalie.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #363 | `spheal` | ![spheal](/img/pokemon/spheal.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #364 | `sealeo` | ![sealeo](/img/pokemon/sealeo.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #365 | `walrein` | ![walrein](/img/pokemon/walrein.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #366 | `clamperl` | ![clamperl](/img/pokemon/clamperl.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #367 | `huntail` | ![huntail](/img/pokemon/huntail.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #368 | `gorebyss` | ![gorebyss](/img/pokemon/gorebyss.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #369 | `relicanth` | ![relicanth](/img/pokemon/relicanth.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #370 | `luvdisc` | ![luvdisc](/img/pokemon/luvdisc.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #371 | `bagon` | ![bagon](/img/pokemon/bagon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #372 | `shelgon` | ![shelgon](/img/pokemon/shelgon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #373 | `salamence` | ![salamence](/img/pokemon/salamence.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #374 | `beldum` | ![beldum](/img/pokemon/beldum.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #375 | `metang` | ![metang](/img/pokemon/metang.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #376 | `metagross` | ![metagross](/img/pokemon/metagross.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #377 | `regirock` | ![regirock](/img/pokemon/regirock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #378 | `regice` | ![regice](/img/pokemon/regice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #379 | `registeel` | ![registeel](/img/pokemon/registeel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #380 | `latias` | ![latias](/img/pokemon/latias.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #381 | `latios` | ![latios](/img/pokemon/latios.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #382 | `kyogre` | ![kyogre](/img/pokemon/kyogre.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #383 | `groudon` | ![groudon](/img/pokemon/groudon.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #384 | `rayquaza` | ![rayquaza](/img/pokemon/rayquaza.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #385 | `jirachi` | ![jirachi](/img/pokemon/jirachi.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #386 | `deoxys` | ![deoxys](/img/pokemon/deoxys.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #387 | `turtwig` | ![turtwig](/img/pokemon/turtwig.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #388 | `grotle` | ![grotle](/img/pokemon/grotle.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #389 | `torterra` | ![torterra](/img/pokemon/torterra.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #390 | `chimchar` | ![chimchar](/img/pokemon/chimchar.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #391 | `monferno` | ![monferno](/img/pokemon/monferno.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #392 | `infernape` | ![infernape](/img/pokemon/infernape.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #393 | `piplup` | ![piplup](/img/pokemon/piplup.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #394 | `prinplup` | ![prinplup](/img/pokemon/prinplup.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #395 | `empoleon` | ![empoleon](/img/pokemon/empoleon.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #396 | `starly` | ![starly](/img/pokemon/starly.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #397 | `staravia` | ![staravia](/img/pokemon/staravia.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #398 | `staraptor` | ![staraptor](/img/pokemon/staraptor.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #399 | `bidoof` | ![bidoof](/img/pokemon/bidoof.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #400 | `bibarel` | ![bibarel](/img/pokemon/bibarel.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #401 | `kricketot` | ![kricketot](/img/pokemon/kricketot.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #402 | `kricketune` | ![kricketune](/img/pokemon/kricketune.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #403 | `shinx` | ![shinx](/img/pokemon/shinx.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #404 | `luxio` | ![luxio](/img/pokemon/luxio.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #405 | `luxray` | ![luxray](/img/pokemon/luxray.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #406 | `budew` | ![budew](/img/pokemon/budew.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #407 | `roserade` | ![roserade](/img/pokemon/roserade.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #408 | `cranidos` | ![cranidos](/img/pokemon/cranidos.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #409 | `rampardos` | ![rampardos](/img/pokemon/rampardos.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #410 | `shieldon` | ![shieldon](/img/pokemon/shieldon.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #411 | `bastiodon` | ![bastiodon](/img/pokemon/bastiodon.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #412 | `burmy` | ![burmy](/img/pokemon/burmy.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #413 | `wormadam` | ![wormadam](/img/pokemon/wormadam.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #414 | `mothim` | ![mothim](/img/pokemon/mothim.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #415 | `combee` | ![combee](/img/pokemon/combee.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #416 | `vespiquen` | ![vespiquen](/img/pokemon/vespiquen.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #417 | `pachirisu` | ![pachirisu](/img/pokemon/pachirisu.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #418 | `buizel` | ![buizel](/img/pokemon/buizel.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #419 | `floatzel` | ![floatzel](/img/pokemon/floatzel.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #420 | `cherubi` | ![cherubi](/img/pokemon/cherubi.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #421 | `cherrim` | ![cherrim](/img/pokemon/cherrim.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #422 | `shellos` | ![shellos](/img/pokemon/shellos.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #423 | `gastrodon` | ![gastrodon](/img/pokemon/gastrodon.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #424 | `ambipom` | ![ambipom](/img/pokemon/ambipom.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #425 | `drifloon` | ![drifloon](/img/pokemon/drifloon.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #426 | `drifblim` | ![drifblim](/img/pokemon/drifblim.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #427 | `buneary` | ![buneary](/img/pokemon/buneary.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #428 | `lopunny` | ![lopunny](/img/pokemon/lopunny.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #429 | `mismagius` | ![mismagius](/img/pokemon/mismagius.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #430 | `honchkrow` | ![honchkrow](/img/pokemon/honchkrow.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #431 | `glameow` | ![glameow](/img/pokemon/glameow.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #432 | `purugly` | ![purugly](/img/pokemon/purugly.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #433 | `chingling` | ![chingling](/img/pokemon/chingling.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #434 | `stunky` | ![stunky](/img/pokemon/stunky.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #435 | `skuntank` | ![skuntank](/img/pokemon/skuntank.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #436 | `bronzor` | ![bronzor](/img/pokemon/bronzor.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #437 | `bronzong` | ![bronzong](/img/pokemon/bronzong.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #438 | `bonsly` | ![bonsly](/img/pokemon/bonsly.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #439 | `mime jr` | ![mime jr](/img/pokemon/mime&#32;jr.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #440 | `happiny` | ![happiny](/img/pokemon/happiny.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #441 | `chatot` | ![chatot](/img/pokemon/chatot.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #442 | `spiritomb` | ![spiritomb](/img/pokemon/spiritomb.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #443 | `gible` | ![gible](/img/pokemon/gible.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #444 | `gabite` | ![gabite](/img/pokemon/gabite.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #445 | `garchomp` | ![garchomp](/img/pokemon/garchomp.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #446 | `munchlax` | ![munchlax](/img/pokemon/munchlax.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #447 | `riolu` | ![riolu](/img/pokemon/riolu.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #448 | `lucario` | ![lucario](/img/pokemon/lucario.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #449 | `hippopotas` | ![hippopotas](/img/pokemon/hippopotas.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #450 | `hippowdon` | ![hippowdon](/img/pokemon/hippowdon.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #451 | `skorupi` | ![skorupi](/img/pokemon/skorupi.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #452 | `drapion` | ![drapion](/img/pokemon/drapion.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #453 | `croagunk` | ![croagunk](/img/pokemon/croagunk.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #454 | `toxicroak` | ![toxicroak](/img/pokemon/toxicroak.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #455 | `carnivine` | ![carnivine](/img/pokemon/carnivine.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #456 | `finneon` | ![finneon](/img/pokemon/finneon.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #457 | `lumineon` | ![lumineon](/img/pokemon/lumineon.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #458 | `mantyke` | ![mantyke](/img/pokemon/mantyke.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #459 | `snover` | ![snover](/img/pokemon/snover.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #460 | `abomasnow` | ![abomasnow](/img/pokemon/abomasnow.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #461 | `weavile` | ![weavile](/img/pokemon/weavile.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #462 | `magnezone` | ![magnezone](/img/pokemon/magnezone.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #463 | `lickilicky` | ![lickilicky](/img/pokemon/lickilicky.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #464 | `rhyperior` | ![rhyperior](/img/pokemon/rhyperior.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #465 | `tangrowth` | ![tangrowth](/img/pokemon/tangrowth.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #466 | `electivire` | ![electivire](/img/pokemon/electivire.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #467 | `magmortar` | ![magmortar](/img/pokemon/magmortar.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #468 | `togekiss` | ![togekiss](/img/pokemon/togekiss.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #469 | `yanmega` | ![yanmega](/img/pokemon/yanmega.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #470 | `leafeon` | ![leafeon](/img/pokemon/leafeon.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #471 | `glaceon` | ![glaceon](/img/pokemon/glaceon.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #472 | `gliscor` | ![gliscor](/img/pokemon/gliscor.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #473 | `mamoswine` | ![mamoswine](/img/pokemon/mamoswine.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #474 | `porygon-z` | ![porygon-z](/img/pokemon/porygon-z.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #475 | `gallade` | ![gallade](/img/pokemon/gallade.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #476 | `probopass` | ![probopass](/img/pokemon/probopass.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #477 | `dusknoir` | ![dusknoir](/img/pokemon/dusknoir.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #478 | `froslass` | ![froslass](/img/pokemon/froslass.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #479 | `rotom` | ![rotom](/img/pokemon/rotom.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #480 | `uxie` | ![uxie](/img/pokemon/uxie.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #481 | `mesprit` | ![mesprit](/img/pokemon/mesprit.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #482 | `azelf` | ![azelf](/img/pokemon/azelf.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #483 | `dialga` | ![dialga](/img/pokemon/dialga.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #484 | `palkia` | ![palkia](/img/pokemon/palkia.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #485 | `heatran` | ![heatran](/img/pokemon/heatran.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #486 | `regigigas` | ![regigigas](/img/pokemon/regigigas.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #487 | `giratina` | ![giratina](/img/pokemon/giratina.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #488 | `cresselia` | ![cresselia](/img/pokemon/cresselia.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #489 | `phione` | ![phione](/img/pokemon/phione.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #490 | `manaphy` | ![manaphy](/img/pokemon/manaphy.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #491 | `darkrai` | ![darkrai](/img/pokemon/darkrai.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #492 | `shaymin` | ![shaymin](/img/pokemon/shaymin.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #493 | `arceus` | ![arceus](/img/pokemon/arceus.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #494 | `victini` | ![victini](/img/pokemon/victini.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #495 | `snivy` | ![snivy](/img/pokemon/snivy.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #496 | `servine` | ![servine](/img/pokemon/servine.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #497 | `serperior` | ![serperior](/img/pokemon/serperior.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #498 | `tepig` | ![tepig](/img/pokemon/tepig.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #499 | `pignite` | ![pignite](/img/pokemon/pignite.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #500 | `emboar` | ![emboar](/img/pokemon/emboar.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #501 | `oshawott` | ![oshawott](/img/pokemon/oshawott.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #502 | `dewott` | ![dewott](/img/pokemon/dewott.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #503 | `samurott` | ![samurott](/img/pokemon/samurott.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #504 | `patrat` | ![patrat](/img/pokemon/patrat.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #505 | `watchog` | ![watchog](/img/pokemon/watchog.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #506 | `lillipup` | ![lillipup](/img/pokemon/lillipup.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #507 | `herdier` | ![herdier](/img/pokemon/herdier.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #508 | `stoutland` | ![stoutland](/img/pokemon/stoutland.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #509 | `purrloin` | ![purrloin](/img/pokemon/purrloin.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #510 | `liepard` | ![liepard](/img/pokemon/liepard.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #511 | `pansage` | ![pansage](/img/pokemon/pansage.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #512 | `simisage` | ![simisage](/img/pokemon/simisage.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #513 | `pansear` | ![pansear](/img/pokemon/pansear.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #514 | `simisear` | ![simisear](/img/pokemon/simisear.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #515 | `panpour` | ![panpour](/img/pokemon/panpour.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #516 | `simipour` | ![simipour](/img/pokemon/simipour.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #517 | `munna` | ![munna](/img/pokemon/munna.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #518 | `musharna` | ![musharna](/img/pokemon/musharna.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #519 | `pidove` | ![pidove](/img/pokemon/pidove.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #520 | `tranquill` | ![tranquill](/img/pokemon/tranquill.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #521 | `unfezant` | ![unfezant](/img/pokemon/unfezant.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #522 | `blitzle` | ![blitzle](/img/pokemon/blitzle.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #523 | `zebstrika` | ![zebstrika](/img/pokemon/zebstrika.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #524 | `roggenrola` | ![roggenrola](/img/pokemon/roggenrola.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #525 | `boldore` | ![boldore](/img/pokemon/boldore.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #526 | `gigalith` | ![gigalith](/img/pokemon/gigalith.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #527 | `woobat` | ![woobat](/img/pokemon/woobat.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #528 | `swoobat` | ![swoobat](/img/pokemon/swoobat.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #529 | `drilbur` | ![drilbur](/img/pokemon/drilbur.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #530 | `excadrill` | ![excadrill](/img/pokemon/excadrill.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #531 | `audino` | ![audino](/img/pokemon/audino.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #532 | `timburr` | ![timburr](/img/pokemon/timburr.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #533 | `gurdurr` | ![gurdurr](/img/pokemon/gurdurr.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #534 | `conkeldurr` | ![conkeldurr](/img/pokemon/conkeldurr.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #535 | `tympole` | ![tympole](/img/pokemon/tympole.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #536 | `palpitoad` | ![palpitoad](/img/pokemon/palpitoad.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #537 | `seismitoad` | ![seismitoad](/img/pokemon/seismitoad.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #538 | `throh` | ![throh](/img/pokemon/throh.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #539 | `sawk` | ![sawk](/img/pokemon/sawk.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #540 | `sewaddle` | ![sewaddle](/img/pokemon/sewaddle.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #541 | `swadloon` | ![swadloon](/img/pokemon/swadloon.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #542 | `leavanny` | ![leavanny](/img/pokemon/leavanny.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #543 | `venipede` | ![venipede](/img/pokemon/venipede.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #544 | `whirlipede` | ![whirlipede](/img/pokemon/whirlipede.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #545 | `scolipede` | ![scolipede](/img/pokemon/scolipede.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #546 | `cottonee` | ![cottonee](/img/pokemon/cottonee.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #547 | `whimsicott` | ![whimsicott](/img/pokemon/whimsicott.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #548 | `petilil` | ![petilil](/img/pokemon/petilil.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #549 | `lilligant` | ![lilligant](/img/pokemon/lilligant.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #550 | `basculin` | ![basculin](/img/pokemon/basculin.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #551 | `sandile` | ![sandile](/img/pokemon/sandile.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #552 | `krokorok` | ![krokorok](/img/pokemon/krokorok.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #553 | `krookodile` | ![krookodile](/img/pokemon/krookodile.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #554 | `darumaka` | ![darumaka](/img/pokemon/darumaka.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #555 | `darmanitan` | ![darmanitan](/img/pokemon/darmanitan.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #556 | `maractus` | ![maractus](/img/pokemon/maractus.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #557 | `dwebble` | ![dwebble](/img/pokemon/dwebble.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #558 | `crustle` | ![crustle](/img/pokemon/crustle.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #559 | `scraggy` | ![scraggy](/img/pokemon/scraggy.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #560 | `scrafty` | ![scrafty](/img/pokemon/scrafty.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #561 | `sigilyph` | ![sigilyph](/img/pokemon/sigilyph.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #562 | `yamask` | ![yamask](/img/pokemon/yamask.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #563 | `cofagrigus` | ![cofagrigus](/img/pokemon/cofagrigus.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #564 | `tirtouga` | ![tirtouga](/img/pokemon/tirtouga.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #565 | `carracosta` | ![carracosta](/img/pokemon/carracosta.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #566 | `archen` | ![archen](/img/pokemon/archen.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #567 | `archeops` | ![archeops](/img/pokemon/archeops.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #568 | `trubbish` | ![trubbish](/img/pokemon/trubbish.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #569 | `garbodor` | ![garbodor](/img/pokemon/garbodor.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #570 | `zorua` | ![zorua](/img/pokemon/zorua.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #571 | `zoroark` | ![zoroark](/img/pokemon/zoroark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #572 | `minccino` | ![minccino](/img/pokemon/minccino.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #573 | `cinccino` | ![cinccino](/img/pokemon/cinccino.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #574 | `gothita` | ![gothita](/img/pokemon/gothita.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #575 | `gothorita` | ![gothorita](/img/pokemon/gothorita.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #576 | `gothitelle` | ![gothitelle](/img/pokemon/gothitelle.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #577 | `solosis` | ![solosis](/img/pokemon/solosis.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #578 | `duosion` | ![duosion](/img/pokemon/duosion.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #579 | `reuniclus` | ![reuniclus](/img/pokemon/reuniclus.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #580 | `ducklett` | ![ducklett](/img/pokemon/ducklett.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #581 | `swanna` | ![swanna](/img/pokemon/swanna.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #582 | `vanillite` | ![vanillite](/img/pokemon/vanillite.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #583 | `vanillish` | ![vanillish](/img/pokemon/vanillish.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #584 | `vanilluxe` | ![vanilluxe](/img/pokemon/vanilluxe.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #585 | `deerling` | ![deerling](/img/pokemon/deerling.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #586 | `sawsbuck` | ![sawsbuck](/img/pokemon/sawsbuck.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #587 | `emolga` | ![emolga](/img/pokemon/emolga.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #588 | `karrablast` | ![karrablast](/img/pokemon/karrablast.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #589 | `escavalier` | ![escavalier](/img/pokemon/escavalier.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #590 | `foongus` | ![foongus](/img/pokemon/foongus.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #591 | `amoonguss` | ![amoonguss](/img/pokemon/amoonguss.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #592 | `frillish` | ![frillish](/img/pokemon/frillish.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #593 | `jellicent` | ![jellicent](/img/pokemon/jellicent.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #594 | `alomomola` | ![alomomola](/img/pokemon/alomomola.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #595 | `joltik` | ![joltik](/img/pokemon/joltik.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #596 | `galvantula` | ![galvantula](/img/pokemon/galvantula.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #597 | `ferroseed` | ![ferroseed](/img/pokemon/ferroseed.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #598 | `ferrothorn` | ![ferrothorn](/img/pokemon/ferrothorn.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #599 | `klink` | ![klink](/img/pokemon/klink.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #600 | `klang` | ![klang](/img/pokemon/klang.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #601 | `klinklang` | ![klinklang](/img/pokemon/klinklang.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #602 | `tynamo` | ![tynamo](/img/pokemon/tynamo.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #603 | `eelektrik` | ![eelektrik](/img/pokemon/eelektrik.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #604 | `eelektross` | ![eelektross](/img/pokemon/eelektross.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #605 | `elgyem` | ![elgyem](/img/pokemon/elgyem.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #606 | `beheeyem` | ![beheeyem](/img/pokemon/beheeyem.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #607 | `litwick` | ![litwick](/img/pokemon/litwick.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #608 | `lampent` | ![lampent](/img/pokemon/lampent.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #609 | `chandelure` | ![chandelure](/img/pokemon/chandelure.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #610 | `axew` | ![axew](/img/pokemon/axew.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #611 | `fraxure` | ![fraxure](/img/pokemon/fraxure.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #612 | `haxorus` | ![haxorus](/img/pokemon/haxorus.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #613 | `cubchoo` | ![cubchoo](/img/pokemon/cubchoo.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #614 | `beartic` | ![beartic](/img/pokemon/beartic.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #615 | `cryogonal` | ![cryogonal](/img/pokemon/cryogonal.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #616 | `shelmet` | ![shelmet](/img/pokemon/shelmet.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #617 | `accelgor` | ![accelgor](/img/pokemon/accelgor.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #618 | `stunfisk` | ![stunfisk](/img/pokemon/stunfisk.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #619 | `mienfoo` | ![mienfoo](/img/pokemon/mienfoo.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #620 | `mienshao` | ![mienshao](/img/pokemon/mienshao.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #621 | `druddigon` | ![druddigon](/img/pokemon/druddigon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #622 | `golett` | ![golett](/img/pokemon/golett.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #623 | `golurk` | ![golurk](/img/pokemon/golurk.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #624 | `pawniard` | ![pawniard](/img/pokemon/pawniard.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #625 | `bisharp` | ![bisharp](/img/pokemon/bisharp.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #626 | `bouffalant` | ![bouffalant](/img/pokemon/bouffalant.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #627 | `rufflet` | ![rufflet](/img/pokemon/rufflet.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #628 | `braviary` | ![braviary](/img/pokemon/braviary.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #629 | `vullaby` | ![vullaby](/img/pokemon/vullaby.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #630 | `mandibuzz` | ![mandibuzz](/img/pokemon/mandibuzz.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #631 | `heatmor` | ![heatmor](/img/pokemon/heatmor.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #632 | `durant` | ![durant](/img/pokemon/durant.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #633 | `deino` | ![deino](/img/pokemon/deino.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #634 | `zweilous` | ![zweilous](/img/pokemon/zweilous.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #635 | `hydreigon` | ![hydreigon](/img/pokemon/hydreigon.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #636 | `larvesta` | ![larvesta](/img/pokemon/larvesta.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #637 | `volcarona` | ![volcarona](/img/pokemon/volcarona.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #638 | `cobalion` | ![cobalion](/img/pokemon/cobalion.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #639 | `terrakion` | ![terrakion](/img/pokemon/terrakion.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #640 | `virizion` | ![virizion](/img/pokemon/virizion.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #641 | `tornadus` | ![tornadus](/img/pokemon/tornadus.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png) |
-| #642 | `thundurus` | ![thundurus](/img/pokemon/thundurus.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #643 | `reshiram` | ![reshiram](/img/pokemon/reshiram.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #644 | `zekrom` | ![zekrom](/img/pokemon/zekrom.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #645 | `landorus` | ![landorus](/img/pokemon/landorus.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #646 | `kyurem` | ![kyurem](/img/pokemon/kyurem.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #647 | `keldeo` | ![keldeo](/img/pokemon/keldeo.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #648 | `meloetta` | ![meloetta](/img/pokemon/meloetta.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #649 | `genesect` | ![genesect](/img/pokemon/genesect.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #650 | `chespin` | ![chespin](/img/pokemon/chespin.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #651 | `quilladin` | ![quilladin](/img/pokemon/quilladin.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #652 | `chesnaught` | ![chesnaught](/img/pokemon/chesnaught.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #653 | `fennekin` | ![fennekin](/img/pokemon/fennekin.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #654 | `braixen` | ![braixen](/img/pokemon/braixen.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #655 | `delphox` | ![delphox](/img/pokemon/delphox.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #656 | `froakie` | ![froakie](/img/pokemon/froakie.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #657 | `frogadier` | ![frogadier](/img/pokemon/frogadier.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #658 | `greninja` | ![greninja](/img/pokemon/greninja.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #659 | `bunnelby` | ![bunnelby](/img/pokemon/bunnelby.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #660 | `diggersby` | ![diggersby](/img/pokemon/diggersby.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #661 | `fletchling` | ![fletchling](/img/pokemon/fletchling.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #662 | `fletchinder` | ![fletchinder](/img/pokemon/fletchinder.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #663 | `talonflame` | ![talonflame](/img/pokemon/talonflame.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #664 | `scatterbug` | ![scatterbug](/img/pokemon/scatterbug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #665 | `spewpa` | ![spewpa](/img/pokemon/spewpa.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #666 | `vivillon` | ![vivillon](/img/pokemon/vivillon.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #667 | `litleo` | ![litleo](/img/pokemon/litleo.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #668 | `pyroar` | ![pyroar](/img/pokemon/pyroar.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #669 | `flabebe` | ![flabebe](/img/pokemon/flabebe.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #670 | `floette` | ![floette](/img/pokemon/floette.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #671 | `florges` | ![florges](/img/pokemon/florges.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #672 | `skiddo` | ![skiddo](/img/pokemon/skiddo.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #673 | `gogoat` | ![gogoat](/img/pokemon/gogoat.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #674 | `pancham` | ![pancham](/img/pokemon/pancham.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #675 | `pangoro` | ![pangoro](/img/pokemon/pangoro.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #676 | `furfrou` | ![furfrou](/img/pokemon/furfrou.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #677 | `espurr` | ![espurr](/img/pokemon/espurr.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #678 | `meowstic` | ![meowstic](/img/pokemon/meowstic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #679 | `honedge` | ![honedge](/img/pokemon/honedge.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #680 | `doublade` | ![doublade](/img/pokemon/doublade.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #681 | `aegislash` | ![aegislash](/img/pokemon/aegislash.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #682 | `spritzee` | ![spritzee](/img/pokemon/spritzee.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #683 | `aromatisse` | ![aromatisse](/img/pokemon/aromatisse.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #684 | `swirlix` | ![swirlix](/img/pokemon/swirlix.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #685 | `slurpuff` | ![slurpuff](/img/pokemon/slurpuff.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #686 | `inkay` | ![inkay](/img/pokemon/inkay.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #687 | `malamar` | ![malamar](/img/pokemon/malamar.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #688 | `binacle` | ![binacle](/img/pokemon/binacle.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #689 | `barbaracle` | ![barbaracle](/img/pokemon/barbaracle.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #690 | `skrelp` | ![skrelp](/img/pokemon/skrelp.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #691 | `dragalge` | ![dragalge](/img/pokemon/dragalge.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #692 | `clauncher` | ![clauncher](/img/pokemon/clauncher.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #693 | `clawitzer` | ![clawitzer](/img/pokemon/clawitzer.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #694 | `helioptile` | ![helioptile](/img/pokemon/helioptile.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #695 | `heliolisk` | ![heliolisk](/img/pokemon/heliolisk.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #696 | `tyrunt` | ![tyrunt](/img/pokemon/tyrunt.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #697 | `tyrantrum` | ![tyrantrum](/img/pokemon/tyrantrum.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #698 | `amaura` | ![amaura](/img/pokemon/amaura.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #699 | `aurorus` | ![aurorus](/img/pokemon/aurorus.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #700 | `sylveon` | ![sylveon](/img/pokemon/sylveon.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #701 | `hawlucha` | ![hawlucha](/img/pokemon/hawlucha.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #702 | `dedenne` | ![dedenne](/img/pokemon/dedenne.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #703 | `carbink` | ![carbink](/img/pokemon/carbink.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #704 | `goomy` | ![goomy](/img/pokemon/goomy.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #705 | `sliggoo` | ![sliggoo](/img/pokemon/sliggoo.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #706 | `goodra` | ![goodra](/img/pokemon/goodra.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #707 | `klefki` | ![klefki](/img/pokemon/klefki.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #708 | `phantump` | ![phantump](/img/pokemon/phantump.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #709 | `trevenant` | ![trevenant](/img/pokemon/trevenant.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #710 | `pumpkaboo` | ![pumpkaboo](/img/pokemon/pumpkaboo.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #711 | `gourgeist` | ![gourgeist](/img/pokemon/gourgeist.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #712 | `bergmite` | ![bergmite](/img/pokemon/bergmite.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #713 | `avalugg` | ![avalugg](/img/pokemon/avalugg.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #714 | `noibat` | ![noibat](/img/pokemon/noibat.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png) |
-| #715 | `noivern` | ![noivern](/img/pokemon/noivern.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png) |
-| #716 | `xerneas` | ![xerneas](/img/pokemon/xerneas.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #717 | `yveltal` | ![yveltal](/img/pokemon/yveltal.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #718 | `zygarde` | ![zygarde](/img/pokemon/zygarde.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #719 | `diancie` | ![diancie](/img/pokemon/diancie.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #720 | `hoopa` | ![hoopa](/img/pokemon/hoopa.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #721 | `volcanion` | ![volcanion](/img/pokemon/volcanion.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #722 | `rowlet` | ![rowlet](/img/pokemon/rowlet.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #723 | `dartrix` | ![dartrix](/img/pokemon/dartrix.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #724 | `decidueye` | ![decidueye](/img/pokemon/decidueye.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #725 | `litten` | ![litten](/img/pokemon/litten.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #726 | `torracat` | ![torracat](/img/pokemon/torracat.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #727 | `incineroar` | ![incineroar](/img/pokemon/incineroar.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #728 | `popplio` | ![popplio](/img/pokemon/popplio.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #729 | `brionne` | ![brionne](/img/pokemon/brionne.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #730 | `primarina` | ![primarina](/img/pokemon/primarina.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #731 | `pikipek` | ![pikipek](/img/pokemon/pikipek.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #732 | `trumbeak` | ![trumbeak](/img/pokemon/trumbeak.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #733 | `toucannon` | ![toucannon](/img/pokemon/toucannon.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #734 | `yungoos` | ![yungoos](/img/pokemon/yungoos.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #735 | `gumshoos` | ![gumshoos](/img/pokemon/gumshoos.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #736 | `grubbin` | ![grubbin](/img/pokemon/grubbin.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #737 | `charjabug` | ![charjabug](/img/pokemon/charjabug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #738 | `vikavolt` | ![vikavolt](/img/pokemon/vikavolt.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #739 | `crabrawler` | ![crabrawler](/img/pokemon/crabrawler.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #740 | `crabominable` | ![crabominable](/img/pokemon/crabominable.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #741 | `oricorio` | ![oricorio](/img/pokemon/oricorio.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #742 | `cutiefly` | ![cutiefly](/img/pokemon/cutiefly.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #743 | `ribombee` | ![ribombee](/img/pokemon/ribombee.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #744 | `rockruff` | ![rockruff](/img/pokemon/rockruff.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #745 | `lycanroc` | ![lycanroc](/img/pokemon/lycanroc.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #746 | `wishiwashi` | ![wishiwashi](/img/pokemon/wishiwashi.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #747 | `mareanie` | ![mareanie](/img/pokemon/mareanie.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #748 | `toxapex` | ![toxapex](/img/pokemon/toxapex.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #749 | `mudbray` | ![mudbray](/img/pokemon/mudbray.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #750 | `mudsdale` | ![mudsdale](/img/pokemon/mudsdale.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #751 | `dewpider` | ![dewpider](/img/pokemon/dewpider.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #752 | `araquanid` | ![araquanid](/img/pokemon/araquanid.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #753 | `fomantis` | ![fomantis](/img/pokemon/fomantis.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #754 | `lurantis` | ![lurantis](/img/pokemon/lurantis.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #755 | `morelull` | ![morelull](/img/pokemon/morelull.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #756 | `shiinotic` | ![shiinotic](/img/pokemon/shiinotic.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #757 | `salandit` | ![salandit](/img/pokemon/salandit.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #758 | `salazzle` | ![salazzle](/img/pokemon/salazzle.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #759 | `stufful` | ![stufful](/img/pokemon/stufful.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #760 | `bewear` | ![bewear](/img/pokemon/bewear.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #761 | `bounsweet` | ![bounsweet](/img/pokemon/bounsweet.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #762 | `steenee` | ![steenee](/img/pokemon/steenee.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #763 | `tsareena` | ![tsareena](/img/pokemon/tsareena.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #764 | `comfey` | ![comfey](/img/pokemon/comfey.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #765 | `oranguru` | ![oranguru](/img/pokemon/oranguru.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #766 | `passimian` | ![passimian](/img/pokemon/passimian.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #767 | `wimpod` | ![wimpod](/img/pokemon/wimpod.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #768 | `golisopod` | ![golisopod](/img/pokemon/golisopod.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #769 | `sandygast` | ![sandygast](/img/pokemon/sandygast.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #770 | `palossand` | ![palossand](/img/pokemon/palossand.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #771 | `pyukumuku` | ![pyukumuku](/img/pokemon/pyukumuku.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #772 | `type-null` | ![type-null](/img/pokemon/type-null.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #773 | `silvally` | ![silvally](/img/pokemon/silvally.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #774 | `minior` | ![minior](/img/pokemon/minior.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #775 | `komala` | ![komala](/img/pokemon/komala.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #776 | `turtonator` | ![turtonator](/img/pokemon/turtonator.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #777 | `togedemaru` | ![togedemaru](/img/pokemon/togedemaru.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #778 | `mimikyu` | ![mimikyu](/img/pokemon/mimikyu.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #779 | `bruxish` | ![bruxish](/img/pokemon/bruxish.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #780 | `drampa` | ![drampa](/img/pokemon/drampa.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #781 | `dhelmise` | ![dhelmise](/img/pokemon/dhelmise.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #782 | `jangmo-o` | ![jangmo-o](/img/pokemon/jangmo-o.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #783 | `hakamo-o` | ![hakamo-o](/img/pokemon/hakamo-o.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #784 | `kommo-o` | ![kommo-o](/img/pokemon/kommo-o.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #785 | `tapu koko` | ![tapu koko](/img/pokemon/tapu&#32;koko.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #786 | `tapu lele` | ![tapu lele](/img/pokemon/tapu&#32;lele.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #787 | `tapu bulu` | ![tapu bulu](/img/pokemon/tapu&#32;bulu.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #788 | `tapu fini` | ![tapu fini](/img/pokemon/tapu&#32;fini.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #789 | `cosmog` | ![cosmog](/img/pokemon/cosmog.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #790 | `cosmoem` | ![cosmoem](/img/pokemon/cosmoem.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #791 | `solgaleo` | ![solgaleo](/img/pokemon/solgaleo.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #792 | `lunala` | ![lunala](/img/pokemon/lunala.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #793 | `nihilego` | ![nihilego](/img/pokemon/nihilego.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #794 | `buzzwole` | ![buzzwole](/img/pokemon/buzzwole.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #795 | `pheromosa` | ![pheromosa](/img/pokemon/pheromosa.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #796 | `xurkitree` | ![xurkitree](/img/pokemon/xurkitree.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #797 | `celesteela` | ![celesteela](/img/pokemon/celesteela.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #798 | `kartana` | ![kartana](/img/pokemon/kartana.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #799 | `guzzlord` | ![guzzlord](/img/pokemon/guzzlord.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #800 | `necrozma` | ![necrozma](/img/pokemon/necrozma.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #801 | `magearna` | ![magearna](/img/pokemon/magearna.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #802 | `marshadow` | ![marshadow](/img/pokemon/marshadow.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #803 | `poipole` | ![poipole](/img/pokemon/poipole.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #804 | `naganadel` | ![naganadel](/img/pokemon/naganadel.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-| #805 | `stakataka` | ![stakataka](/img/pokemon/stakataka.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #806 | `blacephalon` | ![blacephalon](/img/pokemon/blacephalon.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #807 | `zeraora` | ![zeraora](/img/pokemon/zeraora.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #808 | `meltan` | ![meltan](/img/pokemon/meltan.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #809 | `melmetal` | ![melmetal](/img/pokemon/melmetal.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #810 | `grookey` | ![grookey](/img/pokemon/grookey.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #811 | `thwackey` | ![thwackey](/img/pokemon/thwackey.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #812 | `rillaboom` | ![rillaboom](/img/pokemon/rillaboom.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #813 | `scorbunny` | ![scorbunny](/img/pokemon/scorbunny.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #814 | `raboot` | ![raboot](/img/pokemon/raboot.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #815 | `cinderace` | ![cinderace](/img/pokemon/cinderace.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #816 | `sobble` | ![sobble](/img/pokemon/sobble.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #817 | `drizzile` | ![drizzile](/img/pokemon/drizzile.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #818 | `inteleon` | ![inteleon](/img/pokemon/inteleon.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #819 | `skwovet` | ![skwovet](/img/pokemon/skwovet.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #820 | `greedent` | ![greedent](/img/pokemon/greedent.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #821 | `rookidee` | ![rookidee](/img/pokemon/rookidee.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png) |
-| #822 | `corvisquire` | ![corvisquire](/img/pokemon/corvisquire.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png) |
-| #823 | `corviknight` | ![corviknight](/img/pokemon/corviknight.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png) |
-| #824 | `blipbug` | ![blipbug](/img/pokemon/blipbug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #825 | `dottler` | ![dottler](/img/pokemon/dottler.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #826 | `orbeetle` | ![orbeetle](/img/pokemon/orbeetle.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png) |
-| #827 | `nickit` | ![nickit](/img/pokemon/nickit.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #828 | `thievul` | ![thievul](/img/pokemon/thievul.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #829 | `gossifleur` | ![gossifleur](/img/pokemon/gossifleur.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #830 | `eldegoss` | ![eldegoss](/img/pokemon/eldegoss.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #831 | `wooloo` | ![wooloo](/img/pokemon/wooloo.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #832 | `dubwool` | ![dubwool](/img/pokemon/dubwool.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png) |
-| #833 | `chewtle` | ![chewtle](/img/pokemon/chewtle.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #834 | `drednaw` | ![drednaw](/img/pokemon/drednaw.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #835 | `yamper` | ![yamper](/img/pokemon/yamper.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #836 | `boltund` | ![boltund](/img/pokemon/boltund.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #837 | `rolycoly` | ![rolycoly](/img/pokemon/rolycoly.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #838 | `carkol` | ![carkol](/img/pokemon/carkol.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #839 | `coalossal` | ![coalossal](/img/pokemon/coalossal.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #840 | `applin` | ![applin](/img/pokemon/applin.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #841 | `flapple` | ![flapple](/img/pokemon/flapple.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #842 | `appletun` | ![appletun](/img/pokemon/appletun.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png) |
-| #843 | `silicobra` | ![silicobra](/img/pokemon/silicobra.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #844 | `sandaconda` | ![sandaconda](/img/pokemon/sandaconda.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #845 | `cramorant` | ![cramorant](/img/pokemon/cramorant.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png) |
-| #846 | `arrokuda` | ![arrokuda](/img/pokemon/arrokuda.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #847 | `barraskewda` | ![barraskewda](/img/pokemon/barraskewda.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #848 | `toxel` | ![toxel](/img/pokemon/toxel.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #849 | `toxtricity` | ![toxtricity](/img/pokemon/toxtricity.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #850 | `sizzlipede` | ![sizzlipede](/img/pokemon/sizzlipede.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #851 | `centiskorch` | ![centiskorch](/img/pokemon/centiskorch.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png) |
-| #852 | `clobbopus` | ![clobbopus](/img/pokemon/clobbopus.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #853 | `grapploct` | ![grapploct](/img/pokemon/grapploct.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #854 | `sinistea` | ![sinistea](/img/pokemon/sinistea.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #855 | `polteageist` | ![polteageist](/img/pokemon/polteageist.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #856 | `hatenna` | ![hatenna](/img/pokemon/hatenna.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #857 | `hattrem` | ![hattrem](/img/pokemon/hattrem.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #858 | `hatterene` | ![hatterene](/img/pokemon/hatterene.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #859 | `impidimp` | ![impidimp](/img/pokemon/impidimp.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #860 | `morgrem` | ![morgrem](/img/pokemon/morgrem.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #861 | `grimmsnarl` | ![grimmsnarl](/img/pokemon/grimmsnarl.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #862 | `obstagoon` | ![obstagoon](/img/pokemon/obstagoon.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png) |
-| #863 | `perrserker` | ![perrserker](/img/pokemon/perrserker.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #864 | `cursola` | ![cursola](/img/pokemon/cursola.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png) |
-| #865 | `sirfetchd` | ![sirfetchd](/img/pokemon/sirfetchd.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #866 | `mr rime` | ![mr rime](/img/pokemon/mr&#32;rime.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #867 | `runerigus` | ![runerigus](/img/pokemon/runerigus.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png) |
-| #868 | `milcery` | ![milcery](/img/pokemon/milcery.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #869 | `alcremie` | ![alcremie](/img/pokemon/alcremie.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #870 | `falinks` | ![falinks](/img/pokemon/falinks.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #871 | `pincurchin` | ![pincurchin](/img/pokemon/pincurchin.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #872 | `snom` | ![snom](/img/pokemon/snom.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #873 | `frosmoth` | ![frosmoth](/img/pokemon/frosmoth.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #874 | `stonjourner` | ![stonjourner](/img/pokemon/stonjourner.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png) |
-| #875 | `eiscue` | ![eiscue](/img/pokemon/eiscue.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png) |
-| #876 | `indeedee` | ![indeedee](/img/pokemon/indeedee.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png) |
-| #877 | `morpeko` | ![morpeko](/img/pokemon/morpeko.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #878 | `cufant` | ![cufant](/img/pokemon/cufant.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #879 | `copperajah` | ![copperajah](/img/pokemon/copperajah.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #880 | `dracozolt` | ![dracozolt](/img/pokemon/dracozolt.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #881 | `arctozolt` | ![arctozolt](/img/pokemon/arctozolt.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png) |
-| #882 | `dracovish` | ![dracovish](/img/pokemon/dracovish.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #883 | `arctovish` | ![arctovish](/img/pokemon/arctovish.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png) |
-| #884 | `duraludon` | ![duraludon](/img/pokemon/duraludon.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png) |
-| #885 | `dreepy` | ![dreepy](/img/pokemon/dreepy.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #886 | `drakloak` | ![drakloak](/img/pokemon/drakloak.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #887 | `dragapult` | ![dragapult](/img/pokemon/dragapult.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png) |
-| #888 | `zacian` | ![zacian](/img/pokemon/zacian.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png) |
-| #889 | `zamazenta` | ![zamazenta](/img/pokemon/zamazenta.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png) |
-| #890 | `eternatus` | ![eternatus](/img/pokemon/eternatus.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png) |
-
+<table>
+  <tr>
+    <th width="20">Pokédex ID</td>
+    <th width="150">Pokémon Name</td>
+    <th width="200">Sprite</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>bulbasaur</td>
+    <td>![bulbasaur](/img/pokemon/bulbasaur.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>ivysaur</td>
+    <td>![ivysaur](/img/pokemon/ivysaur.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>venusaur</td>
+    <td>![venusaur](/img/pokemon/venusaur.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>charmander</td>
+    <td>![charmander](/img/pokemon/charmander.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>charmeleon</td>
+    <td>![charmeleon](/img/pokemon/charmeleon.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>charizard</td>
+    <td>![charizard](/img/pokemon/charizard.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>squirtle</td>
+    <td>![squirtle](/img/pokemon/squirtle.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>wartortle</td>
+    <td>![wartortle](/img/pokemon/wartortle.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>blastoise</td>
+    <td>![blastoise](/img/pokemon/blastoise.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>caterpie</td>
+    <td>![caterpie](/img/pokemon/caterpie.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>metapod</td>
+    <td>![metapod](/img/pokemon/metapod.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>butterfree</td>
+    <td>![butterfree](/img/pokemon/butterfree.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>weedle</td>
+    <td>![weedle](/img/pokemon/weedle.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>kakuna</td>
+    <td>![kakuna](/img/pokemon/kakuna.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>beedrill</td>
+    <td>![beedrill](/img/pokemon/beedrill.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>pidgey</td>
+    <td>![pidgey](/img/pokemon/pidgey.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>pidgeotto</td>
+    <td>![pidgeotto](/img/pokemon/pidgeotto.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>pidgeot</td>
+    <td>![pidgeot](/img/pokemon/pidgeot.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>rattata</td>
+    <td>![rattata](/img/pokemon/rattata.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>raticate</td>
+    <td>![raticate](/img/pokemon/raticate.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>spearow</td>
+    <td>![spearow](/img/pokemon/spearow.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>fearow</td>
+    <td>![fearow](/img/pokemon/fearow.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>ekans</td>
+    <td>![ekans](/img/pokemon/ekans.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>arbok</td>
+    <td>![arbok](/img/pokemon/arbok.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>pikachu</td>
+    <td>![pikachu](/img/pokemon/pikachu.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>raichu</td>
+    <td>![raichu](/img/pokemon/raichu.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>sandshrew</td>
+    <td>![sandshrew](/img/pokemon/sandshrew.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>sandslash</td>
+    <td>![sandslash](/img/pokemon/sandslash.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>nidoran-m</td>
+    <td>![nidoran-m](/img/pokemon/nidoran-m.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>nidorina</td>
+    <td>![nidorina](/img/pokemon/nidorina.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td>nidoqueen</td>
+    <td>![nidoqueen](/img/pokemon/nidoqueen.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>nidoran-f</td>
+    <td>![nidoran-f](/img/pokemon/nidoran-f.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td>nidorino</td>
+    <td>![nidorino](/img/pokemon/nidorino.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>nidoking</td>
+    <td>![nidoking](/img/pokemon/nidoking.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td>clefairy</td>
+    <td>![clefairy](/img/pokemon/clefairy.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td>clefable</td>
+    <td>![clefable](/img/pokemon/clefable.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td>vulpix</td>
+    <td>![vulpix](/img/pokemon/vulpix.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td>ninetales</td>
+    <td>![ninetales](/img/pokemon/ninetales.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>39</td>
+    <td>jigglypuff</td>
+    <td>![jigglypuff](/img/pokemon/jigglypuff.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>wigglytuff</td>
+    <td>![wigglytuff](/img/pokemon/wigglytuff.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>41</td>
+    <td>zubat</td>
+    <td>![zubat](/img/pokemon/zubat.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td>golbat</td>
+    <td>![golbat](/img/pokemon/golbat.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>43</td>
+    <td>oddish</td>
+    <td>![oddish](/img/pokemon/oddish.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td>gloom</td>
+    <td>![gloom](/img/pokemon/gloom.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>45</td>
+    <td>vileplume</td>
+    <td>![vileplume](/img/pokemon/vileplume.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>46</td>
+    <td>paras</td>
+    <td>![paras](/img/pokemon/paras.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>47</td>
+    <td>parasect</td>
+    <td>![parasect](/img/pokemon/parasect.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>48</td>
+    <td>venonat</td>
+    <td>![venonat](/img/pokemon/venonat.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>49</td>
+    <td>venomoth</td>
+    <td>![venomoth](/img/pokemon/venomoth.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td>diglett</td>
+    <td>![diglett](/img/pokemon/diglett.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>51</td>
+    <td>dugtrio</td>
+    <td>![dugtrio](/img/pokemon/dugtrio.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>52</td>
+    <td>meowth</td>
+    <td>![meowth](/img/pokemon/meowth.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>53</td>
+    <td>persian</td>
+    <td>![persian](/img/pokemon/persian.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>54</td>
+    <td>psyduck</td>
+    <td>![psyduck](/img/pokemon/psyduck.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>55</td>
+    <td>golduck</td>
+    <td>![golduck](/img/pokemon/golduck.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>56</td>
+    <td>mankey</td>
+    <td>![mankey](/img/pokemon/mankey.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>57</td>
+    <td>primeape</td>
+    <td>![primeape](/img/pokemon/primeape.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>58</td>
+    <td>growlithe</td>
+    <td>![growlithe](/img/pokemon/growlithe.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>59</td>
+    <td>arcanine</td>
+    <td>![arcanine](/img/pokemon/arcanine.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>60</td>
+    <td>poliwag</td>
+    <td>![poliwag](/img/pokemon/poliwag.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>61</td>
+    <td>poliwhirl</td>
+    <td>![poliwhirl](/img/pokemon/poliwhirl.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>62</td>
+    <td>poliwrath</td>
+    <td>![poliwrath](/img/pokemon/poliwrath.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>63</td>
+    <td>abra</td>
+    <td>![abra](/img/pokemon/abra.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>64</td>
+    <td>kadabra</td>
+    <td>![kadabra](/img/pokemon/kadabra.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>65</td>
+    <td>alakazam</td>
+    <td>![alakazam](/img/pokemon/alakazam.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>66</td>
+    <td>machop</td>
+    <td>![machop](/img/pokemon/machop.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>67</td>
+    <td>machoke</td>
+    <td>![machoke](/img/pokemon/machoke.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>68</td>
+    <td>machamp</td>
+    <td>![machamp](/img/pokemon/machamp.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>69</td>
+    <td>bellsprout</td>
+    <td>![bellsprout](/img/pokemon/bellsprout.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>70</td>
+    <td>weepinbell</td>
+    <td>![weepinbell](/img/pokemon/weepinbell.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>71</td>
+    <td>victreebel</td>
+    <td>![victreebel](/img/pokemon/victreebel.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>72</td>
+    <td>tentacool</td>
+    <td>![tentacool](/img/pokemon/tentacool.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>73</td>
+    <td>tentacruel</td>
+    <td>![tentacruel](/img/pokemon/tentacruel.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>74</td>
+    <td>geodude</td>
+    <td>![geodude](/img/pokemon/geodude.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>75</td>
+    <td>graveler</td>
+    <td>![graveler](/img/pokemon/graveler.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>76</td>
+    <td>golem</td>
+    <td>![golem](/img/pokemon/golem.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>77</td>
+    <td>ponyta</td>
+    <td>![ponyta](/img/pokemon/ponyta.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>78</td>
+    <td>rapidash</td>
+    <td>![rapidash](/img/pokemon/rapidash.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>79</td>
+    <td>slowpoke</td>
+    <td>![slowpoke](/img/pokemon/slowpoke.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>80</td>
+    <td>slowbro</td>
+    <td>![slowbro](/img/pokemon/slowbro.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>81</td>
+    <td>magnemite</td>
+    <td>![magnemite](/img/pokemon/magnemite.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>82</td>
+    <td>magneton</td>
+    <td>![magneton](/img/pokemon/magneton.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>83</td>
+    <td>farfetchd</td>
+    <td>![farfetchd](/img/pokemon/farfetchd.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>84</td>
+    <td>doduo</td>
+    <td>![doduo](/img/pokemon/doduo.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>85</td>
+    <td>dodrio</td>
+    <td>![dodrio](/img/pokemon/dodrio.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>86</td>
+    <td>seel</td>
+    <td>![seel](/img/pokemon/seel.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>87</td>
+    <td>dewgong</td>
+    <td>![dewgong](/img/pokemon/dewgong.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>88</td>
+    <td>grimer</td>
+    <td>![grimer](/img/pokemon/grimer.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>89</td>
+    <td>muk</td>
+    <td>![muk](/img/pokemon/muk.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>90</td>
+    <td>shellder</td>
+    <td>![shellder](/img/pokemon/shellder.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>91</td>
+    <td>cloyster</td>
+    <td>![cloyster](/img/pokemon/cloyster.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>92</td>
+    <td>gastly</td>
+    <td>![gastly](/img/pokemon/gastly.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>93</td>
+    <td>haunter</td>
+    <td>![haunter](/img/pokemon/haunter.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>94</td>
+    <td>gengar</td>
+    <td>![gengar](/img/pokemon/gengar.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>95</td>
+    <td>onix</td>
+    <td>![onix](/img/pokemon/onix.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>96</td>
+    <td>drowzee</td>
+    <td>![drowzee](/img/pokemon/drowzee.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>97</td>
+    <td>hypno</td>
+    <td>![hypno](/img/pokemon/hypno.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>98</td>
+    <td>krabby</td>
+    <td>![krabby](/img/pokemon/krabby.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>99</td>
+    <td>kingler</td>
+    <td>![kingler](/img/pokemon/kingler.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>voltorb</td>
+    <td>![voltorb](/img/pokemon/voltorb.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>101</td>
+    <td>electrode</td>
+    <td>![electrode](/img/pokemon/electrode.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>102</td>
+    <td>exeggcute</td>
+    <td>![exeggcute](/img/pokemon/exeggcute.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>103</td>
+    <td>exeggutor</td>
+    <td>![exeggutor](/img/pokemon/exeggutor.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>104</td>
+    <td>cubone</td>
+    <td>![cubone](/img/pokemon/cubone.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>105</td>
+    <td>marowak</td>
+    <td>![marowak](/img/pokemon/marowak.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>106</td>
+    <td>hitmonlee</td>
+    <td>![hitmonlee](/img/pokemon/hitmonlee.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>107</td>
+    <td>hitmonchan</td>
+    <td>![hitmonchan](/img/pokemon/hitmonchan.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>108</td>
+    <td>lickitung</td>
+    <td>![lickitung](/img/pokemon/lickitung.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>109</td>
+    <td>koffing</td>
+    <td>![koffing](/img/pokemon/koffing.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>110</td>
+    <td>weezing</td>
+    <td>![weezing](/img/pokemon/weezing.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>111</td>
+    <td>rhyhorn</td>
+    <td>![rhyhorn](/img/pokemon/rhyhorn.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>112</td>
+    <td>rhydon</td>
+    <td>![rhydon](/img/pokemon/rhydon.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>113</td>
+    <td>chansey</td>
+    <td>![chansey](/img/pokemon/chansey.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>114</td>
+    <td>tangela</td>
+    <td>![tangela](/img/pokemon/tangela.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>115</td>
+    <td>kangaskhan</td>
+    <td>![kangaskhan](/img/pokemon/kangaskhan.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>116</td>
+    <td>horsea</td>
+    <td>![horsea](/img/pokemon/horsea.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>117</td>
+    <td>seadra</td>
+    <td>![seadra](/img/pokemon/seadra.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>118</td>
+    <td>goldeen</td>
+    <td>![goldeen](/img/pokemon/goldeen.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>119</td>
+    <td>seaking</td>
+    <td>![seaking](/img/pokemon/seaking.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>120</td>
+    <td>staryu</td>
+    <td>![staryu](/img/pokemon/staryu.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>121</td>
+    <td>starmie</td>
+    <td>![starmie](/img/pokemon/starmie.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>122</td>
+    <td>mr mime</td>
+    <td>![mr mime](/img/pokemon/mr&#32;mime.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>123</td>
+    <td>scyther</td>
+    <td>![scyther](/img/pokemon/scyther.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>124</td>
+    <td>jynx</td>
+    <td>![jynx](/img/pokemon/jynx.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>125</td>
+    <td>electabuzz</td>
+    <td>![electabuzz](/img/pokemon/electabuzz.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>126</td>
+    <td>magmar</td>
+    <td>![magmar](/img/pokemon/magmar.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>127</td>
+    <td>pinsir</td>
+    <td>![pinsir](/img/pokemon/pinsir.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>128</td>
+    <td>tauros</td>
+    <td>![tauros](/img/pokemon/tauros.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>129</td>
+    <td>magikarp</td>
+    <td>![magikarp](/img/pokemon/magikarp.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>130</td>
+    <td>gyarados</td>
+    <td>![gyarados](/img/pokemon/gyarados.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>131</td>
+    <td>lapras</td>
+    <td>![lapras](/img/pokemon/lapras.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>132</td>
+    <td>ditto</td>
+    <td>![ditto](/img/pokemon/ditto.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>133</td>
+    <td>eevee</td>
+    <td>![eevee](/img/pokemon/eevee.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>134</td>
+    <td>vaporeon</td>
+    <td>![vaporeon](/img/pokemon/vaporeon.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>135</td>
+    <td>jolteon</td>
+    <td>![jolteon](/img/pokemon/jolteon.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>136</td>
+    <td>flareon</td>
+    <td>![flareon](/img/pokemon/flareon.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>137</td>
+    <td>porygon</td>
+    <td>![porygon](/img/pokemon/porygon.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>138</td>
+    <td>omanyte</td>
+    <td>![omanyte](/img/pokemon/omanyte.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>139</td>
+    <td>omastar</td>
+    <td>![omastar](/img/pokemon/omastar.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>140</td>
+    <td>kabuto</td>
+    <td>![kabuto](/img/pokemon/kabuto.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>141</td>
+    <td>kabutops</td>
+    <td>![kabutops](/img/pokemon/kabutops.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>142</td>
+    <td>aerodactyl</td>
+    <td>![aerodactyl](/img/pokemon/aerodactyl.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>143</td>
+    <td>snorlax</td>
+    <td>![snorlax](/img/pokemon/snorlax.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>144</td>
+    <td>articuno</td>
+    <td>![articuno](/img/pokemon/articuno.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>145</td>
+    <td>zapdos</td>
+    <td>![zapdos](/img/pokemon/zapdos.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>146</td>
+    <td>moltres</td>
+    <td>![moltres](/img/pokemon/moltres.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>147</td>
+    <td>dratini</td>
+    <td>![dratini](/img/pokemon/dratini.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>148</td>
+    <td>dragonair</td>
+    <td>![dragonair](/img/pokemon/dragonair.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>149</td>
+    <td>dragonite</td>
+    <td>![dragonite](/img/pokemon/dragonite.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>150</td>
+    <td>mewtwo</td>
+    <td>![mewtwo](/img/pokemon/mewtwo.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>151</td>
+    <td>mew</td>
+    <td>![mew](/img/pokemon/mew.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>152</td>
+    <td>chikorita</td>
+    <td>![chikorita](/img/pokemon/chikorita.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>153</td>
+    <td>bayleef</td>
+    <td>![bayleef](/img/pokemon/bayleef.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>154</td>
+    <td>meganium</td>
+    <td>![meganium](/img/pokemon/meganium.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>155</td>
+    <td>cyndaquil</td>
+    <td>![cyndaquil](/img/pokemon/cyndaquil.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>156</td>
+    <td>quilava</td>
+    <td>![quilava](/img/pokemon/quilava.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>157</td>
+    <td>typhlosion</td>
+    <td>![typhlosion](/img/pokemon/typhlosion.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>158</td>
+    <td>totodile</td>
+    <td>![totodile](/img/pokemon/totodile.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>159</td>
+    <td>croconaw</td>
+    <td>![croconaw](/img/pokemon/croconaw.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>160</td>
+    <td>feraligatr</td>
+    <td>![feraligatr](/img/pokemon/feraligatr.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>161</td>
+    <td>sentret</td>
+    <td>![sentret](/img/pokemon/sentret.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>162</td>
+    <td>furret</td>
+    <td>![furret](/img/pokemon/furret.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>163</td>
+    <td>hoothoot</td>
+    <td>![hoothoot](/img/pokemon/hoothoot.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>164</td>
+    <td>noctowl</td>
+    <td>![noctowl](/img/pokemon/noctowl.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>165</td>
+    <td>ledyba</td>
+    <td>![ledyba](/img/pokemon/ledyba.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>166</td>
+    <td>ledian</td>
+    <td>![ledian](/img/pokemon/ledian.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>167</td>
+    <td>spinarak</td>
+    <td>![spinarak](/img/pokemon/spinarak.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>168</td>
+    <td>ariados</td>
+    <td>![ariados](/img/pokemon/ariados.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>169</td>
+    <td>crobat</td>
+    <td>![crobat](/img/pokemon/crobat.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>170</td>
+    <td>chinchou</td>
+    <td>![chinchou](/img/pokemon/chinchou.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>171</td>
+    <td>lanturn</td>
+    <td>![lanturn](/img/pokemon/lanturn.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>172</td>
+    <td>pichu</td>
+    <td>![pichu](/img/pokemon/pichu.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>173</td>
+    <td>cleffa</td>
+    <td>![cleffa](/img/pokemon/cleffa.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>174</td>
+    <td>igglybuff</td>
+    <td>![igglybuff](/img/pokemon/igglybuff.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>175</td>
+    <td>togepi</td>
+    <td>![togepi](/img/pokemon/togepi.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>176</td>
+    <td>togetic</td>
+    <td>![togetic](/img/pokemon/togetic.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>177</td>
+    <td>natu</td>
+    <td>![natu](/img/pokemon/natu.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>178</td>
+    <td>xatu</td>
+    <td>![xatu](/img/pokemon/xatu.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>179</td>
+    <td>mareep</td>
+    <td>![mareep](/img/pokemon/mareep.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>180</td>
+    <td>flaaffy</td>
+    <td>![flaaffy](/img/pokemon/flaaffy.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>181</td>
+    <td>ampharos</td>
+    <td>![ampharos](/img/pokemon/ampharos.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>182</td>
+    <td>bellossom</td>
+    <td>![bellossom](/img/pokemon/bellossom.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>183</td>
+    <td>marill</td>
+    <td>![marill](/img/pokemon/marill.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>184</td>
+    <td>azumarill</td>
+    <td>![azumarill](/img/pokemon/azumarill.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>185</td>
+    <td>sudowoodo</td>
+    <td>![sudowoodo](/img/pokemon/sudowoodo.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>186</td>
+    <td>politoed</td>
+    <td>![politoed](/img/pokemon/politoed.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>187</td>
+    <td>hoppip</td>
+    <td>![hoppip](/img/pokemon/hoppip.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>188</td>
+    <td>skiploom</td>
+    <td>![skiploom](/img/pokemon/skiploom.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>189</td>
+    <td>jumpluff</td>
+    <td>![jumpluff](/img/pokemon/jumpluff.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>190</td>
+    <td>aipom</td>
+    <td>![aipom](/img/pokemon/aipom.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>191</td>
+    <td>sunkern</td>
+    <td>![sunkern](/img/pokemon/sunkern.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>192</td>
+    <td>sunflora</td>
+    <td>![sunflora](/img/pokemon/sunflora.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>193</td>
+    <td>yanma</td>
+    <td>![yanma](/img/pokemon/yanma.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>194</td>
+    <td>wooper</td>
+    <td>![wooper](/img/pokemon/wooper.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>195</td>
+    <td>quagsire</td>
+    <td>![quagsire](/img/pokemon/quagsire.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>196</td>
+    <td>espeon</td>
+    <td>![espeon](/img/pokemon/espeon.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>197</td>
+    <td>umbreon</td>
+    <td>![umbreon](/img/pokemon/umbreon.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>198</td>
+    <td>murkrow</td>
+    <td>![murkrow](/img/pokemon/murkrow.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>199</td>
+    <td>slowking</td>
+    <td>![slowking](/img/pokemon/slowking.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>200</td>
+    <td>misdreavus</td>
+    <td>![misdreavus](/img/pokemon/misdreavus.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>201</td>
+    <td>unown</td>
+    <td>![unown](/img/pokemon/unown.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>202</td>
+    <td>wobbuffet</td>
+    <td>![wobbuffet](/img/pokemon/wobbuffet.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>203</td>
+    <td>girafarig</td>
+    <td>![girafarig](/img/pokemon/girafarig.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>204</td>
+    <td>pineco</td>
+    <td>![pineco](/img/pokemon/pineco.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>205</td>
+    <td>forretress</td>
+    <td>![forretress](/img/pokemon/forretress.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>206</td>
+    <td>dunsparce</td>
+    <td>![dunsparce](/img/pokemon/dunsparce.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>207</td>
+    <td>gligar</td>
+    <td>![gligar](/img/pokemon/gligar.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>208</td>
+    <td>steelix</td>
+    <td>![steelix](/img/pokemon/steelix.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>209</td>
+    <td>snubbull</td>
+    <td>![snubbull](/img/pokemon/snubbull.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>210</td>
+    <td>granbull</td>
+    <td>![granbull](/img/pokemon/granbull.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>211</td>
+    <td>qwilfish</td>
+    <td>![qwilfish](/img/pokemon/qwilfish.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>212</td>
+    <td>scizor</td>
+    <td>![scizor](/img/pokemon/scizor.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>213</td>
+    <td>shuckle</td>
+    <td>![shuckle](/img/pokemon/shuckle.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>214</td>
+    <td>heracross</td>
+    <td>![heracross](/img/pokemon/heracross.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>215</td>
+    <td>sneasel</td>
+    <td>![sneasel](/img/pokemon/sneasel.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>216</td>
+    <td>teddiursa</td>
+    <td>![teddiursa](/img/pokemon/teddiursa.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>217</td>
+    <td>ursaring</td>
+    <td>![ursaring](/img/pokemon/ursaring.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>218</td>
+    <td>slugma</td>
+    <td>![slugma](/img/pokemon/slugma.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>219</td>
+    <td>magcargo</td>
+    <td>![magcargo](/img/pokemon/magcargo.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>220</td>
+    <td>swinub</td>
+    <td>![swinub](/img/pokemon/swinub.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>221</td>
+    <td>piloswine</td>
+    <td>![piloswine](/img/pokemon/piloswine.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>222</td>
+    <td>corsola</td>
+    <td>![corsola](/img/pokemon/corsola.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>223</td>
+    <td>remoraid</td>
+    <td>![remoraid](/img/pokemon/remoraid.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>224</td>
+    <td>octillery</td>
+    <td>![octillery](/img/pokemon/octillery.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>225</td>
+    <td>delibird</td>
+    <td>![delibird](/img/pokemon/delibird.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>226</td>
+    <td>mantine</td>
+    <td>![mantine](/img/pokemon/mantine.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>227</td>
+    <td>skarmory</td>
+    <td>![skarmory](/img/pokemon/skarmory.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>228</td>
+    <td>houndour</td>
+    <td>![houndour](/img/pokemon/houndour.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>229</td>
+    <td>houndoom</td>
+    <td>![houndoom](/img/pokemon/houndoom.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>230</td>
+    <td>kingdra</td>
+    <td>![kingdra](/img/pokemon/kingdra.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>231</td>
+    <td>phanpy</td>
+    <td>![phanpy](/img/pokemon/phanpy.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>232</td>
+    <td>donphan</td>
+    <td>![donphan](/img/pokemon/donphan.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>233</td>
+    <td>porygon2</td>
+    <td>![porygon2](/img/pokemon/porygon2.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>234</td>
+    <td>stantler</td>
+    <td>![stantler](/img/pokemon/stantler.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>235</td>
+    <td>smeargle</td>
+    <td>![smeargle](/img/pokemon/smeargle.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>236</td>
+    <td>tyrogue</td>
+    <td>![tyrogue](/img/pokemon/tyrogue.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>237</td>
+    <td>hitmontop</td>
+    <td>![hitmontop](/img/pokemon/hitmontop.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>238</td>
+    <td>smoochum</td>
+    <td>![smoochum](/img/pokemon/smoochum.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>239</td>
+    <td>elekid</td>
+    <td>![elekid](/img/pokemon/elekid.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>240</td>
+    <td>magby</td>
+    <td>![magby](/img/pokemon/magby.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>241</td>
+    <td>miltank</td>
+    <td>![miltank](/img/pokemon/miltank.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>242</td>
+    <td>blissey</td>
+    <td>![blissey](/img/pokemon/blissey.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>243</td>
+    <td>raikou</td>
+    <td>![raikou](/img/pokemon/raikou.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>244</td>
+    <td>entei</td>
+    <td>![entei](/img/pokemon/entei.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>245</td>
+    <td>suicune</td>
+    <td>![suicune](/img/pokemon/suicune.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>246</td>
+    <td>larvitar</td>
+    <td>![larvitar](/img/pokemon/larvitar.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>247</td>
+    <td>pupitar</td>
+    <td>![pupitar](/img/pokemon/pupitar.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>248</td>
+    <td>tyranitar</td>
+    <td>![tyranitar](/img/pokemon/tyranitar.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>249</td>
+    <td>lugia</td>
+    <td>![lugia](/img/pokemon/lugia.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>250</td>
+    <td>ho-oh</td>
+    <td>![ho-oh](/img/pokemon/ho-oh.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>251</td>
+    <td>celebi</td>
+    <td>![celebi](/img/pokemon/celebi.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>252</td>
+    <td>treecko</td>
+    <td>![treecko](/img/pokemon/treecko.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>253</td>
+    <td>grovyle</td>
+    <td>![grovyle](/img/pokemon/grovyle.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>254</td>
+    <td>sceptile</td>
+    <td>![sceptile](/img/pokemon/sceptile.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>255</td>
+    <td>torchic</td>
+    <td>![torchic](/img/pokemon/torchic.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>256</td>
+    <td>combusken</td>
+    <td>![combusken](/img/pokemon/combusken.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>257</td>
+    <td>blaziken</td>
+    <td>![blaziken](/img/pokemon/blaziken.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>258</td>
+    <td>mudkip</td>
+    <td>![mudkip](/img/pokemon/mudkip.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>259</td>
+    <td>marshtomp</td>
+    <td>![marshtomp](/img/pokemon/marshtomp.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>260</td>
+    <td>swampert</td>
+    <td>![swampert](/img/pokemon/swampert.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>261</td>
+    <td>poochyena</td>
+    <td>![poochyena](/img/pokemon/poochyena.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>262</td>
+    <td>mightyena</td>
+    <td>![mightyena](/img/pokemon/mightyena.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>263</td>
+    <td>zigzagoon</td>
+    <td>![zigzagoon](/img/pokemon/zigzagoon.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>264</td>
+    <td>linoone</td>
+    <td>![linoone](/img/pokemon/linoone.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>265</td>
+    <td>wurmple</td>
+    <td>![wurmple](/img/pokemon/wurmple.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>266</td>
+    <td>silcoon</td>
+    <td>![silcoon](/img/pokemon/silcoon.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>267</td>
+    <td>beautifly</td>
+    <td>![beautifly](/img/pokemon/beautifly.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>268</td>
+    <td>cascoon</td>
+    <td>![cascoon](/img/pokemon/cascoon.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>269</td>
+    <td>dustox</td>
+    <td>![dustox](/img/pokemon/dustox.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>270</td>
+    <td>lotad</td>
+    <td>![lotad](/img/pokemon/lotad.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>271</td>
+    <td>lombre</td>
+    <td>![lombre](/img/pokemon/lombre.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>272</td>
+    <td>ludicolo</td>
+    <td>![ludicolo](/img/pokemon/ludicolo.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>273</td>
+    <td>seedot</td>
+    <td>![seedot](/img/pokemon/seedot.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>274</td>
+    <td>nuzleaf</td>
+    <td>![nuzleaf](/img/pokemon/nuzleaf.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>275</td>
+    <td>shiftry</td>
+    <td>![shiftry](/img/pokemon/shiftry.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>276</td>
+    <td>taillow</td>
+    <td>![taillow](/img/pokemon/taillow.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>277</td>
+    <td>swellow</td>
+    <td>![swellow](/img/pokemon/swellow.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>278</td>
+    <td>wingull</td>
+    <td>![wingull](/img/pokemon/wingull.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>279</td>
+    <td>pelipper</td>
+    <td>![pelipper](/img/pokemon/pelipper.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>280</td>
+    <td>ralts</td>
+    <td>![ralts](/img/pokemon/ralts.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>281</td>
+    <td>kirlia</td>
+    <td>![kirlia](/img/pokemon/kirlia.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>282</td>
+    <td>gardevoir</td>
+    <td>![gardevoir](/img/pokemon/gardevoir.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>283</td>
+    <td>surskit</td>
+    <td>![surskit](/img/pokemon/surskit.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>284</td>
+    <td>masquerain</td>
+    <td>![masquerain](/img/pokemon/masquerain.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>285</td>
+    <td>shroomish</td>
+    <td>![shroomish](/img/pokemon/shroomish.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>286</td>
+    <td>breloom</td>
+    <td>![breloom](/img/pokemon/breloom.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>287</td>
+    <td>slakoth</td>
+    <td>![slakoth](/img/pokemon/slakoth.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>288</td>
+    <td>vigoroth</td>
+    <td>![vigoroth](/img/pokemon/vigoroth.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>289</td>
+    <td>slaking</td>
+    <td>![slaking](/img/pokemon/slaking.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>290</td>
+    <td>nincada</td>
+    <td>![nincada](/img/pokemon/nincada.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>291</td>
+    <td>ninjask</td>
+    <td>![ninjask](/img/pokemon/ninjask.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>292</td>
+    <td>shedinja</td>
+    <td>![shedinja](/img/pokemon/shedinja.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>293</td>
+    <td>whismur</td>
+    <td>![whismur](/img/pokemon/whismur.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>294</td>
+    <td>loudred</td>
+    <td>![loudred](/img/pokemon/loudred.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>295</td>
+    <td>exploud</td>
+    <td>![exploud](/img/pokemon/exploud.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>296</td>
+    <td>makuhita</td>
+    <td>![makuhita](/img/pokemon/makuhita.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>297</td>
+    <td>hariyama</td>
+    <td>![hariyama](/img/pokemon/hariyama.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>298</td>
+    <td>azurill</td>
+    <td>![azurill](/img/pokemon/azurill.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>299</td>
+    <td>nosepass</td>
+    <td>![nosepass](/img/pokemon/nosepass.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>300</td>
+    <td>skitty</td>
+    <td>![skitty](/img/pokemon/skitty.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>301</td>
+    <td>delcatty</td>
+    <td>![delcatty](/img/pokemon/delcatty.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>302</td>
+    <td>sableye</td>
+    <td>![sableye](/img/pokemon/sableye.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>303</td>
+    <td>mawile</td>
+    <td>![mawile](/img/pokemon/mawile.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>304</td>
+    <td>aron</td>
+    <td>![aron](/img/pokemon/aron.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>305</td>
+    <td>lairon</td>
+    <td>![lairon](/img/pokemon/lairon.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>306</td>
+    <td>aggron</td>
+    <td>![aggron](/img/pokemon/aggron.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>307</td>
+    <td>meditite</td>
+    <td>![meditite](/img/pokemon/meditite.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>308</td>
+    <td>medicham</td>
+    <td>![medicham](/img/pokemon/medicham.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>309</td>
+    <td>electrike</td>
+    <td>![electrike](/img/pokemon/electrike.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>310</td>
+    <td>manectric</td>
+    <td>![manectric](/img/pokemon/manectric.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>311</td>
+    <td>plusle</td>
+    <td>![plusle](/img/pokemon/plusle.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>312</td>
+    <td>minun</td>
+    <td>![minun](/img/pokemon/minun.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>313</td>
+    <td>volbeat</td>
+    <td>![volbeat](/img/pokemon/volbeat.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>314</td>
+    <td>illumise</td>
+    <td>![illumise](/img/pokemon/illumise.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>315</td>
+    <td>roselia</td>
+    <td>![roselia](/img/pokemon/roselia.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>316</td>
+    <td>gulpin</td>
+    <td>![gulpin](/img/pokemon/gulpin.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>317</td>
+    <td>swalot</td>
+    <td>![swalot](/img/pokemon/swalot.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>318</td>
+    <td>carvanha</td>
+    <td>![carvanha](/img/pokemon/carvanha.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>319</td>
+    <td>sharpedo</td>
+    <td>![sharpedo](/img/pokemon/sharpedo.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>320</td>
+    <td>wailmer</td>
+    <td>![wailmer](/img/pokemon/wailmer.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>321</td>
+    <td>wailord</td>
+    <td>![wailord](/img/pokemon/wailord.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>322</td>
+    <td>numel</td>
+    <td>![numel](/img/pokemon/numel.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>323</td>
+    <td>camerupt</td>
+    <td>![camerupt](/img/pokemon/camerupt.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>324</td>
+    <td>torkoal</td>
+    <td>![torkoal](/img/pokemon/torkoal.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>325</td>
+    <td>spoink</td>
+    <td>![spoink](/img/pokemon/spoink.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>326</td>
+    <td>grumpig</td>
+    <td>![grumpig](/img/pokemon/grumpig.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>327</td>
+    <td>spinda</td>
+    <td>![spinda](/img/pokemon/spinda.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>328</td>
+    <td>trapinch</td>
+    <td>![trapinch](/img/pokemon/trapinch.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>329</td>
+    <td>vibrava</td>
+    <td>![vibrava](/img/pokemon/vibrava.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>330</td>
+    <td>flygon</td>
+    <td>![flygon](/img/pokemon/flygon.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>331</td>
+    <td>cacnea</td>
+    <td>![cacnea](/img/pokemon/cacnea.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>332</td>
+    <td>cacturne</td>
+    <td>![cacturne](/img/pokemon/cacturne.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>333</td>
+    <td>swablu</td>
+    <td>![swablu](/img/pokemon/swablu.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>334</td>
+    <td>altaria</td>
+    <td>![altaria](/img/pokemon/altaria.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>335</td>
+    <td>zangoose</td>
+    <td>![zangoose](/img/pokemon/zangoose.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>336</td>
+    <td>seviper</td>
+    <td>![seviper](/img/pokemon/seviper.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>337</td>
+    <td>lunatone</td>
+    <td>![lunatone](/img/pokemon/lunatone.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>338</td>
+    <td>solrock</td>
+    <td>![solrock](/img/pokemon/solrock.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>339</td>
+    <td>barboach</td>
+    <td>![barboach](/img/pokemon/barboach.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>340</td>
+    <td>whiscash</td>
+    <td>![whiscash](/img/pokemon/whiscash.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>341</td>
+    <td>corphish</td>
+    <td>![corphish](/img/pokemon/corphish.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>342</td>
+    <td>crawdaunt</td>
+    <td>![crawdaunt](/img/pokemon/crawdaunt.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>343</td>
+    <td>baltoy</td>
+    <td>![baltoy](/img/pokemon/baltoy.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>344</td>
+    <td>claydol</td>
+    <td>![claydol](/img/pokemon/claydol.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>345</td>
+    <td>lileep</td>
+    <td>![lileep](/img/pokemon/lileep.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>346</td>
+    <td>cradily</td>
+    <td>![cradily](/img/pokemon/cradily.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>347</td>
+    <td>anorith</td>
+    <td>![anorith](/img/pokemon/anorith.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>348</td>
+    <td>armaldo</td>
+    <td>![armaldo](/img/pokemon/armaldo.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>349</td>
+    <td>feebas</td>
+    <td>![feebas](/img/pokemon/feebas.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>350</td>
+    <td>milotic</td>
+    <td>![milotic](/img/pokemon/milotic.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>351</td>
+    <td>castform</td>
+    <td>![castform](/img/pokemon/castform.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>352</td>
+    <td>kecleon</td>
+    <td>![kecleon](/img/pokemon/kecleon.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>353</td>
+    <td>shuppet</td>
+    <td>![shuppet](/img/pokemon/shuppet.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>354</td>
+    <td>banette</td>
+    <td>![banette](/img/pokemon/banette.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>355</td>
+    <td>duskull</td>
+    <td>![duskull](/img/pokemon/duskull.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>356</td>
+    <td>dusclops</td>
+    <td>![dusclops](/img/pokemon/dusclops.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>357</td>
+    <td>tropius</td>
+    <td>![tropius](/img/pokemon/tropius.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>358</td>
+    <td>chimecho</td>
+    <td>![chimecho](/img/pokemon/chimecho.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>359</td>
+    <td>absol</td>
+    <td>![absol](/img/pokemon/absol.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>360</td>
+    <td>wynaut</td>
+    <td>![wynaut](/img/pokemon/wynaut.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>361</td>
+    <td>snorunt</td>
+    <td>![snorunt](/img/pokemon/snorunt.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>362</td>
+    <td>glalie</td>
+    <td>![glalie](/img/pokemon/glalie.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>363</td>
+    <td>spheal</td>
+    <td>![spheal](/img/pokemon/spheal.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>364</td>
+    <td>sealeo</td>
+    <td>![sealeo](/img/pokemon/sealeo.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>365</td>
+    <td>walrein</td>
+    <td>![walrein](/img/pokemon/walrein.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>366</td>
+    <td>clamperl</td>
+    <td>![clamperl](/img/pokemon/clamperl.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>367</td>
+    <td>huntail</td>
+    <td>![huntail](/img/pokemon/huntail.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>368</td>
+    <td>gorebyss</td>
+    <td>![gorebyss](/img/pokemon/gorebyss.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>369</td>
+    <td>relicanth</td>
+    <td>![relicanth](/img/pokemon/relicanth.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>370</td>
+    <td>luvdisc</td>
+    <td>![luvdisc](/img/pokemon/luvdisc.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>371</td>
+    <td>bagon</td>
+    <td>![bagon](/img/pokemon/bagon.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>372</td>
+    <td>shelgon</td>
+    <td>![shelgon](/img/pokemon/shelgon.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>373</td>
+    <td>salamence</td>
+    <td>![salamence](/img/pokemon/salamence.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>374</td>
+    <td>beldum</td>
+    <td>![beldum](/img/pokemon/beldum.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>375</td>
+    <td>metang</td>
+    <td>![metang](/img/pokemon/metang.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>376</td>
+    <td>metagross</td>
+    <td>![metagross](/img/pokemon/metagross.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>377</td>
+    <td>regirock</td>
+    <td>![regirock](/img/pokemon/regirock.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>378</td>
+    <td>regice</td>
+    <td>![regice](/img/pokemon/regice.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>379</td>
+    <td>registeel</td>
+    <td>![registeel](/img/pokemon/registeel.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>380</td>
+    <td>latias</td>
+    <td>![latias](/img/pokemon/latias.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>381</td>
+    <td>latios</td>
+    <td>![latios](/img/pokemon/latios.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>382</td>
+    <td>kyogre</td>
+    <td>![kyogre](/img/pokemon/kyogre.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>383</td>
+    <td>groudon</td>
+    <td>![groudon](/img/pokemon/groudon.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>384</td>
+    <td>rayquaza</td>
+    <td>![rayquaza](/img/pokemon/rayquaza.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>385</td>
+    <td>jirachi</td>
+    <td>![jirachi](/img/pokemon/jirachi.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>386</td>
+    <td>deoxys</td>
+    <td>![deoxys](/img/pokemon/deoxys.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>387</td>
+    <td>turtwig</td>
+    <td>![turtwig](/img/pokemon/turtwig.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>388</td>
+    <td>grotle</td>
+    <td>![grotle](/img/pokemon/grotle.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>389</td>
+    <td>torterra</td>
+    <td>![torterra](/img/pokemon/torterra.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>390</td>
+    <td>chimchar</td>
+    <td>![chimchar](/img/pokemon/chimchar.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>391</td>
+    <td>monferno</td>
+    <td>![monferno](/img/pokemon/monferno.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>392</td>
+    <td>infernape</td>
+    <td>![infernape](/img/pokemon/infernape.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>393</td>
+    <td>piplup</td>
+    <td>![piplup](/img/pokemon/piplup.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>394</td>
+    <td>prinplup</td>
+    <td>![prinplup](/img/pokemon/prinplup.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>395</td>
+    <td>empoleon</td>
+    <td>![empoleon](/img/pokemon/empoleon.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>396</td>
+    <td>starly</td>
+    <td>![starly](/img/pokemon/starly.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>397</td>
+    <td>staravia</td>
+    <td>![staravia](/img/pokemon/staravia.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>398</td>
+    <td>staraptor</td>
+    <td>![staraptor](/img/pokemon/staraptor.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>399</td>
+    <td>bidoof</td>
+    <td>![bidoof](/img/pokemon/bidoof.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>400</td>
+    <td>bibarel</td>
+    <td>![bibarel](/img/pokemon/bibarel.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>401</td>
+    <td>kricketot</td>
+    <td>![kricketot](/img/pokemon/kricketot.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>402</td>
+    <td>kricketune</td>
+    <td>![kricketune](/img/pokemon/kricketune.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>403</td>
+    <td>shinx</td>
+    <td>![shinx](/img/pokemon/shinx.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>404</td>
+    <td>luxio</td>
+    <td>![luxio](/img/pokemon/luxio.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>405</td>
+    <td>luxray</td>
+    <td>![luxray](/img/pokemon/luxray.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>406</td>
+    <td>budew</td>
+    <td>![budew](/img/pokemon/budew.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>407</td>
+    <td>roserade</td>
+    <td>![roserade](/img/pokemon/roserade.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>408</td>
+    <td>cranidos</td>
+    <td>![cranidos](/img/pokemon/cranidos.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>409</td>
+    <td>rampardos</td>
+    <td>![rampardos](/img/pokemon/rampardos.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>410</td>
+    <td>shieldon</td>
+    <td>![shieldon](/img/pokemon/shieldon.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>411</td>
+    <td>bastiodon</td>
+    <td>![bastiodon](/img/pokemon/bastiodon.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>412</td>
+    <td>burmy</td>
+    <td>![burmy](/img/pokemon/burmy.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>413</td>
+    <td>wormadam</td>
+    <td>![wormadam](/img/pokemon/wormadam.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>414</td>
+    <td>mothim</td>
+    <td>![mothim](/img/pokemon/mothim.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>415</td>
+    <td>combee</td>
+    <td>![combee](/img/pokemon/combee.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>416</td>
+    <td>vespiquen</td>
+    <td>![vespiquen](/img/pokemon/vespiquen.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>417</td>
+    <td>pachirisu</td>
+    <td>![pachirisu](/img/pokemon/pachirisu.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>418</td>
+    <td>buizel</td>
+    <td>![buizel](/img/pokemon/buizel.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>419</td>
+    <td>floatzel</td>
+    <td>![floatzel](/img/pokemon/floatzel.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>420</td>
+    <td>cherubi</td>
+    <td>![cherubi](/img/pokemon/cherubi.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>421</td>
+    <td>cherrim</td>
+    <td>![cherrim](/img/pokemon/cherrim.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>422</td>
+    <td>shellos</td>
+    <td>![shellos](/img/pokemon/shellos.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>423</td>
+    <td>gastrodon</td>
+    <td>![gastrodon](/img/pokemon/gastrodon.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>424</td>
+    <td>ambipom</td>
+    <td>![ambipom](/img/pokemon/ambipom.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>425</td>
+    <td>drifloon</td>
+    <td>![drifloon](/img/pokemon/drifloon.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>426</td>
+    <td>drifblim</td>
+    <td>![drifblim](/img/pokemon/drifblim.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>427</td>
+    <td>buneary</td>
+    <td>![buneary](/img/pokemon/buneary.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>428</td>
+    <td>lopunny</td>
+    <td>![lopunny](/img/pokemon/lopunny.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>429</td>
+    <td>mismagius</td>
+    <td>![mismagius](/img/pokemon/mismagius.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>430</td>
+    <td>honchkrow</td>
+    <td>![honchkrow](/img/pokemon/honchkrow.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>431</td>
+    <td>glameow</td>
+    <td>![glameow](/img/pokemon/glameow.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>432</td>
+    <td>purugly</td>
+    <td>![purugly](/img/pokemon/purugly.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>433</td>
+    <td>chingling</td>
+    <td>![chingling](/img/pokemon/chingling.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>434</td>
+    <td>stunky</td>
+    <td>![stunky](/img/pokemon/stunky.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>435</td>
+    <td>skuntank</td>
+    <td>![skuntank](/img/pokemon/skuntank.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>436</td>
+    <td>bronzor</td>
+    <td>![bronzor](/img/pokemon/bronzor.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>437</td>
+    <td>bronzong</td>
+    <td>![bronzong](/img/pokemon/bronzong.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>438</td>
+    <td>bonsly</td>
+    <td>![bonsly](/img/pokemon/bonsly.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>439</td>
+    <td>mime jr</td>
+    <td>![mime jr](/img/pokemon/mime&#32;jr.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>440</td>
+    <td>happiny</td>
+    <td>![happiny](/img/pokemon/happiny.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>441</td>
+    <td>chatot</td>
+    <td>![chatot](/img/pokemon/chatot.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>442</td>
+    <td>spiritomb</td>
+    <td>![spiritomb](/img/pokemon/spiritomb.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>443</td>
+    <td>gible</td>
+    <td>![gible](/img/pokemon/gible.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>444</td>
+    <td>gabite</td>
+    <td>![gabite](/img/pokemon/gabite.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>445</td>
+    <td>garchomp</td>
+    <td>![garchomp](/img/pokemon/garchomp.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>446</td>
+    <td>munchlax</td>
+    <td>![munchlax](/img/pokemon/munchlax.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>447</td>
+    <td>riolu</td>
+    <td>![riolu](/img/pokemon/riolu.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>448</td>
+    <td>lucario</td>
+    <td>![lucario](/img/pokemon/lucario.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>449</td>
+    <td>hippopotas</td>
+    <td>![hippopotas](/img/pokemon/hippopotas.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>450</td>
+    <td>hippowdon</td>
+    <td>![hippowdon](/img/pokemon/hippowdon.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>451</td>
+    <td>skorupi</td>
+    <td>![skorupi](/img/pokemon/skorupi.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>452</td>
+    <td>drapion</td>
+    <td>![drapion](/img/pokemon/drapion.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>453</td>
+    <td>croagunk</td>
+    <td>![croagunk](/img/pokemon/croagunk.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>454</td>
+    <td>toxicroak</td>
+    <td>![toxicroak](/img/pokemon/toxicroak.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>455</td>
+    <td>carnivine</td>
+    <td>![carnivine](/img/pokemon/carnivine.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>456</td>
+    <td>finneon</td>
+    <td>![finneon](/img/pokemon/finneon.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>457</td>
+    <td>lumineon</td>
+    <td>![lumineon](/img/pokemon/lumineon.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>458</td>
+    <td>mantyke</td>
+    <td>![mantyke](/img/pokemon/mantyke.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>459</td>
+    <td>snover</td>
+    <td>![snover](/img/pokemon/snover.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>460</td>
+    <td>abomasnow</td>
+    <td>![abomasnow](/img/pokemon/abomasnow.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>461</td>
+    <td>weavile</td>
+    <td>![weavile](/img/pokemon/weavile.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>462</td>
+    <td>magnezone</td>
+    <td>![magnezone](/img/pokemon/magnezone.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>463</td>
+    <td>lickilicky</td>
+    <td>![lickilicky](/img/pokemon/lickilicky.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>464</td>
+    <td>rhyperior</td>
+    <td>![rhyperior](/img/pokemon/rhyperior.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>465</td>
+    <td>tangrowth</td>
+    <td>![tangrowth](/img/pokemon/tangrowth.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>466</td>
+    <td>electivire</td>
+    <td>![electivire](/img/pokemon/electivire.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>467</td>
+    <td>magmortar</td>
+    <td>![magmortar](/img/pokemon/magmortar.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>468</td>
+    <td>togekiss</td>
+    <td>![togekiss](/img/pokemon/togekiss.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>469</td>
+    <td>yanmega</td>
+    <td>![yanmega](/img/pokemon/yanmega.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>470</td>
+    <td>leafeon</td>
+    <td>![leafeon](/img/pokemon/leafeon.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>471</td>
+    <td>glaceon</td>
+    <td>![glaceon](/img/pokemon/glaceon.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>472</td>
+    <td>gliscor</td>
+    <td>![gliscor](/img/pokemon/gliscor.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>473</td>
+    <td>mamoswine</td>
+    <td>![mamoswine](/img/pokemon/mamoswine.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>474</td>
+    <td>porygon-z</td>
+    <td>![porygon-z](/img/pokemon/porygon-z.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>475</td>
+    <td>gallade</td>
+    <td>![gallade](/img/pokemon/gallade.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>476</td>
+    <td>probopass</td>
+    <td>![probopass](/img/pokemon/probopass.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>477</td>
+    <td>dusknoir</td>
+    <td>![dusknoir](/img/pokemon/dusknoir.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>478</td>
+    <td>froslass</td>
+    <td>![froslass](/img/pokemon/froslass.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>479</td>
+    <td>rotom</td>
+    <td>![rotom](/img/pokemon/rotom.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>480</td>
+    <td>uxie</td>
+    <td>![uxie](/img/pokemon/uxie.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>481</td>
+    <td>mesprit</td>
+    <td>![mesprit](/img/pokemon/mesprit.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>482</td>
+    <td>azelf</td>
+    <td>![azelf](/img/pokemon/azelf.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>483</td>
+    <td>dialga</td>
+    <td>![dialga](/img/pokemon/dialga.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>484</td>
+    <td>palkia</td>
+    <td>![palkia](/img/pokemon/palkia.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>485</td>
+    <td>heatran</td>
+    <td>![heatran](/img/pokemon/heatran.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>486</td>
+    <td>regigigas</td>
+    <td>![regigigas](/img/pokemon/regigigas.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>487</td>
+    <td>giratina</td>
+    <td>![giratina](/img/pokemon/giratina.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>488</td>
+    <td>cresselia</td>
+    <td>![cresselia](/img/pokemon/cresselia.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>489</td>
+    <td>phione</td>
+    <td>![phione](/img/pokemon/phione.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>490</td>
+    <td>manaphy</td>
+    <td>![manaphy](/img/pokemon/manaphy.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>491</td>
+    <td>darkrai</td>
+    <td>![darkrai](/img/pokemon/darkrai.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>492</td>
+    <td>shaymin</td>
+    <td>![shaymin](/img/pokemon/shaymin.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>493</td>
+    <td>arceus</td>
+    <td>![arceus](/img/pokemon/arceus.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>494</td>
+    <td>victini</td>
+    <td>![victini](/img/pokemon/victini.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>495</td>
+    <td>snivy</td>
+    <td>![snivy](/img/pokemon/snivy.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>496</td>
+    <td>servine</td>
+    <td>![servine](/img/pokemon/servine.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>497</td>
+    <td>serperior</td>
+    <td>![serperior](/img/pokemon/serperior.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>498</td>
+    <td>tepig</td>
+    <td>![tepig](/img/pokemon/tepig.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>499</td>
+    <td>pignite</td>
+    <td>![pignite](/img/pokemon/pignite.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>500</td>
+    <td>emboar</td>
+    <td>![emboar](/img/pokemon/emboar.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>501</td>
+    <td>oshawott</td>
+    <td>![oshawott](/img/pokemon/oshawott.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>502</td>
+    <td>dewott</td>
+    <td>![dewott](/img/pokemon/dewott.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>503</td>
+    <td>samurott</td>
+    <td>![samurott](/img/pokemon/samurott.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>504</td>
+    <td>patrat</td>
+    <td>![patrat](/img/pokemon/patrat.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>505</td>
+    <td>watchog</td>
+    <td>![watchog](/img/pokemon/watchog.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>506</td>
+    <td>lillipup</td>
+    <td>![lillipup](/img/pokemon/lillipup.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>507</td>
+    <td>herdier</td>
+    <td>![herdier](/img/pokemon/herdier.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>508</td>
+    <td>stoutland</td>
+    <td>![stoutland](/img/pokemon/stoutland.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>509</td>
+    <td>purrloin</td>
+    <td>![purrloin](/img/pokemon/purrloin.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>510</td>
+    <td>liepard</td>
+    <td>![liepard](/img/pokemon/liepard.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>511</td>
+    <td>pansage</td>
+    <td>![pansage](/img/pokemon/pansage.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>512</td>
+    <td>simisage</td>
+    <td>![simisage](/img/pokemon/simisage.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>513</td>
+    <td>pansear</td>
+    <td>![pansear](/img/pokemon/pansear.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>514</td>
+    <td>simisear</td>
+    <td>![simisear](/img/pokemon/simisear.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>515</td>
+    <td>panpour</td>
+    <td>![panpour](/img/pokemon/panpour.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>516</td>
+    <td>simipour</td>
+    <td>![simipour](/img/pokemon/simipour.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>517</td>
+    <td>munna</td>
+    <td>![munna](/img/pokemon/munna.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>518</td>
+    <td>musharna</td>
+    <td>![musharna](/img/pokemon/musharna.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>519</td>
+    <td>pidove</td>
+    <td>![pidove](/img/pokemon/pidove.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>520</td>
+    <td>tranquill</td>
+    <td>![tranquill](/img/pokemon/tranquill.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>521</td>
+    <td>unfezant</td>
+    <td>![unfezant](/img/pokemon/unfezant.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>522</td>
+    <td>blitzle</td>
+    <td>![blitzle](/img/pokemon/blitzle.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>523</td>
+    <td>zebstrika</td>
+    <td>![zebstrika](/img/pokemon/zebstrika.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>524</td>
+    <td>roggenrola</td>
+    <td>![roggenrola](/img/pokemon/roggenrola.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>525</td>
+    <td>boldore</td>
+    <td>![boldore](/img/pokemon/boldore.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>526</td>
+    <td>gigalith</td>
+    <td>![gigalith](/img/pokemon/gigalith.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>527</td>
+    <td>woobat</td>
+    <td>![woobat](/img/pokemon/woobat.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>528</td>
+    <td>swoobat</td>
+    <td>![swoobat](/img/pokemon/swoobat.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>529</td>
+    <td>drilbur</td>
+    <td>![drilbur](/img/pokemon/drilbur.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>530</td>
+    <td>excadrill</td>
+    <td>![excadrill](/img/pokemon/excadrill.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>531</td>
+    <td>audino</td>
+    <td>![audino](/img/pokemon/audino.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>532</td>
+    <td>timburr</td>
+    <td>![timburr](/img/pokemon/timburr.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>533</td>
+    <td>gurdurr</td>
+    <td>![gurdurr](/img/pokemon/gurdurr.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>534</td>
+    <td>conkeldurr</td>
+    <td>![conkeldurr](/img/pokemon/conkeldurr.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>535</td>
+    <td>tympole</td>
+    <td>![tympole](/img/pokemon/tympole.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>536</td>
+    <td>palpitoad</td>
+    <td>![palpitoad](/img/pokemon/palpitoad.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>537</td>
+    <td>seismitoad</td>
+    <td>![seismitoad](/img/pokemon/seismitoad.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>538</td>
+    <td>throh</td>
+    <td>![throh](/img/pokemon/throh.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>539</td>
+    <td>sawk</td>
+    <td>![sawk](/img/pokemon/sawk.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>540</td>
+    <td>sewaddle</td>
+    <td>![sewaddle](/img/pokemon/sewaddle.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>541</td>
+    <td>swadloon</td>
+    <td>![swadloon](/img/pokemon/swadloon.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>542</td>
+    <td>leavanny</td>
+    <td>![leavanny](/img/pokemon/leavanny.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>543</td>
+    <td>venipede</td>
+    <td>![venipede](/img/pokemon/venipede.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>544</td>
+    <td>whirlipede</td>
+    <td>![whirlipede](/img/pokemon/whirlipede.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>545</td>
+    <td>scolipede</td>
+    <td>![scolipede](/img/pokemon/scolipede.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>546</td>
+    <td>cottonee</td>
+    <td>![cottonee](/img/pokemon/cottonee.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>547</td>
+    <td>whimsicott</td>
+    <td>![whimsicott](/img/pokemon/whimsicott.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>548</td>
+    <td>petilil</td>
+    <td>![petilil](/img/pokemon/petilil.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>549</td>
+    <td>lilligant</td>
+    <td>![lilligant](/img/pokemon/lilligant.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>550</td>
+    <td>basculin</td>
+    <td>![basculin](/img/pokemon/basculin.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>551</td>
+    <td>sandile</td>
+    <td>![sandile](/img/pokemon/sandile.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>552</td>
+    <td>krokorok</td>
+    <td>![krokorok](/img/pokemon/krokorok.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>553</td>
+    <td>krookodile</td>
+    <td>![krookodile](/img/pokemon/krookodile.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>554</td>
+    <td>darumaka</td>
+    <td>![darumaka](/img/pokemon/darumaka.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>555</td>
+    <td>darmanitan</td>
+    <td>![darmanitan](/img/pokemon/darmanitan.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>556</td>
+    <td>maractus</td>
+    <td>![maractus](/img/pokemon/maractus.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>557</td>
+    <td>dwebble</td>
+    <td>![dwebble](/img/pokemon/dwebble.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>558</td>
+    <td>crustle</td>
+    <td>![crustle](/img/pokemon/crustle.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>559</td>
+    <td>scraggy</td>
+    <td>![scraggy](/img/pokemon/scraggy.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>560</td>
+    <td>scrafty</td>
+    <td>![scrafty](/img/pokemon/scrafty.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>561</td>
+    <td>sigilyph</td>
+    <td>![sigilyph](/img/pokemon/sigilyph.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>562</td>
+    <td>yamask</td>
+    <td>![yamask](/img/pokemon/yamask.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>563</td>
+    <td>cofagrigus</td>
+    <td>![cofagrigus](/img/pokemon/cofagrigus.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>564</td>
+    <td>tirtouga</td>
+    <td>![tirtouga](/img/pokemon/tirtouga.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>565</td>
+    <td>carracosta</td>
+    <td>![carracosta](/img/pokemon/carracosta.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>566</td>
+    <td>archen</td>
+    <td>![archen](/img/pokemon/archen.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>567</td>
+    <td>archeops</td>
+    <td>![archeops](/img/pokemon/archeops.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>568</td>
+    <td>trubbish</td>
+    <td>![trubbish](/img/pokemon/trubbish.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>569</td>
+    <td>garbodor</td>
+    <td>![garbodor](/img/pokemon/garbodor.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>570</td>
+    <td>zorua</td>
+    <td>![zorua](/img/pokemon/zorua.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>571</td>
+    <td>zoroark</td>
+    <td>![zoroark](/img/pokemon/zoroark.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>572</td>
+    <td>minccino</td>
+    <td>![minccino](/img/pokemon/minccino.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>573</td>
+    <td>cinccino</td>
+    <td>![cinccino](/img/pokemon/cinccino.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>574</td>
+    <td>gothita</td>
+    <td>![gothita](/img/pokemon/gothita.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>575</td>
+    <td>gothorita</td>
+    <td>![gothorita](/img/pokemon/gothorita.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>576</td>
+    <td>gothitelle</td>
+    <td>![gothitelle](/img/pokemon/gothitelle.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>577</td>
+    <td>solosis</td>
+    <td>![solosis](/img/pokemon/solosis.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>578</td>
+    <td>duosion</td>
+    <td>![duosion](/img/pokemon/duosion.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>579</td>
+    <td>reuniclus</td>
+    <td>![reuniclus](/img/pokemon/reuniclus.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>580</td>
+    <td>ducklett</td>
+    <td>![ducklett](/img/pokemon/ducklett.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>581</td>
+    <td>swanna</td>
+    <td>![swanna](/img/pokemon/swanna.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>582</td>
+    <td>vanillite</td>
+    <td>![vanillite](/img/pokemon/vanillite.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>583</td>
+    <td>vanillish</td>
+    <td>![vanillish](/img/pokemon/vanillish.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>584</td>
+    <td>vanilluxe</td>
+    <td>![vanilluxe](/img/pokemon/vanilluxe.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>585</td>
+    <td>deerling</td>
+    <td>![deerling](/img/pokemon/deerling.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>586</td>
+    <td>sawsbuck</td>
+    <td>![sawsbuck](/img/pokemon/sawsbuck.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>587</td>
+    <td>emolga</td>
+    <td>![emolga](/img/pokemon/emolga.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>588</td>
+    <td>karrablast</td>
+    <td>![karrablast](/img/pokemon/karrablast.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>589</td>
+    <td>escavalier</td>
+    <td>![escavalier](/img/pokemon/escavalier.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>590</td>
+    <td>foongus</td>
+    <td>![foongus](/img/pokemon/foongus.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>591</td>
+    <td>amoonguss</td>
+    <td>![amoonguss](/img/pokemon/amoonguss.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>592</td>
+    <td>frillish</td>
+    <td>![frillish](/img/pokemon/frillish.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>593</td>
+    <td>jellicent</td>
+    <td>![jellicent](/img/pokemon/jellicent.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>594</td>
+    <td>alomomola</td>
+    <td>![alomomola](/img/pokemon/alomomola.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>595</td>
+    <td>joltik</td>
+    <td>![joltik](/img/pokemon/joltik.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>596</td>
+    <td>galvantula</td>
+    <td>![galvantula](/img/pokemon/galvantula.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>597</td>
+    <td>ferroseed</td>
+    <td>![ferroseed](/img/pokemon/ferroseed.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>598</td>
+    <td>ferrothorn</td>
+    <td>![ferrothorn](/img/pokemon/ferrothorn.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>599</td>
+    <td>klink</td>
+    <td>![klink](/img/pokemon/klink.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>600</td>
+    <td>klang</td>
+    <td>![klang](/img/pokemon/klang.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>601</td>
+    <td>klinklang</td>
+    <td>![klinklang](/img/pokemon/klinklang.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>602</td>
+    <td>tynamo</td>
+    <td>![tynamo](/img/pokemon/tynamo.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>603</td>
+    <td>eelektrik</td>
+    <td>![eelektrik](/img/pokemon/eelektrik.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>604</td>
+    <td>eelektross</td>
+    <td>![eelektross](/img/pokemon/eelektross.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>605</td>
+    <td>elgyem</td>
+    <td>![elgyem](/img/pokemon/elgyem.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>606</td>
+    <td>beheeyem</td>
+    <td>![beheeyem](/img/pokemon/beheeyem.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>607</td>
+    <td>litwick</td>
+    <td>![litwick](/img/pokemon/litwick.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>608</td>
+    <td>lampent</td>
+    <td>![lampent](/img/pokemon/lampent.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>609</td>
+    <td>chandelure</td>
+    <td>![chandelure](/img/pokemon/chandelure.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>610</td>
+    <td>axew</td>
+    <td>![axew](/img/pokemon/axew.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>611</td>
+    <td>fraxure</td>
+    <td>![fraxure](/img/pokemon/fraxure.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>612</td>
+    <td>haxorus</td>
+    <td>![haxorus](/img/pokemon/haxorus.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>613</td>
+    <td>cubchoo</td>
+    <td>![cubchoo](/img/pokemon/cubchoo.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>614</td>
+    <td>beartic</td>
+    <td>![beartic](/img/pokemon/beartic.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>615</td>
+    <td>cryogonal</td>
+    <td>![cryogonal](/img/pokemon/cryogonal.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>616</td>
+    <td>shelmet</td>
+    <td>![shelmet](/img/pokemon/shelmet.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>617</td>
+    <td>accelgor</td>
+    <td>![accelgor](/img/pokemon/accelgor.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>618</td>
+    <td>stunfisk</td>
+    <td>![stunfisk](/img/pokemon/stunfisk.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>619</td>
+    <td>mienfoo</td>
+    <td>![mienfoo](/img/pokemon/mienfoo.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>620</td>
+    <td>mienshao</td>
+    <td>![mienshao](/img/pokemon/mienshao.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>621</td>
+    <td>druddigon</td>
+    <td>![druddigon](/img/pokemon/druddigon.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>622</td>
+    <td>golett</td>
+    <td>![golett](/img/pokemon/golett.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>623</td>
+    <td>golurk</td>
+    <td>![golurk](/img/pokemon/golurk.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>624</td>
+    <td>pawniard</td>
+    <td>![pawniard](/img/pokemon/pawniard.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>625</td>
+    <td>bisharp</td>
+    <td>![bisharp](/img/pokemon/bisharp.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>626</td>
+    <td>bouffalant</td>
+    <td>![bouffalant](/img/pokemon/bouffalant.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>627</td>
+    <td>rufflet</td>
+    <td>![rufflet](/img/pokemon/rufflet.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>628</td>
+    <td>braviary</td>
+    <td>![braviary](/img/pokemon/braviary.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>629</td>
+    <td>vullaby</td>
+    <td>![vullaby](/img/pokemon/vullaby.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>630</td>
+    <td>mandibuzz</td>
+    <td>![mandibuzz](/img/pokemon/mandibuzz.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>631</td>
+    <td>heatmor</td>
+    <td>![heatmor](/img/pokemon/heatmor.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>632</td>
+    <td>durant</td>
+    <td>![durant](/img/pokemon/durant.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>633</td>
+    <td>deino</td>
+    <td>![deino](/img/pokemon/deino.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>634</td>
+    <td>zweilous</td>
+    <td>![zweilous](/img/pokemon/zweilous.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>635</td>
+    <td>hydreigon</td>
+    <td>![hydreigon](/img/pokemon/hydreigon.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>636</td>
+    <td>larvesta</td>
+    <td>![larvesta](/img/pokemon/larvesta.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>637</td>
+    <td>volcarona</td>
+    <td>![volcarona](/img/pokemon/volcarona.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>638</td>
+    <td>cobalion</td>
+    <td>![cobalion](/img/pokemon/cobalion.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>639</td>
+    <td>terrakion</td>
+    <td>![terrakion](/img/pokemon/terrakion.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>640</td>
+    <td>virizion</td>
+    <td>![virizion](/img/pokemon/virizion.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>641</td>
+    <td>tornadus</td>
+    <td>![tornadus](/img/pokemon/tornadus.png![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)</td>
+  </tr>
+  <tr>
+    <td>642</td>
+    <td>thundurus</td>
+    <td>![thundurus](/img/pokemon/thundurus.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>643</td>
+    <td>reshiram</td>
+    <td>![reshiram](/img/pokemon/reshiram.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>644</td>
+    <td>zekrom</td>
+    <td>![zekrom](/img/pokemon/zekrom.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>645</td>
+    <td>landorus</td>
+    <td>![landorus](/img/pokemon/landorus.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>646</td>
+    <td>kyurem</td>
+    <td>![kyurem](/img/pokemon/kyurem.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>647</td>
+    <td>keldeo</td>
+    <td>![keldeo](/img/pokemon/keldeo.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>648</td>
+    <td>meloetta</td>
+    <td>![meloetta](/img/pokemon/meloetta.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>649</td>
+    <td>genesect</td>
+    <td>![genesect](/img/pokemon/genesect.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>650</td>
+    <td>chespin</td>
+    <td>![chespin](/img/pokemon/chespin.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>651</td>
+    <td>quilladin</td>
+    <td>![quilladin](/img/pokemon/quilladin.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>652</td>
+    <td>chesnaught</td>
+    <td>![chesnaught](/img/pokemon/chesnaught.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>653</td>
+    <td>fennekin</td>
+    <td>![fennekin](/img/pokemon/fennekin.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>654</td>
+    <td>braixen</td>
+    <td>![braixen](/img/pokemon/braixen.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>655</td>
+    <td>delphox</td>
+    <td>![delphox](/img/pokemon/delphox.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>656</td>
+    <td>froakie</td>
+    <td>![froakie](/img/pokemon/froakie.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>657</td>
+    <td>frogadier</td>
+    <td>![frogadier](/img/pokemon/frogadier.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>658</td>
+    <td>greninja</td>
+    <td>![greninja](/img/pokemon/greninja.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>659</td>
+    <td>bunnelby</td>
+    <td>![bunnelby](/img/pokemon/bunnelby.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>660</td>
+    <td>diggersby</td>
+    <td>![diggersby](/img/pokemon/diggersby.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>661</td>
+    <td>fletchling</td>
+    <td>![fletchling](/img/pokemon/fletchling.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>662</td>
+    <td>fletchinder</td>
+    <td>![fletchinder](/img/pokemon/fletchinder.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>663</td>
+    <td>talonflame</td>
+    <td>![talonflame](/img/pokemon/talonflame.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>664</td>
+    <td>scatterbug</td>
+    <td>![scatterbug](/img/pokemon/scatterbug.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>665</td>
+    <td>spewpa</td>
+    <td>![spewpa](/img/pokemon/spewpa.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>666</td>
+    <td>vivillon</td>
+    <td>![vivillon](/img/pokemon/vivillon.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>667</td>
+    <td>litleo</td>
+    <td>![litleo](/img/pokemon/litleo.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>668</td>
+    <td>pyroar</td>
+    <td>![pyroar](/img/pokemon/pyroar.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>669</td>
+    <td>flabebe</td>
+    <td>![flabebe](/img/pokemon/flabebe.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>670</td>
+    <td>floette</td>
+    <td>![floette](/img/pokemon/floette.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>671</td>
+    <td>florges</td>
+    <td>![florges](/img/pokemon/florges.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>672</td>
+    <td>skiddo</td>
+    <td>![skiddo](/img/pokemon/skiddo.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>673</td>
+    <td>gogoat</td>
+    <td>![gogoat](/img/pokemon/gogoat.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>674</td>
+    <td>pancham</td>
+    <td>![pancham](/img/pokemon/pancham.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>675</td>
+    <td>pangoro</td>
+    <td>![pangoro](/img/pokemon/pangoro.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>676</td>
+    <td>furfrou</td>
+    <td>![furfrou](/img/pokemon/furfrou.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>677</td>
+    <td>espurr</td>
+    <td>![espurr](/img/pokemon/espurr.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>678</td>
+    <td>meowstic</td>
+    <td>![meowstic](/img/pokemon/meowstic.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>679</td>
+    <td>honedge</td>
+    <td>![honedge](/img/pokemon/honedge.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>680</td>
+    <td>doublade</td>
+    <td>![doublade](/img/pokemon/doublade.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>681</td>
+    <td>aegislash</td>
+    <td>![aegislash](/img/pokemon/aegislash.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>682</td>
+    <td>spritzee</td>
+    <td>![spritzee](/img/pokemon/spritzee.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>683</td>
+    <td>aromatisse</td>
+    <td>![aromatisse](/img/pokemon/aromatisse.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>684</td>
+    <td>swirlix</td>
+    <td>![swirlix](/img/pokemon/swirlix.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>685</td>
+    <td>slurpuff</td>
+    <td>![slurpuff](/img/pokemon/slurpuff.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>686</td>
+    <td>inkay</td>
+    <td>![inkay](/img/pokemon/inkay.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>687</td>
+    <td>malamar</td>
+    <td>![malamar](/img/pokemon/malamar.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>688</td>
+    <td>binacle</td>
+    <td>![binacle](/img/pokemon/binacle.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>689</td>
+    <td>barbaracle</td>
+    <td>![barbaracle](/img/pokemon/barbaracle.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>690</td>
+    <td>skrelp</td>
+    <td>![skrelp](/img/pokemon/skrelp.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>691</td>
+    <td>dragalge</td>
+    <td>![dragalge](/img/pokemon/dragalge.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>692</td>
+    <td>clauncher</td>
+    <td>![clauncher](/img/pokemon/clauncher.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>693</td>
+    <td>clawitzer</td>
+    <td>![clawitzer](/img/pokemon/clawitzer.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>694</td>
+    <td>helioptile</td>
+    <td>![helioptile](/img/pokemon/helioptile.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>695</td>
+    <td>heliolisk</td>
+    <td>![heliolisk](/img/pokemon/heliolisk.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>696</td>
+    <td>tyrunt</td>
+    <td>![tyrunt](/img/pokemon/tyrunt.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>697</td>
+    <td>tyrantrum</td>
+    <td>![tyrantrum](/img/pokemon/tyrantrum.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>698</td>
+    <td>amaura</td>
+    <td>![amaura](/img/pokemon/amaura.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>699</td>
+    <td>aurorus</td>
+    <td>![aurorus](/img/pokemon/aurorus.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>700</td>
+    <td>sylveon</td>
+    <td>![sylveon](/img/pokemon/sylveon.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>701</td>
+    <td>hawlucha</td>
+    <td>![hawlucha](/img/pokemon/hawlucha.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>702</td>
+    <td>dedenne</td>
+    <td>![dedenne](/img/pokemon/dedenne.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>703</td>
+    <td>carbink</td>
+    <td>![carbink](/img/pokemon/carbink.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>704</td>
+    <td>goomy</td>
+    <td>![goomy](/img/pokemon/goomy.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>705</td>
+    <td>sliggoo</td>
+    <td>![sliggoo](/img/pokemon/sliggoo.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>706</td>
+    <td>goodra</td>
+    <td>![goodra](/img/pokemon/goodra.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>707</td>
+    <td>klefki</td>
+    <td>![klefki](/img/pokemon/klefki.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>708</td>
+    <td>phantump</td>
+    <td>![phantump](/img/pokemon/phantump.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>709</td>
+    <td>trevenant</td>
+    <td>![trevenant](/img/pokemon/trevenant.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>710</td>
+    <td>pumpkaboo</td>
+    <td>![pumpkaboo](/img/pokemon/pumpkaboo.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>711</td>
+    <td>gourgeist</td>
+    <td>![gourgeist](/img/pokemon/gourgeist.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>712</td>
+    <td>bergmite</td>
+    <td>![bergmite](/img/pokemon/bergmite.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>713</td>
+    <td>avalugg</td>
+    <td>![avalugg](/img/pokemon/avalugg.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>714</td>
+    <td>noibat</td>
+    <td>![noibat](/img/pokemon/noibat.png![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)</td>
+  </tr>
+  <tr>
+    <td>715</td>
+    <td>noivern</td>
+    <td>![noivern](/img/pokemon/noivern.png![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)</td>
+  </tr>
+  <tr>
+    <td>716</td>
+    <td>xerneas</td>
+    <td>![xerneas](/img/pokemon/xerneas.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>717</td>
+    <td>yveltal</td>
+    <td>![yveltal](/img/pokemon/yveltal.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>718</td>
+    <td>zygarde</td>
+    <td>![zygarde](/img/pokemon/zygarde.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>719</td>
+    <td>diancie</td>
+    <td>![diancie](/img/pokemon/diancie.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>720</td>
+    <td>hoopa</td>
+    <td>![hoopa](/img/pokemon/hoopa.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>721</td>
+    <td>volcanion</td>
+    <td>![volcanion](/img/pokemon/volcanion.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>722</td>
+    <td>rowlet</td>
+    <td>![rowlet](/img/pokemon/rowlet.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>723</td>
+    <td>dartrix</td>
+    <td>![dartrix](/img/pokemon/dartrix.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>724</td>
+    <td>decidueye</td>
+    <td>![decidueye](/img/pokemon/decidueye.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>725</td>
+    <td>litten</td>
+    <td>![litten](/img/pokemon/litten.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>726</td>
+    <td>torracat</td>
+    <td>![torracat](/img/pokemon/torracat.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>727</td>
+    <td>incineroar</td>
+    <td>![incineroar](/img/pokemon/incineroar.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>728</td>
+    <td>popplio</td>
+    <td>![popplio](/img/pokemon/popplio.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>729</td>
+    <td>brionne</td>
+    <td>![brionne](/img/pokemon/brionne.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>730</td>
+    <td>primarina</td>
+    <td>![primarina](/img/pokemon/primarina.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>731</td>
+    <td>pikipek</td>
+    <td>![pikipek](/img/pokemon/pikipek.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>732</td>
+    <td>trumbeak</td>
+    <td>![trumbeak](/img/pokemon/trumbeak.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>733</td>
+    <td>toucannon</td>
+    <td>![toucannon](/img/pokemon/toucannon.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>734</td>
+    <td>yungoos</td>
+    <td>![yungoos](/img/pokemon/yungoos.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>735</td>
+    <td>gumshoos</td>
+    <td>![gumshoos](/img/pokemon/gumshoos.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>736</td>
+    <td>grubbin</td>
+    <td>![grubbin](/img/pokemon/grubbin.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>737</td>
+    <td>charjabug</td>
+    <td>![charjabug](/img/pokemon/charjabug.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>738</td>
+    <td>vikavolt</td>
+    <td>![vikavolt](/img/pokemon/vikavolt.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>739</td>
+    <td>crabrawler</td>
+    <td>![crabrawler](/img/pokemon/crabrawler.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>740</td>
+    <td>crabominable</td>
+    <td>![crabominable](/img/pokemon/crabominable.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>741</td>
+    <td>oricorio</td>
+    <td>![oricorio](/img/pokemon/oricorio.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>742</td>
+    <td>cutiefly</td>
+    <td>![cutiefly](/img/pokemon/cutiefly.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>743</td>
+    <td>ribombee</td>
+    <td>![ribombee](/img/pokemon/ribombee.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>744</td>
+    <td>rockruff</td>
+    <td>![rockruff](/img/pokemon/rockruff.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>745</td>
+    <td>lycanroc</td>
+    <td>![lycanroc](/img/pokemon/lycanroc.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>746</td>
+    <td>wishiwashi</td>
+    <td>![wishiwashi](/img/pokemon/wishiwashi.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>747</td>
+    <td>mareanie</td>
+    <td>![mareanie](/img/pokemon/mareanie.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>748</td>
+    <td>toxapex</td>
+    <td>![toxapex](/img/pokemon/toxapex.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>749</td>
+    <td>mudbray</td>
+    <td>![mudbray](/img/pokemon/mudbray.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>750</td>
+    <td>mudsdale</td>
+    <td>![mudsdale](/img/pokemon/mudsdale.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>751</td>
+    <td>dewpider</td>
+    <td>![dewpider](/img/pokemon/dewpider.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>752</td>
+    <td>araquanid</td>
+    <td>![araquanid](/img/pokemon/araquanid.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>753</td>
+    <td>fomantis</td>
+    <td>![fomantis](/img/pokemon/fomantis.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>754</td>
+    <td>lurantis</td>
+    <td>![lurantis](/img/pokemon/lurantis.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>755</td>
+    <td>morelull</td>
+    <td>![morelull](/img/pokemon/morelull.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>756</td>
+    <td>shiinotic</td>
+    <td>![shiinotic](/img/pokemon/shiinotic.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>757</td>
+    <td>salandit</td>
+    <td>![salandit](/img/pokemon/salandit.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>758</td>
+    <td>salazzle</td>
+    <td>![salazzle](/img/pokemon/salazzle.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>759</td>
+    <td>stufful</td>
+    <td>![stufful](/img/pokemon/stufful.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>760</td>
+    <td>bewear</td>
+    <td>![bewear](/img/pokemon/bewear.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>761</td>
+    <td>bounsweet</td>
+    <td>![bounsweet](/img/pokemon/bounsweet.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>762</td>
+    <td>steenee</td>
+    <td>![steenee](/img/pokemon/steenee.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>763</td>
+    <td>tsareena</td>
+    <td>![tsareena](/img/pokemon/tsareena.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>764</td>
+    <td>comfey</td>
+    <td>![comfey](/img/pokemon/comfey.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>765</td>
+    <td>oranguru</td>
+    <td>![oranguru](/img/pokemon/oranguru.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>766</td>
+    <td>passimian</td>
+    <td>![passimian](/img/pokemon/passimian.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>767</td>
+    <td>wimpod</td>
+    <td>![wimpod](/img/pokemon/wimpod.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>768</td>
+    <td>golisopod</td>
+    <td>![golisopod](/img/pokemon/golisopod.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>769</td>
+    <td>sandygast</td>
+    <td>![sandygast](/img/pokemon/sandygast.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>770</td>
+    <td>palossand</td>
+    <td>![palossand](/img/pokemon/palossand.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>771</td>
+    <td>pyukumuku</td>
+    <td>![pyukumuku](/img/pokemon/pyukumuku.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>772</td>
+    <td>type-null</td>
+    <td>![type-null](/img/pokemon/type-null.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>773</td>
+    <td>silvally</td>
+    <td>![silvally](/img/pokemon/silvally.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>774</td>
+    <td>minior</td>
+    <td>![minior](/img/pokemon/minior.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>775</td>
+    <td>komala</td>
+    <td>![komala](/img/pokemon/komala.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>776</td>
+    <td>turtonator</td>
+    <td>![turtonator](/img/pokemon/turtonator.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>777</td>
+    <td>togedemaru</td>
+    <td>![togedemaru](/img/pokemon/togedemaru.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>778</td>
+    <td>mimikyu</td>
+    <td>![mimikyu](/img/pokemon/mimikyu.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>779</td>
+    <td>bruxish</td>
+    <td>![bruxish](/img/pokemon/bruxish.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>780</td>
+    <td>drampa</td>
+    <td>![drampa](/img/pokemon/drampa.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>781</td>
+    <td>dhelmise</td>
+    <td>![dhelmise](/img/pokemon/dhelmise.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>782</td>
+    <td>jangmo-o</td>
+    <td>![jangmo-o](/img/pokemon/jangmo-o.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>783</td>
+    <td>hakamo-o</td>
+    <td>![hakamo-o](/img/pokemon/hakamo-o.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>784</td>
+    <td>kommo-o</td>
+    <td>![kommo-o](/img/pokemon/kommo-o.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>785</td>
+    <td>tapu koko</td>
+    <td>![tapu koko](/img/pokemon/tapu&#32;koko.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>786</td>
+    <td>tapu lele</td>
+    <td>![tapu lele](/img/pokemon/tapu&#32;lele.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>787</td>
+    <td>tapu bulu</td>
+    <td>![tapu bulu](/img/pokemon/tapu&#32;bulu.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>788</td>
+    <td>tapu fini</td>
+    <td>![tapu fini](/img/pokemon/tapu&#32;fini.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>789</td>
+    <td>cosmog</td>
+    <td>![cosmog](/img/pokemon/cosmog.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>790</td>
+    <td>cosmoem</td>
+    <td>![cosmoem](/img/pokemon/cosmoem.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>791</td>
+    <td>solgaleo</td>
+    <td>![solgaleo](/img/pokemon/solgaleo.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>792</td>
+    <td>lunala</td>
+    <td>![lunala](/img/pokemon/lunala.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>793</td>
+    <td>nihilego</td>
+    <td>![nihilego](/img/pokemon/nihilego.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>794</td>
+    <td>buzzwole</td>
+    <td>![buzzwole](/img/pokemon/buzzwole.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>795</td>
+    <td>pheromosa</td>
+    <td>![pheromosa](/img/pokemon/pheromosa.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>796</td>
+    <td>xurkitree</td>
+    <td>![xurkitree](/img/pokemon/xurkitree.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>797</td>
+    <td>celesteela</td>
+    <td>![celesteela](/img/pokemon/celesteela.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>798</td>
+    <td>kartana</td>
+    <td>![kartana](/img/pokemon/kartana.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>799</td>
+    <td>guzzlord</td>
+    <td>![guzzlord](/img/pokemon/guzzlord.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>800</td>
+    <td>necrozma</td>
+    <td>![necrozma](/img/pokemon/necrozma.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>801</td>
+    <td>magearna</td>
+    <td>![magearna](/img/pokemon/magearna.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>802</td>
+    <td>marshadow</td>
+    <td>![marshadow](/img/pokemon/marshadow.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>803</td>
+    <td>poipole</td>
+    <td>![poipole](/img/pokemon/poipole.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>804</td>
+    <td>naganadel</td>
+    <td>![naganadel](/img/pokemon/naganadel.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+  <tr>
+    <td>805</td>
+    <td>stakataka</td>
+    <td>![stakataka](/img/pokemon/stakataka.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>806</td>
+    <td>blacephalon</td>
+    <td>![blacephalon](/img/pokemon/blacephalon.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>807</td>
+    <td>zeraora</td>
+    <td>![zeraora](/img/pokemon/zeraora.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>808</td>
+    <td>meltan</td>
+    <td>![meltan](/img/pokemon/meltan.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>809</td>
+    <td>melmetal</td>
+    <td>![melmetal](/img/pokemon/melmetal.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>810</td>
+    <td>grookey</td>
+    <td>![grookey](/img/pokemon/grookey.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>811</td>
+    <td>thwackey</td>
+    <td>![thwackey](/img/pokemon/thwackey.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>812</td>
+    <td>rillaboom</td>
+    <td>![rillaboom](/img/pokemon/rillaboom.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>813</td>
+    <td>scorbunny</td>
+    <td>![scorbunny](/img/pokemon/scorbunny.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>814</td>
+    <td>raboot</td>
+    <td>![raboot](/img/pokemon/raboot.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>815</td>
+    <td>cinderace</td>
+    <td>![cinderace](/img/pokemon/cinderace.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>816</td>
+    <td>sobble</td>
+    <td>![sobble](/img/pokemon/sobble.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>817</td>
+    <td>drizzile</td>
+    <td>![drizzile](/img/pokemon/drizzile.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>818</td>
+    <td>inteleon</td>
+    <td>![inteleon](/img/pokemon/inteleon.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>819</td>
+    <td>skwovet</td>
+    <td>![skwovet](/img/pokemon/skwovet.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>820</td>
+    <td>greedent</td>
+    <td>![greedent](/img/pokemon/greedent.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>821</td>
+    <td>rookidee</td>
+    <td>![rookidee](/img/pokemon/rookidee.png![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)</td>
+  </tr>
+  <tr>
+    <td>822</td>
+    <td>corvisquire</td>
+    <td>![corvisquire](/img/pokemon/corvisquire.png![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)</td>
+  </tr>
+  <tr>
+    <td>823</td>
+    <td>corviknight</td>
+    <td>![corviknight](/img/pokemon/corviknight.png![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)</td>
+  </tr>
+  <tr>
+    <td>824</td>
+    <td>blipbug</td>
+    <td>![blipbug](/img/pokemon/blipbug.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>825</td>
+    <td>dottler</td>
+    <td>![dottler](/img/pokemon/dottler.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>826</td>
+    <td>orbeetle</td>
+    <td>![orbeetle](/img/pokemon/orbeetle.png![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)![-](/img/elements/bug.png)</td>
+  </tr>
+  <tr>
+    <td>827</td>
+    <td>nickit</td>
+    <td>![nickit](/img/pokemon/nickit.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>828</td>
+    <td>thievul</td>
+    <td>![thievul](/img/pokemon/thievul.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>829</td>
+    <td>gossifleur</td>
+    <td>![gossifleur](/img/pokemon/gossifleur.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>830</td>
+    <td>eldegoss</td>
+    <td>![eldegoss](/img/pokemon/eldegoss.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>831</td>
+    <td>wooloo</td>
+    <td>![wooloo](/img/pokemon/wooloo.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>832</td>
+    <td>dubwool</td>
+    <td>![dubwool](/img/pokemon/dubwool.png![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)![-](/img/elements/normal.png)</td>
+  </tr>
+  <tr>
+    <td>833</td>
+    <td>chewtle</td>
+    <td>![chewtle](/img/pokemon/chewtle.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>834</td>
+    <td>drednaw</td>
+    <td>![drednaw](/img/pokemon/drednaw.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>835</td>
+    <td>yamper</td>
+    <td>![yamper](/img/pokemon/yamper.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>836</td>
+    <td>boltund</td>
+    <td>![boltund](/img/pokemon/boltund.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>837</td>
+    <td>rolycoly</td>
+    <td>![rolycoly](/img/pokemon/rolycoly.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>838</td>
+    <td>carkol</td>
+    <td>![carkol](/img/pokemon/carkol.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>839</td>
+    <td>coalossal</td>
+    <td>![coalossal](/img/pokemon/coalossal.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>840</td>
+    <td>applin</td>
+    <td>![applin](/img/pokemon/applin.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>841</td>
+    <td>flapple</td>
+    <td>![flapple](/img/pokemon/flapple.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>842</td>
+    <td>appletun</td>
+    <td>![appletun](/img/pokemon/appletun.png![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)![-](/img/elements/grass.png)</td>
+  </tr>
+  <tr>
+    <td>843</td>
+    <td>silicobra</td>
+    <td>![silicobra](/img/pokemon/silicobra.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>844</td>
+    <td>sandaconda</td>
+    <td>![sandaconda](/img/pokemon/sandaconda.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>845</td>
+    <td>cramorant</td>
+    <td>![cramorant](/img/pokemon/cramorant.png![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)![-](/img/elements/flying.png)</td>
+  </tr>
+  <tr>
+    <td>846</td>
+    <td>arrokuda</td>
+    <td>![arrokuda](/img/pokemon/arrokuda.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>847</td>
+    <td>barraskewda</td>
+    <td>![barraskewda](/img/pokemon/barraskewda.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>848</td>
+    <td>toxel</td>
+    <td>![toxel](/img/pokemon/toxel.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>849</td>
+    <td>toxtricity</td>
+    <td>![toxtricity](/img/pokemon/toxtricity.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>850</td>
+    <td>sizzlipede</td>
+    <td>![sizzlipede](/img/pokemon/sizzlipede.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>851</td>
+    <td>centiskorch</td>
+    <td>![centiskorch](/img/pokemon/centiskorch.png![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)![-](/img/elements/fire.png)</td>
+  </tr>
+  <tr>
+    <td>852</td>
+    <td>clobbopus</td>
+    <td>![clobbopus](/img/pokemon/clobbopus.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>853</td>
+    <td>grapploct</td>
+    <td>![grapploct](/img/pokemon/grapploct.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>854</td>
+    <td>sinistea</td>
+    <td>![sinistea](/img/pokemon/sinistea.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>855</td>
+    <td>polteageist</td>
+    <td>![polteageist](/img/pokemon/polteageist.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>856</td>
+    <td>hatenna</td>
+    <td>![hatenna](/img/pokemon/hatenna.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>857</td>
+    <td>hattrem</td>
+    <td>![hattrem](/img/pokemon/hattrem.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>858</td>
+    <td>hatterene</td>
+    <td>![hatterene](/img/pokemon/hatterene.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>859</td>
+    <td>impidimp</td>
+    <td>![impidimp](/img/pokemon/impidimp.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>860</td>
+    <td>morgrem</td>
+    <td>![morgrem](/img/pokemon/morgrem.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>861</td>
+    <td>grimmsnarl</td>
+    <td>![grimmsnarl](/img/pokemon/grimmsnarl.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>862</td>
+    <td>obstagoon</td>
+    <td>![obstagoon](/img/pokemon/obstagoon.png![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)![-](/img/elements/dark.png)</td>
+  </tr>
+  <tr>
+    <td>863</td>
+    <td>perrserker</td>
+    <td>![perrserker](/img/pokemon/perrserker.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>864</td>
+    <td>cursola</td>
+    <td>![cursola](/img/pokemon/cursola.png![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)![-](/img/elements/ghost.png)</td>
+  </tr>
+  <tr>
+    <td>865</td>
+    <td>sirfetchd</td>
+    <td>![sirfetchd](/img/pokemon/sirfetchd.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>866</td>
+    <td>mr rime</td>
+    <td>![mr rime](/img/pokemon/mr&#32;rime.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>867</td>
+    <td>runerigus</td>
+    <td>![runerigus](/img/pokemon/runerigus.png![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)![-](/img/elements/ground.png)</td>
+  </tr>
+  <tr>
+    <td>868</td>
+    <td>milcery</td>
+    <td>![milcery](/img/pokemon/milcery.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>869</td>
+    <td>alcremie</td>
+    <td>![alcremie](/img/pokemon/alcremie.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>870</td>
+    <td>falinks</td>
+    <td>![falinks](/img/pokemon/falinks.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>871</td>
+    <td>pincurchin</td>
+    <td>![pincurchin](/img/pokemon/pincurchin.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>872</td>
+    <td>snom</td>
+    <td>![snom](/img/pokemon/snom.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>873</td>
+    <td>frosmoth</td>
+    <td>![frosmoth](/img/pokemon/frosmoth.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>874</td>
+    <td>stonjourner</td>
+    <td>![stonjourner](/img/pokemon/stonjourner.png![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)![-](/img/elements/rock.png)</td>
+  </tr>
+  <tr>
+    <td>875</td>
+    <td>eiscue</td>
+    <td>![eiscue](/img/pokemon/eiscue.png![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)![-](/img/elements/ice.png)</td>
+  </tr>
+  <tr>
+    <td>876</td>
+    <td>indeedee</td>
+    <td>![indeedee](/img/pokemon/indeedee.png![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)![-](/img/elements/psychic.png)</td>
+  </tr>
+  <tr>
+    <td>877</td>
+    <td>morpeko</td>
+    <td>![morpeko](/img/pokemon/morpeko.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>878</td>
+    <td>cufant</td>
+    <td>![cufant](/img/pokemon/cufant.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>879</td>
+    <td>copperajah</td>
+    <td>![copperajah](/img/pokemon/copperajah.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>880</td>
+    <td>dracozolt</td>
+    <td>![dracozolt](/img/pokemon/dracozolt.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>881</td>
+    <td>arctozolt</td>
+    <td>![arctozolt](/img/pokemon/arctozolt.png![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)![-](/img/elements/electric.png)</td>
+  </tr>
+  <tr>
+    <td>882</td>
+    <td>dracovish</td>
+    <td>![dracovish](/img/pokemon/dracovish.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>883</td>
+    <td>arctovish</td>
+    <td>![arctovish](/img/pokemon/arctovish.png![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)![-](/img/elements/water.png)</td>
+  </tr>
+  <tr>
+    <td>884</td>
+    <td>duraludon</td>
+    <td>![duraludon](/img/pokemon/duraludon.png![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)![-](/img/elements/steel.png)</td>
+  </tr>
+  <tr>
+    <td>885</td>
+    <td>dreepy</td>
+    <td>![dreepy](/img/pokemon/dreepy.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>886</td>
+    <td>drakloak</td>
+    <td>![drakloak](/img/pokemon/drakloak.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>887</td>
+    <td>dragapult</td>
+    <td>![dragapult](/img/pokemon/dragapult.png![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)![-](/img/elements/dragon.png)</td>
+  </tr>
+  <tr>
+    <td>888</td>
+    <td>zacian</td>
+    <td>![zacian](/img/pokemon/zacian.png![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)![-](/img/elements/fairy.png)</td>
+  </tr>
+  <tr>
+    <td>889</td>
+    <td>zamazenta</td>
+    <td>![zamazenta](/img/pokemon/zamazenta.png![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)![-](/img/elements/fighting.png)</td>
+  </tr>
+  <tr>
+    <td>890</td>
+    <td>eternatus</td>
+    <td>![eternatus](/img/pokemon/eternatus.png![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)![-](/img/elements/poison.png)</td>
+  </tr>
+</table>
