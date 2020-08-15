@@ -20,8 +20,12 @@ using this list if you run into issues setting poke-line to a particular value.
 
 ## Pokémon List
 
-| Pokédex ID | Pokémon Name | Sprite |
-| ---------- | ------------ | ------ |
+<table>
+  <tr>
+    <th width="20">Pokédex ID</td>
+    <th width="150">Pokémon Name</td>
+    <th width="200">Sprite</td>
+  </tr>
 EOF
 
 get_pokemon_data() {
@@ -30,19 +34,23 @@ get_pokemon_data() {
     pokemon_name=$(jq -r ".[${index}].name" pokemon-data.json)
     pokemon_type=$(jq -r ".[${index}].type" pokemon-data.json)
     pokemon_image_file_name=$(echo "${pokemon_name}" | sed 's/ /\&#32;/')
-    printf "| #${pokemon_id} | \`${pokemon_name}\` | ![${pokemon_name}](/img/pokemon/${pokemon_image_file_name}.png)"
+    echo "  <tr>"
+    echo "    <td>${pokemon_id}</td>"
+    echo "    <td>${pokemon_name}</td>"
+    printf "    <td>![${pokemon_name}](/img/pokemon/${pokemon_image_file_name}.png"
     for ((element_counter=0; element_counter<10; element_counter++)) ; do
       printf "![-](/img/elements/${pokemon_type}.png)"
     done
-    echo " |"
+    echo "</td>"
+    echo "  </tr>"
 }
 
 echo 'Adding data to Pokemon.md...'
 number_of_pokemon=$(jq '. | length' pokemon-data.json)
 for ((iterator=0; iterator<number_of_pokemon; iterator++)) ; do
     echo "Processing Pokemon $((iterator+1)) of $((number_of_pokemon))..."
-    get_pokemon_data "${iterator}" >> Pokemon.md
+    get_pokemon_data "${iterator}" >> docs/pokemon.md
 done
-echo '' >> Pokemon.md
+echo '</table>' >> docs/pokemon.md
 
 echo 'Complete!'
