@@ -10,4458 +10,4458 @@ using this list if you run into issues setting poke-line to a particular value.
 
 <table>
   <tr>
-    <th width="40">Pokédex ID</td>
+    <th width="50">Pokédex ID</td>
     <th width="150">Pokémon Name</td>
     <th width="150">Sprite</td>
   </tr>
   <tr>
-    <td align="right">1</td>
-    <td>bulbasaur</td>
+    <td align="center">1</td>
+    <td><code>bulbasaur</code></td>
     <td align="center"><img src="/img/pokemon/bulbasaur.png" alt="bulbasaur" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">2</td>
-    <td>ivysaur</td>
+    <td align="center">2</td>
+    <td><code>ivysaur</code></td>
     <td align="center"><img src="/img/pokemon/ivysaur.png" alt="ivysaur" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">3</td>
-    <td>venusaur</td>
+    <td align="center">3</td>
+    <td><code>venusaur</code></td>
     <td align="center"><img src="/img/pokemon/venusaur.png" alt="venusaur" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">4</td>
-    <td>charmander</td>
+    <td align="center">4</td>
+    <td><code>charmander</code></td>
     <td align="center"><img src="/img/pokemon/charmander.png" alt="charmander" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">5</td>
-    <td>charmeleon</td>
+    <td align="center">5</td>
+    <td><code>charmeleon</code></td>
     <td align="center"><img src="/img/pokemon/charmeleon.png" alt="charmeleon" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">6</td>
-    <td>charizard</td>
+    <td align="center">6</td>
+    <td><code>charizard</code></td>
     <td align="center"><img src="/img/pokemon/charizard.png" alt="charizard" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">7</td>
-    <td>squirtle</td>
+    <td align="center">7</td>
+    <td><code>squirtle</code></td>
     <td align="center"><img src="/img/pokemon/squirtle.png" alt="squirtle" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">8</td>
-    <td>wartortle</td>
+    <td align="center">8</td>
+    <td><code>wartortle</code></td>
     <td align="center"><img src="/img/pokemon/wartortle.png" alt="wartortle" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">9</td>
-    <td>blastoise</td>
+    <td align="center">9</td>
+    <td><code>blastoise</code></td>
     <td align="center"><img src="/img/pokemon/blastoise.png" alt="blastoise" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">10</td>
-    <td>caterpie</td>
+    <td align="center">10</td>
+    <td><code>caterpie</code></td>
     <td align="center"><img src="/img/pokemon/caterpie.png" alt="caterpie" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">11</td>
-    <td>metapod</td>
+    <td align="center">11</td>
+    <td><code>metapod</code></td>
     <td align="center"><img src="/img/pokemon/metapod.png" alt="metapod" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">12</td>
-    <td>butterfree</td>
+    <td align="center">12</td>
+    <td><code>butterfree</code></td>
     <td align="center"><img src="/img/pokemon/butterfree.png" alt="butterfree" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">13</td>
-    <td>weedle</td>
+    <td align="center">13</td>
+    <td><code>weedle</code></td>
     <td align="center"><img src="/img/pokemon/weedle.png" alt="weedle" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">14</td>
-    <td>kakuna</td>
+    <td align="center">14</td>
+    <td><code>kakuna</code></td>
     <td align="center"><img src="/img/pokemon/kakuna.png" alt="kakuna" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">15</td>
-    <td>beedrill</td>
+    <td align="center">15</td>
+    <td><code>beedrill</code></td>
     <td align="center"><img src="/img/pokemon/beedrill.png" alt="beedrill" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">16</td>
-    <td>pidgey</td>
+    <td align="center">16</td>
+    <td><code>pidgey</code></td>
     <td align="center"><img src="/img/pokemon/pidgey.png" alt="pidgey" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">17</td>
-    <td>pidgeotto</td>
+    <td align="center">17</td>
+    <td><code>pidgeotto</code></td>
     <td align="center"><img src="/img/pokemon/pidgeotto.png" alt="pidgeotto" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">18</td>
-    <td>pidgeot</td>
+    <td align="center">18</td>
+    <td><code>pidgeot</code></td>
     <td align="center"><img src="/img/pokemon/pidgeot.png" alt="pidgeot" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">19</td>
-    <td>rattata</td>
+    <td align="center">19</td>
+    <td><code>rattata</code></td>
     <td align="center"><img src="/img/pokemon/rattata.png" alt="rattata" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">20</td>
-    <td>raticate</td>
+    <td align="center">20</td>
+    <td><code>raticate</code></td>
     <td align="center"><img src="/img/pokemon/raticate.png" alt="raticate" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">21</td>
-    <td>spearow</td>
+    <td align="center">21</td>
+    <td><code>spearow</code></td>
     <td align="center"><img src="/img/pokemon/spearow.png" alt="spearow" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">22</td>
-    <td>fearow</td>
+    <td align="center">22</td>
+    <td><code>fearow</code></td>
     <td align="center"><img src="/img/pokemon/fearow.png" alt="fearow" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">23</td>
-    <td>ekans</td>
+    <td align="center">23</td>
+    <td><code>ekans</code></td>
     <td align="center"><img src="/img/pokemon/ekans.png" alt="ekans" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">24</td>
-    <td>arbok</td>
+    <td align="center">24</td>
+    <td><code>arbok</code></td>
     <td align="center"><img src="/img/pokemon/arbok.png" alt="arbok" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">25</td>
-    <td>pikachu</td>
+    <td align="center">25</td>
+    <td><code>pikachu</code></td>
     <td align="center"><img src="/img/pokemon/pikachu.png" alt="pikachu" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">26</td>
-    <td>raichu</td>
+    <td align="center">26</td>
+    <td><code>raichu</code></td>
     <td align="center"><img src="/img/pokemon/raichu.png" alt="raichu" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">27</td>
-    <td>sandshrew</td>
+    <td align="center">27</td>
+    <td><code>sandshrew</code></td>
     <td align="center"><img src="/img/pokemon/sandshrew.png" alt="sandshrew" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">28</td>
-    <td>sandslash</td>
+    <td align="center">28</td>
+    <td><code>sandslash</code></td>
     <td align="center"><img src="/img/pokemon/sandslash.png" alt="sandslash" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">29</td>
-    <td>nidoran-m</td>
+    <td align="center">29</td>
+    <td><code>nidoran-m</code></td>
     <td align="center"><img src="/img/pokemon/nidoran-m.png" alt="nidoran-m" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">30</td>
-    <td>nidorina</td>
+    <td align="center">30</td>
+    <td><code>nidorina</code></td>
     <td align="center"><img src="/img/pokemon/nidorina.png" alt="nidorina" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">31</td>
-    <td>nidoqueen</td>
+    <td align="center">31</td>
+    <td><code>nidoqueen</code></td>
     <td align="center"><img src="/img/pokemon/nidoqueen.png" alt="nidoqueen" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">32</td>
-    <td>nidoran-f</td>
+    <td align="center">32</td>
+    <td><code>nidoran-f</code></td>
     <td align="center"><img src="/img/pokemon/nidoran-f.png" alt="nidoran-f" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">33</td>
-    <td>nidorino</td>
+    <td align="center">33</td>
+    <td><code>nidorino</code></td>
     <td align="center"><img src="/img/pokemon/nidorino.png" alt="nidorino" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">34</td>
-    <td>nidoking</td>
+    <td align="center">34</td>
+    <td><code>nidoking</code></td>
     <td align="center"><img src="/img/pokemon/nidoking.png" alt="nidoking" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">35</td>
-    <td>clefairy</td>
+    <td align="center">35</td>
+    <td><code>clefairy</code></td>
     <td align="center"><img src="/img/pokemon/clefairy.png" alt="clefairy" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">36</td>
-    <td>clefable</td>
+    <td align="center">36</td>
+    <td><code>clefable</code></td>
     <td align="center"><img src="/img/pokemon/clefable.png" alt="clefable" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">37</td>
-    <td>vulpix</td>
+    <td align="center">37</td>
+    <td><code>vulpix</code></td>
     <td align="center"><img src="/img/pokemon/vulpix.png" alt="vulpix" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">38</td>
-    <td>ninetales</td>
+    <td align="center">38</td>
+    <td><code>ninetales</code></td>
     <td align="center"><img src="/img/pokemon/ninetales.png" alt="ninetales" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">39</td>
-    <td>jigglypuff</td>
+    <td align="center">39</td>
+    <td><code>jigglypuff</code></td>
     <td align="center"><img src="/img/pokemon/jigglypuff.png" alt="jigglypuff" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">40</td>
-    <td>wigglytuff</td>
+    <td align="center">40</td>
+    <td><code>wigglytuff</code></td>
     <td align="center"><img src="/img/pokemon/wigglytuff.png" alt="wigglytuff" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">41</td>
-    <td>zubat</td>
+    <td align="center">41</td>
+    <td><code>zubat</code></td>
     <td align="center"><img src="/img/pokemon/zubat.png" alt="zubat" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">42</td>
-    <td>golbat</td>
+    <td align="center">42</td>
+    <td><code>golbat</code></td>
     <td align="center"><img src="/img/pokemon/golbat.png" alt="golbat" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">43</td>
-    <td>oddish</td>
+    <td align="center">43</td>
+    <td><code>oddish</code></td>
     <td align="center"><img src="/img/pokemon/oddish.png" alt="oddish" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">44</td>
-    <td>gloom</td>
+    <td align="center">44</td>
+    <td><code>gloom</code></td>
     <td align="center"><img src="/img/pokemon/gloom.png" alt="gloom" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">45</td>
-    <td>vileplume</td>
+    <td align="center">45</td>
+    <td><code>vileplume</code></td>
     <td align="center"><img src="/img/pokemon/vileplume.png" alt="vileplume" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">46</td>
-    <td>paras</td>
+    <td align="center">46</td>
+    <td><code>paras</code></td>
     <td align="center"><img src="/img/pokemon/paras.png" alt="paras" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">47</td>
-    <td>parasect</td>
+    <td align="center">47</td>
+    <td><code>parasect</code></td>
     <td align="center"><img src="/img/pokemon/parasect.png" alt="parasect" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">48</td>
-    <td>venonat</td>
+    <td align="center">48</td>
+    <td><code>venonat</code></td>
     <td align="center"><img src="/img/pokemon/venonat.png" alt="venonat" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">49</td>
-    <td>venomoth</td>
+    <td align="center">49</td>
+    <td><code>venomoth</code></td>
     <td align="center"><img src="/img/pokemon/venomoth.png" alt="venomoth" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">50</td>
-    <td>diglett</td>
+    <td align="center">50</td>
+    <td><code>diglett</code></td>
     <td align="center"><img src="/img/pokemon/diglett.png" alt="diglett" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">51</td>
-    <td>dugtrio</td>
+    <td align="center">51</td>
+    <td><code>dugtrio</code></td>
     <td align="center"><img src="/img/pokemon/dugtrio.png" alt="dugtrio" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">52</td>
-    <td>meowth</td>
+    <td align="center">52</td>
+    <td><code>meowth</code></td>
     <td align="center"><img src="/img/pokemon/meowth.png" alt="meowth" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">53</td>
-    <td>persian</td>
+    <td align="center">53</td>
+    <td><code>persian</code></td>
     <td align="center"><img src="/img/pokemon/persian.png" alt="persian" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">54</td>
-    <td>psyduck</td>
+    <td align="center">54</td>
+    <td><code>psyduck</code></td>
     <td align="center"><img src="/img/pokemon/psyduck.png" alt="psyduck" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">55</td>
-    <td>golduck</td>
+    <td align="center">55</td>
+    <td><code>golduck</code></td>
     <td align="center"><img src="/img/pokemon/golduck.png" alt="golduck" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">56</td>
-    <td>mankey</td>
+    <td align="center">56</td>
+    <td><code>mankey</code></td>
     <td align="center"><img src="/img/pokemon/mankey.png" alt="mankey" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">57</td>
-    <td>primeape</td>
+    <td align="center">57</td>
+    <td><code>primeape</code></td>
     <td align="center"><img src="/img/pokemon/primeape.png" alt="primeape" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">58</td>
-    <td>growlithe</td>
+    <td align="center">58</td>
+    <td><code>growlithe</code></td>
     <td align="center"><img src="/img/pokemon/growlithe.png" alt="growlithe" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">59</td>
-    <td>arcanine</td>
+    <td align="center">59</td>
+    <td><code>arcanine</code></td>
     <td align="center"><img src="/img/pokemon/arcanine.png" alt="arcanine" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">60</td>
-    <td>poliwag</td>
+    <td align="center">60</td>
+    <td><code>poliwag</code></td>
     <td align="center"><img src="/img/pokemon/poliwag.png" alt="poliwag" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">61</td>
-    <td>poliwhirl</td>
+    <td align="center">61</td>
+    <td><code>poliwhirl</code></td>
     <td align="center"><img src="/img/pokemon/poliwhirl.png" alt="poliwhirl" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">62</td>
-    <td>poliwrath</td>
+    <td align="center">62</td>
+    <td><code>poliwrath</code></td>
     <td align="center"><img src="/img/pokemon/poliwrath.png" alt="poliwrath" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">63</td>
-    <td>abra</td>
+    <td align="center">63</td>
+    <td><code>abra</code></td>
     <td align="center"><img src="/img/pokemon/abra.png" alt="abra" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">64</td>
-    <td>kadabra</td>
+    <td align="center">64</td>
+    <td><code>kadabra</code></td>
     <td align="center"><img src="/img/pokemon/kadabra.png" alt="kadabra" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">65</td>
-    <td>alakazam</td>
+    <td align="center">65</td>
+    <td><code>alakazam</code></td>
     <td align="center"><img src="/img/pokemon/alakazam.png" alt="alakazam" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">66</td>
-    <td>machop</td>
+    <td align="center">66</td>
+    <td><code>machop</code></td>
     <td align="center"><img src="/img/pokemon/machop.png" alt="machop" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">67</td>
-    <td>machoke</td>
+    <td align="center">67</td>
+    <td><code>machoke</code></td>
     <td align="center"><img src="/img/pokemon/machoke.png" alt="machoke" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">68</td>
-    <td>machamp</td>
+    <td align="center">68</td>
+    <td><code>machamp</code></td>
     <td align="center"><img src="/img/pokemon/machamp.png" alt="machamp" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">69</td>
-    <td>bellsprout</td>
+    <td align="center">69</td>
+    <td><code>bellsprout</code></td>
     <td align="center"><img src="/img/pokemon/bellsprout.png" alt="bellsprout" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">70</td>
-    <td>weepinbell</td>
+    <td align="center">70</td>
+    <td><code>weepinbell</code></td>
     <td align="center"><img src="/img/pokemon/weepinbell.png" alt="weepinbell" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">71</td>
-    <td>victreebel</td>
+    <td align="center">71</td>
+    <td><code>victreebel</code></td>
     <td align="center"><img src="/img/pokemon/victreebel.png" alt="victreebel" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">72</td>
-    <td>tentacool</td>
+    <td align="center">72</td>
+    <td><code>tentacool</code></td>
     <td align="center"><img src="/img/pokemon/tentacool.png" alt="tentacool" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">73</td>
-    <td>tentacruel</td>
+    <td align="center">73</td>
+    <td><code>tentacruel</code></td>
     <td align="center"><img src="/img/pokemon/tentacruel.png" alt="tentacruel" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">74</td>
-    <td>geodude</td>
+    <td align="center">74</td>
+    <td><code>geodude</code></td>
     <td align="center"><img src="/img/pokemon/geodude.png" alt="geodude" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">75</td>
-    <td>graveler</td>
+    <td align="center">75</td>
+    <td><code>graveler</code></td>
     <td align="center"><img src="/img/pokemon/graveler.png" alt="graveler" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">76</td>
-    <td>golem</td>
+    <td align="center">76</td>
+    <td><code>golem</code></td>
     <td align="center"><img src="/img/pokemon/golem.png" alt="golem" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">77</td>
-    <td>ponyta</td>
+    <td align="center">77</td>
+    <td><code>ponyta</code></td>
     <td align="center"><img src="/img/pokemon/ponyta.png" alt="ponyta" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">78</td>
-    <td>rapidash</td>
+    <td align="center">78</td>
+    <td><code>rapidash</code></td>
     <td align="center"><img src="/img/pokemon/rapidash.png" alt="rapidash" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">79</td>
-    <td>slowpoke</td>
+    <td align="center">79</td>
+    <td><code>slowpoke</code></td>
     <td align="center"><img src="/img/pokemon/slowpoke.png" alt="slowpoke" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">80</td>
-    <td>slowbro</td>
+    <td align="center">80</td>
+    <td><code>slowbro</code></td>
     <td align="center"><img src="/img/pokemon/slowbro.png" alt="slowbro" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">81</td>
-    <td>magnemite</td>
+    <td align="center">81</td>
+    <td><code>magnemite</code></td>
     <td align="center"><img src="/img/pokemon/magnemite.png" alt="magnemite" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">82</td>
-    <td>magneton</td>
+    <td align="center">82</td>
+    <td><code>magneton</code></td>
     <td align="center"><img src="/img/pokemon/magneton.png" alt="magneton" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">83</td>
-    <td>farfetchd</td>
+    <td align="center">83</td>
+    <td><code>farfetchd</code></td>
     <td align="center"><img src="/img/pokemon/farfetchd.png" alt="farfetchd" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">84</td>
-    <td>doduo</td>
+    <td align="center">84</td>
+    <td><code>doduo</code></td>
     <td align="center"><img src="/img/pokemon/doduo.png" alt="doduo" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">85</td>
-    <td>dodrio</td>
+    <td align="center">85</td>
+    <td><code>dodrio</code></td>
     <td align="center"><img src="/img/pokemon/dodrio.png" alt="dodrio" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">86</td>
-    <td>seel</td>
+    <td align="center">86</td>
+    <td><code>seel</code></td>
     <td align="center"><img src="/img/pokemon/seel.png" alt="seel" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">87</td>
-    <td>dewgong</td>
+    <td align="center">87</td>
+    <td><code>dewgong</code></td>
     <td align="center"><img src="/img/pokemon/dewgong.png" alt="dewgong" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">88</td>
-    <td>grimer</td>
+    <td align="center">88</td>
+    <td><code>grimer</code></td>
     <td align="center"><img src="/img/pokemon/grimer.png" alt="grimer" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">89</td>
-    <td>muk</td>
+    <td align="center">89</td>
+    <td><code>muk</code></td>
     <td align="center"><img src="/img/pokemon/muk.png" alt="muk" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">90</td>
-    <td>shellder</td>
+    <td align="center">90</td>
+    <td><code>shellder</code></td>
     <td align="center"><img src="/img/pokemon/shellder.png" alt="shellder" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">91</td>
-    <td>cloyster</td>
+    <td align="center">91</td>
+    <td><code>cloyster</code></td>
     <td align="center"><img src="/img/pokemon/cloyster.png" alt="cloyster" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">92</td>
-    <td>gastly</td>
+    <td align="center">92</td>
+    <td><code>gastly</code></td>
     <td align="center"><img src="/img/pokemon/gastly.png" alt="gastly" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">93</td>
-    <td>haunter</td>
+    <td align="center">93</td>
+    <td><code>haunter</code></td>
     <td align="center"><img src="/img/pokemon/haunter.png" alt="haunter" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">94</td>
-    <td>gengar</td>
+    <td align="center">94</td>
+    <td><code>gengar</code></td>
     <td align="center"><img src="/img/pokemon/gengar.png" alt="gengar" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">95</td>
-    <td>onix</td>
+    <td align="center">95</td>
+    <td><code>onix</code></td>
     <td align="center"><img src="/img/pokemon/onix.png" alt="onix" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">96</td>
-    <td>drowzee</td>
+    <td align="center">96</td>
+    <td><code>drowzee</code></td>
     <td align="center"><img src="/img/pokemon/drowzee.png" alt="drowzee" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">97</td>
-    <td>hypno</td>
+    <td align="center">97</td>
+    <td><code>hypno</code></td>
     <td align="center"><img src="/img/pokemon/hypno.png" alt="hypno" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">98</td>
-    <td>krabby</td>
+    <td align="center">98</td>
+    <td><code>krabby</code></td>
     <td align="center"><img src="/img/pokemon/krabby.png" alt="krabby" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">99</td>
-    <td>kingler</td>
+    <td align="center">99</td>
+    <td><code>kingler</code></td>
     <td align="center"><img src="/img/pokemon/kingler.png" alt="kingler" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">100</td>
-    <td>voltorb</td>
+    <td align="center">100</td>
+    <td><code>voltorb</code></td>
     <td align="center"><img src="/img/pokemon/voltorb.png" alt="voltorb" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">101</td>
-    <td>electrode</td>
+    <td align="center">101</td>
+    <td><code>electrode</code></td>
     <td align="center"><img src="/img/pokemon/electrode.png" alt="electrode" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">102</td>
-    <td>exeggcute</td>
+    <td align="center">102</td>
+    <td><code>exeggcute</code></td>
     <td align="center"><img src="/img/pokemon/exeggcute.png" alt="exeggcute" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">103</td>
-    <td>exeggutor</td>
+    <td align="center">103</td>
+    <td><code>exeggutor</code></td>
     <td align="center"><img src="/img/pokemon/exeggutor.png" alt="exeggutor" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">104</td>
-    <td>cubone</td>
+    <td align="center">104</td>
+    <td><code>cubone</code></td>
     <td align="center"><img src="/img/pokemon/cubone.png" alt="cubone" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">105</td>
-    <td>marowak</td>
+    <td align="center">105</td>
+    <td><code>marowak</code></td>
     <td align="center"><img src="/img/pokemon/marowak.png" alt="marowak" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">106</td>
-    <td>hitmonlee</td>
+    <td align="center">106</td>
+    <td><code>hitmonlee</code></td>
     <td align="center"><img src="/img/pokemon/hitmonlee.png" alt="hitmonlee" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">107</td>
-    <td>hitmonchan</td>
+    <td align="center">107</td>
+    <td><code>hitmonchan</code></td>
     <td align="center"><img src="/img/pokemon/hitmonchan.png" alt="hitmonchan" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">108</td>
-    <td>lickitung</td>
+    <td align="center">108</td>
+    <td><code>lickitung</code></td>
     <td align="center"><img src="/img/pokemon/lickitung.png" alt="lickitung" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">109</td>
-    <td>koffing</td>
+    <td align="center">109</td>
+    <td><code>koffing</code></td>
     <td align="center"><img src="/img/pokemon/koffing.png" alt="koffing" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">110</td>
-    <td>weezing</td>
+    <td align="center">110</td>
+    <td><code>weezing</code></td>
     <td align="center"><img src="/img/pokemon/weezing.png" alt="weezing" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">111</td>
-    <td>rhyhorn</td>
+    <td align="center">111</td>
+    <td><code>rhyhorn</code></td>
     <td align="center"><img src="/img/pokemon/rhyhorn.png" alt="rhyhorn" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">112</td>
-    <td>rhydon</td>
+    <td align="center">112</td>
+    <td><code>rhydon</code></td>
     <td align="center"><img src="/img/pokemon/rhydon.png" alt="rhydon" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">113</td>
-    <td>chansey</td>
+    <td align="center">113</td>
+    <td><code>chansey</code></td>
     <td align="center"><img src="/img/pokemon/chansey.png" alt="chansey" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">114</td>
-    <td>tangela</td>
+    <td align="center">114</td>
+    <td><code>tangela</code></td>
     <td align="center"><img src="/img/pokemon/tangela.png" alt="tangela" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">115</td>
-    <td>kangaskhan</td>
+    <td align="center">115</td>
+    <td><code>kangaskhan</code></td>
     <td align="center"><img src="/img/pokemon/kangaskhan.png" alt="kangaskhan" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">116</td>
-    <td>horsea</td>
+    <td align="center">116</td>
+    <td><code>horsea</code></td>
     <td align="center"><img src="/img/pokemon/horsea.png" alt="horsea" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">117</td>
-    <td>seadra</td>
+    <td align="center">117</td>
+    <td><code>seadra</code></td>
     <td align="center"><img src="/img/pokemon/seadra.png" alt="seadra" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">118</td>
-    <td>goldeen</td>
+    <td align="center">118</td>
+    <td><code>goldeen</code></td>
     <td align="center"><img src="/img/pokemon/goldeen.png" alt="goldeen" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">119</td>
-    <td>seaking</td>
+    <td align="center">119</td>
+    <td><code>seaking</code></td>
     <td align="center"><img src="/img/pokemon/seaking.png" alt="seaking" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">120</td>
-    <td>staryu</td>
+    <td align="center">120</td>
+    <td><code>staryu</code></td>
     <td align="center"><img src="/img/pokemon/staryu.png" alt="staryu" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">121</td>
-    <td>starmie</td>
+    <td align="center">121</td>
+    <td><code>starmie</code></td>
     <td align="center"><img src="/img/pokemon/starmie.png" alt="starmie" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">122</td>
-    <td>mr mime</td>
+    <td align="center">122</td>
+    <td><code>mr mime</code></td>
     <td align="center"><img src="/img/pokemon/mr&#32;mime.png" alt="mr mime" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">123</td>
-    <td>scyther</td>
+    <td align="center">123</td>
+    <td><code>scyther</code></td>
     <td align="center"><img src="/img/pokemon/scyther.png" alt="scyther" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">124</td>
-    <td>jynx</td>
+    <td align="center">124</td>
+    <td><code>jynx</code></td>
     <td align="center"><img src="/img/pokemon/jynx.png" alt="jynx" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">125</td>
-    <td>electabuzz</td>
+    <td align="center">125</td>
+    <td><code>electabuzz</code></td>
     <td align="center"><img src="/img/pokemon/electabuzz.png" alt="electabuzz" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">126</td>
-    <td>magmar</td>
+    <td align="center">126</td>
+    <td><code>magmar</code></td>
     <td align="center"><img src="/img/pokemon/magmar.png" alt="magmar" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">127</td>
-    <td>pinsir</td>
+    <td align="center">127</td>
+    <td><code>pinsir</code></td>
     <td align="center"><img src="/img/pokemon/pinsir.png" alt="pinsir" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">128</td>
-    <td>tauros</td>
+    <td align="center">128</td>
+    <td><code>tauros</code></td>
     <td align="center"><img src="/img/pokemon/tauros.png" alt="tauros" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">129</td>
-    <td>magikarp</td>
+    <td align="center">129</td>
+    <td><code>magikarp</code></td>
     <td align="center"><img src="/img/pokemon/magikarp.png" alt="magikarp" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">130</td>
-    <td>gyarados</td>
+    <td align="center">130</td>
+    <td><code>gyarados</code></td>
     <td align="center"><img src="/img/pokemon/gyarados.png" alt="gyarados" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">131</td>
-    <td>lapras</td>
+    <td align="center">131</td>
+    <td><code>lapras</code></td>
     <td align="center"><img src="/img/pokemon/lapras.png" alt="lapras" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">132</td>
-    <td>ditto</td>
+    <td align="center">132</td>
+    <td><code>ditto</code></td>
     <td align="center"><img src="/img/pokemon/ditto.png" alt="ditto" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">133</td>
-    <td>eevee</td>
+    <td align="center">133</td>
+    <td><code>eevee</code></td>
     <td align="center"><img src="/img/pokemon/eevee.png" alt="eevee" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">134</td>
-    <td>vaporeon</td>
+    <td align="center">134</td>
+    <td><code>vaporeon</code></td>
     <td align="center"><img src="/img/pokemon/vaporeon.png" alt="vaporeon" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">135</td>
-    <td>jolteon</td>
+    <td align="center">135</td>
+    <td><code>jolteon</code></td>
     <td align="center"><img src="/img/pokemon/jolteon.png" alt="jolteon" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">136</td>
-    <td>flareon</td>
+    <td align="center">136</td>
+    <td><code>flareon</code></td>
     <td align="center"><img src="/img/pokemon/flareon.png" alt="flareon" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">137</td>
-    <td>porygon</td>
+    <td align="center">137</td>
+    <td><code>porygon</code></td>
     <td align="center"><img src="/img/pokemon/porygon.png" alt="porygon" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">138</td>
-    <td>omanyte</td>
+    <td align="center">138</td>
+    <td><code>omanyte</code></td>
     <td align="center"><img src="/img/pokemon/omanyte.png" alt="omanyte" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">139</td>
-    <td>omastar</td>
+    <td align="center">139</td>
+    <td><code>omastar</code></td>
     <td align="center"><img src="/img/pokemon/omastar.png" alt="omastar" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">140</td>
-    <td>kabuto</td>
+    <td align="center">140</td>
+    <td><code>kabuto</code></td>
     <td align="center"><img src="/img/pokemon/kabuto.png" alt="kabuto" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">141</td>
-    <td>kabutops</td>
+    <td align="center">141</td>
+    <td><code>kabutops</code></td>
     <td align="center"><img src="/img/pokemon/kabutops.png" alt="kabutops" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">142</td>
-    <td>aerodactyl</td>
+    <td align="center">142</td>
+    <td><code>aerodactyl</code></td>
     <td align="center"><img src="/img/pokemon/aerodactyl.png" alt="aerodactyl" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">143</td>
-    <td>snorlax</td>
+    <td align="center">143</td>
+    <td><code>snorlax</code></td>
     <td align="center"><img src="/img/pokemon/snorlax.png" alt="snorlax" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">144</td>
-    <td>articuno</td>
+    <td align="center">144</td>
+    <td><code>articuno</code></td>
     <td align="center"><img src="/img/pokemon/articuno.png" alt="articuno" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">145</td>
-    <td>zapdos</td>
+    <td align="center">145</td>
+    <td><code>zapdos</code></td>
     <td align="center"><img src="/img/pokemon/zapdos.png" alt="zapdos" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">146</td>
-    <td>moltres</td>
+    <td align="center">146</td>
+    <td><code>moltres</code></td>
     <td align="center"><img src="/img/pokemon/moltres.png" alt="moltres" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">147</td>
-    <td>dratini</td>
+    <td align="center">147</td>
+    <td><code>dratini</code></td>
     <td align="center"><img src="/img/pokemon/dratini.png" alt="dratini" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">148</td>
-    <td>dragonair</td>
+    <td align="center">148</td>
+    <td><code>dragonair</code></td>
     <td align="center"><img src="/img/pokemon/dragonair.png" alt="dragonair" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">149</td>
-    <td>dragonite</td>
+    <td align="center">149</td>
+    <td><code>dragonite</code></td>
     <td align="center"><img src="/img/pokemon/dragonite.png" alt="dragonite" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">150</td>
-    <td>mewtwo</td>
+    <td align="center">150</td>
+    <td><code>mewtwo</code></td>
     <td align="center"><img src="/img/pokemon/mewtwo.png" alt="mewtwo" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">151</td>
-    <td>mew</td>
+    <td align="center">151</td>
+    <td><code>mew</code></td>
     <td align="center"><img src="/img/pokemon/mew.png" alt="mew" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">152</td>
-    <td>chikorita</td>
+    <td align="center">152</td>
+    <td><code>chikorita</code></td>
     <td align="center"><img src="/img/pokemon/chikorita.png" alt="chikorita" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">153</td>
-    <td>bayleef</td>
+    <td align="center">153</td>
+    <td><code>bayleef</code></td>
     <td align="center"><img src="/img/pokemon/bayleef.png" alt="bayleef" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">154</td>
-    <td>meganium</td>
+    <td align="center">154</td>
+    <td><code>meganium</code></td>
     <td align="center"><img src="/img/pokemon/meganium.png" alt="meganium" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">155</td>
-    <td>cyndaquil</td>
+    <td align="center">155</td>
+    <td><code>cyndaquil</code></td>
     <td align="center"><img src="/img/pokemon/cyndaquil.png" alt="cyndaquil" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">156</td>
-    <td>quilava</td>
+    <td align="center">156</td>
+    <td><code>quilava</code></td>
     <td align="center"><img src="/img/pokemon/quilava.png" alt="quilava" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">157</td>
-    <td>typhlosion</td>
+    <td align="center">157</td>
+    <td><code>typhlosion</code></td>
     <td align="center"><img src="/img/pokemon/typhlosion.png" alt="typhlosion" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">158</td>
-    <td>totodile</td>
+    <td align="center">158</td>
+    <td><code>totodile</code></td>
     <td align="center"><img src="/img/pokemon/totodile.png" alt="totodile" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">159</td>
-    <td>croconaw</td>
+    <td align="center">159</td>
+    <td><code>croconaw</code></td>
     <td align="center"><img src="/img/pokemon/croconaw.png" alt="croconaw" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">160</td>
-    <td>feraligatr</td>
+    <td align="center">160</td>
+    <td><code>feraligatr</code></td>
     <td align="center"><img src="/img/pokemon/feraligatr.png" alt="feraligatr" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">161</td>
-    <td>sentret</td>
+    <td align="center">161</td>
+    <td><code>sentret</code></td>
     <td align="center"><img src="/img/pokemon/sentret.png" alt="sentret" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">162</td>
-    <td>furret</td>
+    <td align="center">162</td>
+    <td><code>furret</code></td>
     <td align="center"><img src="/img/pokemon/furret.png" alt="furret" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">163</td>
-    <td>hoothoot</td>
+    <td align="center">163</td>
+    <td><code>hoothoot</code></td>
     <td align="center"><img src="/img/pokemon/hoothoot.png" alt="hoothoot" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">164</td>
-    <td>noctowl</td>
+    <td align="center">164</td>
+    <td><code>noctowl</code></td>
     <td align="center"><img src="/img/pokemon/noctowl.png" alt="noctowl" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">165</td>
-    <td>ledyba</td>
+    <td align="center">165</td>
+    <td><code>ledyba</code></td>
     <td align="center"><img src="/img/pokemon/ledyba.png" alt="ledyba" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">166</td>
-    <td>ledian</td>
+    <td align="center">166</td>
+    <td><code>ledian</code></td>
     <td align="center"><img src="/img/pokemon/ledian.png" alt="ledian" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">167</td>
-    <td>spinarak</td>
+    <td align="center">167</td>
+    <td><code>spinarak</code></td>
     <td align="center"><img src="/img/pokemon/spinarak.png" alt="spinarak" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">168</td>
-    <td>ariados</td>
+    <td align="center">168</td>
+    <td><code>ariados</code></td>
     <td align="center"><img src="/img/pokemon/ariados.png" alt="ariados" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">169</td>
-    <td>crobat</td>
+    <td align="center">169</td>
+    <td><code>crobat</code></td>
     <td align="center"><img src="/img/pokemon/crobat.png" alt="crobat" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">170</td>
-    <td>chinchou</td>
+    <td align="center">170</td>
+    <td><code>chinchou</code></td>
     <td align="center"><img src="/img/pokemon/chinchou.png" alt="chinchou" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">171</td>
-    <td>lanturn</td>
+    <td align="center">171</td>
+    <td><code>lanturn</code></td>
     <td align="center"><img src="/img/pokemon/lanturn.png" alt="lanturn" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">172</td>
-    <td>pichu</td>
+    <td align="center">172</td>
+    <td><code>pichu</code></td>
     <td align="center"><img src="/img/pokemon/pichu.png" alt="pichu" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">173</td>
-    <td>cleffa</td>
+    <td align="center">173</td>
+    <td><code>cleffa</code></td>
     <td align="center"><img src="/img/pokemon/cleffa.png" alt="cleffa" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">174</td>
-    <td>igglybuff</td>
+    <td align="center">174</td>
+    <td><code>igglybuff</code></td>
     <td align="center"><img src="/img/pokemon/igglybuff.png" alt="igglybuff" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">175</td>
-    <td>togepi</td>
+    <td align="center">175</td>
+    <td><code>togepi</code></td>
     <td align="center"><img src="/img/pokemon/togepi.png" alt="togepi" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">176</td>
-    <td>togetic</td>
+    <td align="center">176</td>
+    <td><code>togetic</code></td>
     <td align="center"><img src="/img/pokemon/togetic.png" alt="togetic" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">177</td>
-    <td>natu</td>
+    <td align="center">177</td>
+    <td><code>natu</code></td>
     <td align="center"><img src="/img/pokemon/natu.png" alt="natu" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">178</td>
-    <td>xatu</td>
+    <td align="center">178</td>
+    <td><code>xatu</code></td>
     <td align="center"><img src="/img/pokemon/xatu.png" alt="xatu" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">179</td>
-    <td>mareep</td>
+    <td align="center">179</td>
+    <td><code>mareep</code></td>
     <td align="center"><img src="/img/pokemon/mareep.png" alt="mareep" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">180</td>
-    <td>flaaffy</td>
+    <td align="center">180</td>
+    <td><code>flaaffy</code></td>
     <td align="center"><img src="/img/pokemon/flaaffy.png" alt="flaaffy" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">181</td>
-    <td>ampharos</td>
+    <td align="center">181</td>
+    <td><code>ampharos</code></td>
     <td align="center"><img src="/img/pokemon/ampharos.png" alt="ampharos" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">182</td>
-    <td>bellossom</td>
+    <td align="center">182</td>
+    <td><code>bellossom</code></td>
     <td align="center"><img src="/img/pokemon/bellossom.png" alt="bellossom" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">183</td>
-    <td>marill</td>
+    <td align="center">183</td>
+    <td><code>marill</code></td>
     <td align="center"><img src="/img/pokemon/marill.png" alt="marill" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">184</td>
-    <td>azumarill</td>
+    <td align="center">184</td>
+    <td><code>azumarill</code></td>
     <td align="center"><img src="/img/pokemon/azumarill.png" alt="azumarill" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">185</td>
-    <td>sudowoodo</td>
+    <td align="center">185</td>
+    <td><code>sudowoodo</code></td>
     <td align="center"><img src="/img/pokemon/sudowoodo.png" alt="sudowoodo" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">186</td>
-    <td>politoed</td>
+    <td align="center">186</td>
+    <td><code>politoed</code></td>
     <td align="center"><img src="/img/pokemon/politoed.png" alt="politoed" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">187</td>
-    <td>hoppip</td>
+    <td align="center">187</td>
+    <td><code>hoppip</code></td>
     <td align="center"><img src="/img/pokemon/hoppip.png" alt="hoppip" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">188</td>
-    <td>skiploom</td>
+    <td align="center">188</td>
+    <td><code>skiploom</code></td>
     <td align="center"><img src="/img/pokemon/skiploom.png" alt="skiploom" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">189</td>
-    <td>jumpluff</td>
+    <td align="center">189</td>
+    <td><code>jumpluff</code></td>
     <td align="center"><img src="/img/pokemon/jumpluff.png" alt="jumpluff" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">190</td>
-    <td>aipom</td>
+    <td align="center">190</td>
+    <td><code>aipom</code></td>
     <td align="center"><img src="/img/pokemon/aipom.png" alt="aipom" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">191</td>
-    <td>sunkern</td>
+    <td align="center">191</td>
+    <td><code>sunkern</code></td>
     <td align="center"><img src="/img/pokemon/sunkern.png" alt="sunkern" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">192</td>
-    <td>sunflora</td>
+    <td align="center">192</td>
+    <td><code>sunflora</code></td>
     <td align="center"><img src="/img/pokemon/sunflora.png" alt="sunflora" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">193</td>
-    <td>yanma</td>
+    <td align="center">193</td>
+    <td><code>yanma</code></td>
     <td align="center"><img src="/img/pokemon/yanma.png" alt="yanma" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">194</td>
-    <td>wooper</td>
+    <td align="center">194</td>
+    <td><code>wooper</code></td>
     <td align="center"><img src="/img/pokemon/wooper.png" alt="wooper" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">195</td>
-    <td>quagsire</td>
+    <td align="center">195</td>
+    <td><code>quagsire</code></td>
     <td align="center"><img src="/img/pokemon/quagsire.png" alt="quagsire" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">196</td>
-    <td>espeon</td>
+    <td align="center">196</td>
+    <td><code>espeon</code></td>
     <td align="center"><img src="/img/pokemon/espeon.png" alt="espeon" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">197</td>
-    <td>umbreon</td>
+    <td align="center">197</td>
+    <td><code>umbreon</code></td>
     <td align="center"><img src="/img/pokemon/umbreon.png" alt="umbreon" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">198</td>
-    <td>murkrow</td>
+    <td align="center">198</td>
+    <td><code>murkrow</code></td>
     <td align="center"><img src="/img/pokemon/murkrow.png" alt="murkrow" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">199</td>
-    <td>slowking</td>
+    <td align="center">199</td>
+    <td><code>slowking</code></td>
     <td align="center"><img src="/img/pokemon/slowking.png" alt="slowking" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">200</td>
-    <td>misdreavus</td>
+    <td align="center">200</td>
+    <td><code>misdreavus</code></td>
     <td align="center"><img src="/img/pokemon/misdreavus.png" alt="misdreavus" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">201</td>
-    <td>unown</td>
+    <td align="center">201</td>
+    <td><code>unown</code></td>
     <td align="center"><img src="/img/pokemon/unown.png" alt="unown" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">202</td>
-    <td>wobbuffet</td>
+    <td align="center">202</td>
+    <td><code>wobbuffet</code></td>
     <td align="center"><img src="/img/pokemon/wobbuffet.png" alt="wobbuffet" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">203</td>
-    <td>girafarig</td>
+    <td align="center">203</td>
+    <td><code>girafarig</code></td>
     <td align="center"><img src="/img/pokemon/girafarig.png" alt="girafarig" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">204</td>
-    <td>pineco</td>
+    <td align="center">204</td>
+    <td><code>pineco</code></td>
     <td align="center"><img src="/img/pokemon/pineco.png" alt="pineco" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">205</td>
-    <td>forretress</td>
+    <td align="center">205</td>
+    <td><code>forretress</code></td>
     <td align="center"><img src="/img/pokemon/forretress.png" alt="forretress" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">206</td>
-    <td>dunsparce</td>
+    <td align="center">206</td>
+    <td><code>dunsparce</code></td>
     <td align="center"><img src="/img/pokemon/dunsparce.png" alt="dunsparce" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">207</td>
-    <td>gligar</td>
+    <td align="center">207</td>
+    <td><code>gligar</code></td>
     <td align="center"><img src="/img/pokemon/gligar.png" alt="gligar" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">208</td>
-    <td>steelix</td>
+    <td align="center">208</td>
+    <td><code>steelix</code></td>
     <td align="center"><img src="/img/pokemon/steelix.png" alt="steelix" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">209</td>
-    <td>snubbull</td>
+    <td align="center">209</td>
+    <td><code>snubbull</code></td>
     <td align="center"><img src="/img/pokemon/snubbull.png" alt="snubbull" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">210</td>
-    <td>granbull</td>
+    <td align="center">210</td>
+    <td><code>granbull</code></td>
     <td align="center"><img src="/img/pokemon/granbull.png" alt="granbull" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">211</td>
-    <td>qwilfish</td>
+    <td align="center">211</td>
+    <td><code>qwilfish</code></td>
     <td align="center"><img src="/img/pokemon/qwilfish.png" alt="qwilfish" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">212</td>
-    <td>scizor</td>
+    <td align="center">212</td>
+    <td><code>scizor</code></td>
     <td align="center"><img src="/img/pokemon/scizor.png" alt="scizor" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">213</td>
-    <td>shuckle</td>
+    <td align="center">213</td>
+    <td><code>shuckle</code></td>
     <td align="center"><img src="/img/pokemon/shuckle.png" alt="shuckle" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">214</td>
-    <td>heracross</td>
+    <td align="center">214</td>
+    <td><code>heracross</code></td>
     <td align="center"><img src="/img/pokemon/heracross.png" alt="heracross" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">215</td>
-    <td>sneasel</td>
+    <td align="center">215</td>
+    <td><code>sneasel</code></td>
     <td align="center"><img src="/img/pokemon/sneasel.png" alt="sneasel" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">216</td>
-    <td>teddiursa</td>
+    <td align="center">216</td>
+    <td><code>teddiursa</code></td>
     <td align="center"><img src="/img/pokemon/teddiursa.png" alt="teddiursa" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">217</td>
-    <td>ursaring</td>
+    <td align="center">217</td>
+    <td><code>ursaring</code></td>
     <td align="center"><img src="/img/pokemon/ursaring.png" alt="ursaring" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">218</td>
-    <td>slugma</td>
+    <td align="center">218</td>
+    <td><code>slugma</code></td>
     <td align="center"><img src="/img/pokemon/slugma.png" alt="slugma" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">219</td>
-    <td>magcargo</td>
+    <td align="center">219</td>
+    <td><code>magcargo</code></td>
     <td align="center"><img src="/img/pokemon/magcargo.png" alt="magcargo" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">220</td>
-    <td>swinub</td>
+    <td align="center">220</td>
+    <td><code>swinub</code></td>
     <td align="center"><img src="/img/pokemon/swinub.png" alt="swinub" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">221</td>
-    <td>piloswine</td>
+    <td align="center">221</td>
+    <td><code>piloswine</code></td>
     <td align="center"><img src="/img/pokemon/piloswine.png" alt="piloswine" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">222</td>
-    <td>corsola</td>
+    <td align="center">222</td>
+    <td><code>corsola</code></td>
     <td align="center"><img src="/img/pokemon/corsola.png" alt="corsola" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">223</td>
-    <td>remoraid</td>
+    <td align="center">223</td>
+    <td><code>remoraid</code></td>
     <td align="center"><img src="/img/pokemon/remoraid.png" alt="remoraid" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">224</td>
-    <td>octillery</td>
+    <td align="center">224</td>
+    <td><code>octillery</code></td>
     <td align="center"><img src="/img/pokemon/octillery.png" alt="octillery" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">225</td>
-    <td>delibird</td>
+    <td align="center">225</td>
+    <td><code>delibird</code></td>
     <td align="center"><img src="/img/pokemon/delibird.png" alt="delibird" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">226</td>
-    <td>mantine</td>
+    <td align="center">226</td>
+    <td><code>mantine</code></td>
     <td align="center"><img src="/img/pokemon/mantine.png" alt="mantine" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">227</td>
-    <td>skarmory</td>
+    <td align="center">227</td>
+    <td><code>skarmory</code></td>
     <td align="center"><img src="/img/pokemon/skarmory.png" alt="skarmory" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">228</td>
-    <td>houndour</td>
+    <td align="center">228</td>
+    <td><code>houndour</code></td>
     <td align="center"><img src="/img/pokemon/houndour.png" alt="houndour" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">229</td>
-    <td>houndoom</td>
+    <td align="center">229</td>
+    <td><code>houndoom</code></td>
     <td align="center"><img src="/img/pokemon/houndoom.png" alt="houndoom" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">230</td>
-    <td>kingdra</td>
+    <td align="center">230</td>
+    <td><code>kingdra</code></td>
     <td align="center"><img src="/img/pokemon/kingdra.png" alt="kingdra" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">231</td>
-    <td>phanpy</td>
+    <td align="center">231</td>
+    <td><code>phanpy</code></td>
     <td align="center"><img src="/img/pokemon/phanpy.png" alt="phanpy" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">232</td>
-    <td>donphan</td>
+    <td align="center">232</td>
+    <td><code>donphan</code></td>
     <td align="center"><img src="/img/pokemon/donphan.png" alt="donphan" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">233</td>
-    <td>porygon2</td>
+    <td align="center">233</td>
+    <td><code>porygon2</code></td>
     <td align="center"><img src="/img/pokemon/porygon2.png" alt="porygon2" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">234</td>
-    <td>stantler</td>
+    <td align="center">234</td>
+    <td><code>stantler</code></td>
     <td align="center"><img src="/img/pokemon/stantler.png" alt="stantler" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">235</td>
-    <td>smeargle</td>
+    <td align="center">235</td>
+    <td><code>smeargle</code></td>
     <td align="center"><img src="/img/pokemon/smeargle.png" alt="smeargle" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">236</td>
-    <td>tyrogue</td>
+    <td align="center">236</td>
+    <td><code>tyrogue</code></td>
     <td align="center"><img src="/img/pokemon/tyrogue.png" alt="tyrogue" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">237</td>
-    <td>hitmontop</td>
+    <td align="center">237</td>
+    <td><code>hitmontop</code></td>
     <td align="center"><img src="/img/pokemon/hitmontop.png" alt="hitmontop" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">238</td>
-    <td>smoochum</td>
+    <td align="center">238</td>
+    <td><code>smoochum</code></td>
     <td align="center"><img src="/img/pokemon/smoochum.png" alt="smoochum" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">239</td>
-    <td>elekid</td>
+    <td align="center">239</td>
+    <td><code>elekid</code></td>
     <td align="center"><img src="/img/pokemon/elekid.png" alt="elekid" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">240</td>
-    <td>magby</td>
+    <td align="center">240</td>
+    <td><code>magby</code></td>
     <td align="center"><img src="/img/pokemon/magby.png" alt="magby" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">241</td>
-    <td>miltank</td>
+    <td align="center">241</td>
+    <td><code>miltank</code></td>
     <td align="center"><img src="/img/pokemon/miltank.png" alt="miltank" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">242</td>
-    <td>blissey</td>
+    <td align="center">242</td>
+    <td><code>blissey</code></td>
     <td align="center"><img src="/img/pokemon/blissey.png" alt="blissey" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">243</td>
-    <td>raikou</td>
+    <td align="center">243</td>
+    <td><code>raikou</code></td>
     <td align="center"><img src="/img/pokemon/raikou.png" alt="raikou" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">244</td>
-    <td>entei</td>
+    <td align="center">244</td>
+    <td><code>entei</code></td>
     <td align="center"><img src="/img/pokemon/entei.png" alt="entei" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">245</td>
-    <td>suicune</td>
+    <td align="center">245</td>
+    <td><code>suicune</code></td>
     <td align="center"><img src="/img/pokemon/suicune.png" alt="suicune" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">246</td>
-    <td>larvitar</td>
+    <td align="center">246</td>
+    <td><code>larvitar</code></td>
     <td align="center"><img src="/img/pokemon/larvitar.png" alt="larvitar" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">247</td>
-    <td>pupitar</td>
+    <td align="center">247</td>
+    <td><code>pupitar</code></td>
     <td align="center"><img src="/img/pokemon/pupitar.png" alt="pupitar" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">248</td>
-    <td>tyranitar</td>
+    <td align="center">248</td>
+    <td><code>tyranitar</code></td>
     <td align="center"><img src="/img/pokemon/tyranitar.png" alt="tyranitar" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">249</td>
-    <td>lugia</td>
+    <td align="center">249</td>
+    <td><code>lugia</code></td>
     <td align="center"><img src="/img/pokemon/lugia.png" alt="lugia" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">250</td>
-    <td>ho-oh</td>
+    <td align="center">250</td>
+    <td><code>ho-oh</code></td>
     <td align="center"><img src="/img/pokemon/ho-oh.png" alt="ho-oh" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">251</td>
-    <td>celebi</td>
+    <td align="center">251</td>
+    <td><code>celebi</code></td>
     <td align="center"><img src="/img/pokemon/celebi.png" alt="celebi" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">252</td>
-    <td>treecko</td>
+    <td align="center">252</td>
+    <td><code>treecko</code></td>
     <td align="center"><img src="/img/pokemon/treecko.png" alt="treecko" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">253</td>
-    <td>grovyle</td>
+    <td align="center">253</td>
+    <td><code>grovyle</code></td>
     <td align="center"><img src="/img/pokemon/grovyle.png" alt="grovyle" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">254</td>
-    <td>sceptile</td>
+    <td align="center">254</td>
+    <td><code>sceptile</code></td>
     <td align="center"><img src="/img/pokemon/sceptile.png" alt="sceptile" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">255</td>
-    <td>torchic</td>
+    <td align="center">255</td>
+    <td><code>torchic</code></td>
     <td align="center"><img src="/img/pokemon/torchic.png" alt="torchic" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">256</td>
-    <td>combusken</td>
+    <td align="center">256</td>
+    <td><code>combusken</code></td>
     <td align="center"><img src="/img/pokemon/combusken.png" alt="combusken" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">257</td>
-    <td>blaziken</td>
+    <td align="center">257</td>
+    <td><code>blaziken</code></td>
     <td align="center"><img src="/img/pokemon/blaziken.png" alt="blaziken" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">258</td>
-    <td>mudkip</td>
+    <td align="center">258</td>
+    <td><code>mudkip</code></td>
     <td align="center"><img src="/img/pokemon/mudkip.png" alt="mudkip" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">259</td>
-    <td>marshtomp</td>
+    <td align="center">259</td>
+    <td><code>marshtomp</code></td>
     <td align="center"><img src="/img/pokemon/marshtomp.png" alt="marshtomp" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">260</td>
-    <td>swampert</td>
+    <td align="center">260</td>
+    <td><code>swampert</code></td>
     <td align="center"><img src="/img/pokemon/swampert.png" alt="swampert" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">261</td>
-    <td>poochyena</td>
+    <td align="center">261</td>
+    <td><code>poochyena</code></td>
     <td align="center"><img src="/img/pokemon/poochyena.png" alt="poochyena" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">262</td>
-    <td>mightyena</td>
+    <td align="center">262</td>
+    <td><code>mightyena</code></td>
     <td align="center"><img src="/img/pokemon/mightyena.png" alt="mightyena" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">263</td>
-    <td>zigzagoon</td>
+    <td align="center">263</td>
+    <td><code>zigzagoon</code></td>
     <td align="center"><img src="/img/pokemon/zigzagoon.png" alt="zigzagoon" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">264</td>
-    <td>linoone</td>
+    <td align="center">264</td>
+    <td><code>linoone</code></td>
     <td align="center"><img src="/img/pokemon/linoone.png" alt="linoone" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">265</td>
-    <td>wurmple</td>
+    <td align="center">265</td>
+    <td><code>wurmple</code></td>
     <td align="center"><img src="/img/pokemon/wurmple.png" alt="wurmple" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">266</td>
-    <td>silcoon</td>
+    <td align="center">266</td>
+    <td><code>silcoon</code></td>
     <td align="center"><img src="/img/pokemon/silcoon.png" alt="silcoon" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">267</td>
-    <td>beautifly</td>
+    <td align="center">267</td>
+    <td><code>beautifly</code></td>
     <td align="center"><img src="/img/pokemon/beautifly.png" alt="beautifly" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">268</td>
-    <td>cascoon</td>
+    <td align="center">268</td>
+    <td><code>cascoon</code></td>
     <td align="center"><img src="/img/pokemon/cascoon.png" alt="cascoon" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">269</td>
-    <td>dustox</td>
+    <td align="center">269</td>
+    <td><code>dustox</code></td>
     <td align="center"><img src="/img/pokemon/dustox.png" alt="dustox" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">270</td>
-    <td>lotad</td>
+    <td align="center">270</td>
+    <td><code>lotad</code></td>
     <td align="center"><img src="/img/pokemon/lotad.png" alt="lotad" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">271</td>
-    <td>lombre</td>
+    <td align="center">271</td>
+    <td><code>lombre</code></td>
     <td align="center"><img src="/img/pokemon/lombre.png" alt="lombre" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">272</td>
-    <td>ludicolo</td>
+    <td align="center">272</td>
+    <td><code>ludicolo</code></td>
     <td align="center"><img src="/img/pokemon/ludicolo.png" alt="ludicolo" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">273</td>
-    <td>seedot</td>
+    <td align="center">273</td>
+    <td><code>seedot</code></td>
     <td align="center"><img src="/img/pokemon/seedot.png" alt="seedot" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">274</td>
-    <td>nuzleaf</td>
+    <td align="center">274</td>
+    <td><code>nuzleaf</code></td>
     <td align="center"><img src="/img/pokemon/nuzleaf.png" alt="nuzleaf" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">275</td>
-    <td>shiftry</td>
+    <td align="center">275</td>
+    <td><code>shiftry</code></td>
     <td align="center"><img src="/img/pokemon/shiftry.png" alt="shiftry" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">276</td>
-    <td>taillow</td>
+    <td align="center">276</td>
+    <td><code>taillow</code></td>
     <td align="center"><img src="/img/pokemon/taillow.png" alt="taillow" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">277</td>
-    <td>swellow</td>
+    <td align="center">277</td>
+    <td><code>swellow</code></td>
     <td align="center"><img src="/img/pokemon/swellow.png" alt="swellow" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">278</td>
-    <td>wingull</td>
+    <td align="center">278</td>
+    <td><code>wingull</code></td>
     <td align="center"><img src="/img/pokemon/wingull.png" alt="wingull" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">279</td>
-    <td>pelipper</td>
+    <td align="center">279</td>
+    <td><code>pelipper</code></td>
     <td align="center"><img src="/img/pokemon/pelipper.png" alt="pelipper" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">280</td>
-    <td>ralts</td>
+    <td align="center">280</td>
+    <td><code>ralts</code></td>
     <td align="center"><img src="/img/pokemon/ralts.png" alt="ralts" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">281</td>
-    <td>kirlia</td>
+    <td align="center">281</td>
+    <td><code>kirlia</code></td>
     <td align="center"><img src="/img/pokemon/kirlia.png" alt="kirlia" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">282</td>
-    <td>gardevoir</td>
+    <td align="center">282</td>
+    <td><code>gardevoir</code></td>
     <td align="center"><img src="/img/pokemon/gardevoir.png" alt="gardevoir" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">283</td>
-    <td>surskit</td>
+    <td align="center">283</td>
+    <td><code>surskit</code></td>
     <td align="center"><img src="/img/pokemon/surskit.png" alt="surskit" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">284</td>
-    <td>masquerain</td>
+    <td align="center">284</td>
+    <td><code>masquerain</code></td>
     <td align="center"><img src="/img/pokemon/masquerain.png" alt="masquerain" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">285</td>
-    <td>shroomish</td>
+    <td align="center">285</td>
+    <td><code>shroomish</code></td>
     <td align="center"><img src="/img/pokemon/shroomish.png" alt="shroomish" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">286</td>
-    <td>breloom</td>
+    <td align="center">286</td>
+    <td><code>breloom</code></td>
     <td align="center"><img src="/img/pokemon/breloom.png" alt="breloom" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">287</td>
-    <td>slakoth</td>
+    <td align="center">287</td>
+    <td><code>slakoth</code></td>
     <td align="center"><img src="/img/pokemon/slakoth.png" alt="slakoth" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">288</td>
-    <td>vigoroth</td>
+    <td align="center">288</td>
+    <td><code>vigoroth</code></td>
     <td align="center"><img src="/img/pokemon/vigoroth.png" alt="vigoroth" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">289</td>
-    <td>slaking</td>
+    <td align="center">289</td>
+    <td><code>slaking</code></td>
     <td align="center"><img src="/img/pokemon/slaking.png" alt="slaking" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">290</td>
-    <td>nincada</td>
+    <td align="center">290</td>
+    <td><code>nincada</code></td>
     <td align="center"><img src="/img/pokemon/nincada.png" alt="nincada" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">291</td>
-    <td>ninjask</td>
+    <td align="center">291</td>
+    <td><code>ninjask</code></td>
     <td align="center"><img src="/img/pokemon/ninjask.png" alt="ninjask" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">292</td>
-    <td>shedinja</td>
+    <td align="center">292</td>
+    <td><code>shedinja</code></td>
     <td align="center"><img src="/img/pokemon/shedinja.png" alt="shedinja" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">293</td>
-    <td>whismur</td>
+    <td align="center">293</td>
+    <td><code>whismur</code></td>
     <td align="center"><img src="/img/pokemon/whismur.png" alt="whismur" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">294</td>
-    <td>loudred</td>
+    <td align="center">294</td>
+    <td><code>loudred</code></td>
     <td align="center"><img src="/img/pokemon/loudred.png" alt="loudred" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">295</td>
-    <td>exploud</td>
+    <td align="center">295</td>
+    <td><code>exploud</code></td>
     <td align="center"><img src="/img/pokemon/exploud.png" alt="exploud" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">296</td>
-    <td>makuhita</td>
+    <td align="center">296</td>
+    <td><code>makuhita</code></td>
     <td align="center"><img src="/img/pokemon/makuhita.png" alt="makuhita" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">297</td>
-    <td>hariyama</td>
+    <td align="center">297</td>
+    <td><code>hariyama</code></td>
     <td align="center"><img src="/img/pokemon/hariyama.png" alt="hariyama" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">298</td>
-    <td>azurill</td>
+    <td align="center">298</td>
+    <td><code>azurill</code></td>
     <td align="center"><img src="/img/pokemon/azurill.png" alt="azurill" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">299</td>
-    <td>nosepass</td>
+    <td align="center">299</td>
+    <td><code>nosepass</code></td>
     <td align="center"><img src="/img/pokemon/nosepass.png" alt="nosepass" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">300</td>
-    <td>skitty</td>
+    <td align="center">300</td>
+    <td><code>skitty</code></td>
     <td align="center"><img src="/img/pokemon/skitty.png" alt="skitty" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">301</td>
-    <td>delcatty</td>
+    <td align="center">301</td>
+    <td><code>delcatty</code></td>
     <td align="center"><img src="/img/pokemon/delcatty.png" alt="delcatty" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">302</td>
-    <td>sableye</td>
+    <td align="center">302</td>
+    <td><code>sableye</code></td>
     <td align="center"><img src="/img/pokemon/sableye.png" alt="sableye" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">303</td>
-    <td>mawile</td>
+    <td align="center">303</td>
+    <td><code>mawile</code></td>
     <td align="center"><img src="/img/pokemon/mawile.png" alt="mawile" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">304</td>
-    <td>aron</td>
+    <td align="center">304</td>
+    <td><code>aron</code></td>
     <td align="center"><img src="/img/pokemon/aron.png" alt="aron" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">305</td>
-    <td>lairon</td>
+    <td align="center">305</td>
+    <td><code>lairon</code></td>
     <td align="center"><img src="/img/pokemon/lairon.png" alt="lairon" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">306</td>
-    <td>aggron</td>
+    <td align="center">306</td>
+    <td><code>aggron</code></td>
     <td align="center"><img src="/img/pokemon/aggron.png" alt="aggron" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">307</td>
-    <td>meditite</td>
+    <td align="center">307</td>
+    <td><code>meditite</code></td>
     <td align="center"><img src="/img/pokemon/meditite.png" alt="meditite" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">308</td>
-    <td>medicham</td>
+    <td align="center">308</td>
+    <td><code>medicham</code></td>
     <td align="center"><img src="/img/pokemon/medicham.png" alt="medicham" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">309</td>
-    <td>electrike</td>
+    <td align="center">309</td>
+    <td><code>electrike</code></td>
     <td align="center"><img src="/img/pokemon/electrike.png" alt="electrike" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">310</td>
-    <td>manectric</td>
+    <td align="center">310</td>
+    <td><code>manectric</code></td>
     <td align="center"><img src="/img/pokemon/manectric.png" alt="manectric" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">311</td>
-    <td>plusle</td>
+    <td align="center">311</td>
+    <td><code>plusle</code></td>
     <td align="center"><img src="/img/pokemon/plusle.png" alt="plusle" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">312</td>
-    <td>minun</td>
+    <td align="center">312</td>
+    <td><code>minun</code></td>
     <td align="center"><img src="/img/pokemon/minun.png" alt="minun" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">313</td>
-    <td>volbeat</td>
+    <td align="center">313</td>
+    <td><code>volbeat</code></td>
     <td align="center"><img src="/img/pokemon/volbeat.png" alt="volbeat" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">314</td>
-    <td>illumise</td>
+    <td align="center">314</td>
+    <td><code>illumise</code></td>
     <td align="center"><img src="/img/pokemon/illumise.png" alt="illumise" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">315</td>
-    <td>roselia</td>
+    <td align="center">315</td>
+    <td><code>roselia</code></td>
     <td align="center"><img src="/img/pokemon/roselia.png" alt="roselia" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">316</td>
-    <td>gulpin</td>
+    <td align="center">316</td>
+    <td><code>gulpin</code></td>
     <td align="center"><img src="/img/pokemon/gulpin.png" alt="gulpin" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">317</td>
-    <td>swalot</td>
+    <td align="center">317</td>
+    <td><code>swalot</code></td>
     <td align="center"><img src="/img/pokemon/swalot.png" alt="swalot" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">318</td>
-    <td>carvanha</td>
+    <td align="center">318</td>
+    <td><code>carvanha</code></td>
     <td align="center"><img src="/img/pokemon/carvanha.png" alt="carvanha" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">319</td>
-    <td>sharpedo</td>
+    <td align="center">319</td>
+    <td><code>sharpedo</code></td>
     <td align="center"><img src="/img/pokemon/sharpedo.png" alt="sharpedo" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">320</td>
-    <td>wailmer</td>
+    <td align="center">320</td>
+    <td><code>wailmer</code></td>
     <td align="center"><img src="/img/pokemon/wailmer.png" alt="wailmer" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">321</td>
-    <td>wailord</td>
+    <td align="center">321</td>
+    <td><code>wailord</code></td>
     <td align="center"><img src="/img/pokemon/wailord.png" alt="wailord" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">322</td>
-    <td>numel</td>
+    <td align="center">322</td>
+    <td><code>numel</code></td>
     <td align="center"><img src="/img/pokemon/numel.png" alt="numel" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">323</td>
-    <td>camerupt</td>
+    <td align="center">323</td>
+    <td><code>camerupt</code></td>
     <td align="center"><img src="/img/pokemon/camerupt.png" alt="camerupt" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">324</td>
-    <td>torkoal</td>
+    <td align="center">324</td>
+    <td><code>torkoal</code></td>
     <td align="center"><img src="/img/pokemon/torkoal.png" alt="torkoal" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">325</td>
-    <td>spoink</td>
+    <td align="center">325</td>
+    <td><code>spoink</code></td>
     <td align="center"><img src="/img/pokemon/spoink.png" alt="spoink" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">326</td>
-    <td>grumpig</td>
+    <td align="center">326</td>
+    <td><code>grumpig</code></td>
     <td align="center"><img src="/img/pokemon/grumpig.png" alt="grumpig" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">327</td>
-    <td>spinda</td>
+    <td align="center">327</td>
+    <td><code>spinda</code></td>
     <td align="center"><img src="/img/pokemon/spinda.png" alt="spinda" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">328</td>
-    <td>trapinch</td>
+    <td align="center">328</td>
+    <td><code>trapinch</code></td>
     <td align="center"><img src="/img/pokemon/trapinch.png" alt="trapinch" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">329</td>
-    <td>vibrava</td>
+    <td align="center">329</td>
+    <td><code>vibrava</code></td>
     <td align="center"><img src="/img/pokemon/vibrava.png" alt="vibrava" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">330</td>
-    <td>flygon</td>
+    <td align="center">330</td>
+    <td><code>flygon</code></td>
     <td align="center"><img src="/img/pokemon/flygon.png" alt="flygon" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">331</td>
-    <td>cacnea</td>
+    <td align="center">331</td>
+    <td><code>cacnea</code></td>
     <td align="center"><img src="/img/pokemon/cacnea.png" alt="cacnea" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">332</td>
-    <td>cacturne</td>
+    <td align="center">332</td>
+    <td><code>cacturne</code></td>
     <td align="center"><img src="/img/pokemon/cacturne.png" alt="cacturne" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">333</td>
-    <td>swablu</td>
+    <td align="center">333</td>
+    <td><code>swablu</code></td>
     <td align="center"><img src="/img/pokemon/swablu.png" alt="swablu" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">334</td>
-    <td>altaria</td>
+    <td align="center">334</td>
+    <td><code>altaria</code></td>
     <td align="center"><img src="/img/pokemon/altaria.png" alt="altaria" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">335</td>
-    <td>zangoose</td>
+    <td align="center">335</td>
+    <td><code>zangoose</code></td>
     <td align="center"><img src="/img/pokemon/zangoose.png" alt="zangoose" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">336</td>
-    <td>seviper</td>
+    <td align="center">336</td>
+    <td><code>seviper</code></td>
     <td align="center"><img src="/img/pokemon/seviper.png" alt="seviper" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">337</td>
-    <td>lunatone</td>
+    <td align="center">337</td>
+    <td><code>lunatone</code></td>
     <td align="center"><img src="/img/pokemon/lunatone.png" alt="lunatone" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">338</td>
-    <td>solrock</td>
+    <td align="center">338</td>
+    <td><code>solrock</code></td>
     <td align="center"><img src="/img/pokemon/solrock.png" alt="solrock" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">339</td>
-    <td>barboach</td>
+    <td align="center">339</td>
+    <td><code>barboach</code></td>
     <td align="center"><img src="/img/pokemon/barboach.png" alt="barboach" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">340</td>
-    <td>whiscash</td>
+    <td align="center">340</td>
+    <td><code>whiscash</code></td>
     <td align="center"><img src="/img/pokemon/whiscash.png" alt="whiscash" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">341</td>
-    <td>corphish</td>
+    <td align="center">341</td>
+    <td><code>corphish</code></td>
     <td align="center"><img src="/img/pokemon/corphish.png" alt="corphish" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">342</td>
-    <td>crawdaunt</td>
+    <td align="center">342</td>
+    <td><code>crawdaunt</code></td>
     <td align="center"><img src="/img/pokemon/crawdaunt.png" alt="crawdaunt" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">343</td>
-    <td>baltoy</td>
+    <td align="center">343</td>
+    <td><code>baltoy</code></td>
     <td align="center"><img src="/img/pokemon/baltoy.png" alt="baltoy" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">344</td>
-    <td>claydol</td>
+    <td align="center">344</td>
+    <td><code>claydol</code></td>
     <td align="center"><img src="/img/pokemon/claydol.png" alt="claydol" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">345</td>
-    <td>lileep</td>
+    <td align="center">345</td>
+    <td><code>lileep</code></td>
     <td align="center"><img src="/img/pokemon/lileep.png" alt="lileep" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">346</td>
-    <td>cradily</td>
+    <td align="center">346</td>
+    <td><code>cradily</code></td>
     <td align="center"><img src="/img/pokemon/cradily.png" alt="cradily" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">347</td>
-    <td>anorith</td>
+    <td align="center">347</td>
+    <td><code>anorith</code></td>
     <td align="center"><img src="/img/pokemon/anorith.png" alt="anorith" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">348</td>
-    <td>armaldo</td>
+    <td align="center">348</td>
+    <td><code>armaldo</code></td>
     <td align="center"><img src="/img/pokemon/armaldo.png" alt="armaldo" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">349</td>
-    <td>feebas</td>
+    <td align="center">349</td>
+    <td><code>feebas</code></td>
     <td align="center"><img src="/img/pokemon/feebas.png" alt="feebas" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">350</td>
-    <td>milotic</td>
+    <td align="center">350</td>
+    <td><code>milotic</code></td>
     <td align="center"><img src="/img/pokemon/milotic.png" alt="milotic" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">351</td>
-    <td>castform</td>
+    <td align="center">351</td>
+    <td><code>castform</code></td>
     <td align="center"><img src="/img/pokemon/castform.png" alt="castform" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">352</td>
-    <td>kecleon</td>
+    <td align="center">352</td>
+    <td><code>kecleon</code></td>
     <td align="center"><img src="/img/pokemon/kecleon.png" alt="kecleon" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">353</td>
-    <td>shuppet</td>
+    <td align="center">353</td>
+    <td><code>shuppet</code></td>
     <td align="center"><img src="/img/pokemon/shuppet.png" alt="shuppet" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">354</td>
-    <td>banette</td>
+    <td align="center">354</td>
+    <td><code>banette</code></td>
     <td align="center"><img src="/img/pokemon/banette.png" alt="banette" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">355</td>
-    <td>duskull</td>
+    <td align="center">355</td>
+    <td><code>duskull</code></td>
     <td align="center"><img src="/img/pokemon/duskull.png" alt="duskull" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">356</td>
-    <td>dusclops</td>
+    <td align="center">356</td>
+    <td><code>dusclops</code></td>
     <td align="center"><img src="/img/pokemon/dusclops.png" alt="dusclops" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">357</td>
-    <td>tropius</td>
+    <td align="center">357</td>
+    <td><code>tropius</code></td>
     <td align="center"><img src="/img/pokemon/tropius.png" alt="tropius" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">358</td>
-    <td>chimecho</td>
+    <td align="center">358</td>
+    <td><code>chimecho</code></td>
     <td align="center"><img src="/img/pokemon/chimecho.png" alt="chimecho" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">359</td>
-    <td>absol</td>
+    <td align="center">359</td>
+    <td><code>absol</code></td>
     <td align="center"><img src="/img/pokemon/absol.png" alt="absol" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">360</td>
-    <td>wynaut</td>
+    <td align="center">360</td>
+    <td><code>wynaut</code></td>
     <td align="center"><img src="/img/pokemon/wynaut.png" alt="wynaut" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">361</td>
-    <td>snorunt</td>
+    <td align="center">361</td>
+    <td><code>snorunt</code></td>
     <td align="center"><img src="/img/pokemon/snorunt.png" alt="snorunt" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">362</td>
-    <td>glalie</td>
+    <td align="center">362</td>
+    <td><code>glalie</code></td>
     <td align="center"><img src="/img/pokemon/glalie.png" alt="glalie" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">363</td>
-    <td>spheal</td>
+    <td align="center">363</td>
+    <td><code>spheal</code></td>
     <td align="center"><img src="/img/pokemon/spheal.png" alt="spheal" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">364</td>
-    <td>sealeo</td>
+    <td align="center">364</td>
+    <td><code>sealeo</code></td>
     <td align="center"><img src="/img/pokemon/sealeo.png" alt="sealeo" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">365</td>
-    <td>walrein</td>
+    <td align="center">365</td>
+    <td><code>walrein</code></td>
     <td align="center"><img src="/img/pokemon/walrein.png" alt="walrein" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">366</td>
-    <td>clamperl</td>
+    <td align="center">366</td>
+    <td><code>clamperl</code></td>
     <td align="center"><img src="/img/pokemon/clamperl.png" alt="clamperl" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">367</td>
-    <td>huntail</td>
+    <td align="center">367</td>
+    <td><code>huntail</code></td>
     <td align="center"><img src="/img/pokemon/huntail.png" alt="huntail" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">368</td>
-    <td>gorebyss</td>
+    <td align="center">368</td>
+    <td><code>gorebyss</code></td>
     <td align="center"><img src="/img/pokemon/gorebyss.png" alt="gorebyss" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">369</td>
-    <td>relicanth</td>
+    <td align="center">369</td>
+    <td><code>relicanth</code></td>
     <td align="center"><img src="/img/pokemon/relicanth.png" alt="relicanth" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">370</td>
-    <td>luvdisc</td>
+    <td align="center">370</td>
+    <td><code>luvdisc</code></td>
     <td align="center"><img src="/img/pokemon/luvdisc.png" alt="luvdisc" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">371</td>
-    <td>bagon</td>
+    <td align="center">371</td>
+    <td><code>bagon</code></td>
     <td align="center"><img src="/img/pokemon/bagon.png" alt="bagon" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">372</td>
-    <td>shelgon</td>
+    <td align="center">372</td>
+    <td><code>shelgon</code></td>
     <td align="center"><img src="/img/pokemon/shelgon.png" alt="shelgon" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">373</td>
-    <td>salamence</td>
+    <td align="center">373</td>
+    <td><code>salamence</code></td>
     <td align="center"><img src="/img/pokemon/salamence.png" alt="salamence" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">374</td>
-    <td>beldum</td>
+    <td align="center">374</td>
+    <td><code>beldum</code></td>
     <td align="center"><img src="/img/pokemon/beldum.png" alt="beldum" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">375</td>
-    <td>metang</td>
+    <td align="center">375</td>
+    <td><code>metang</code></td>
     <td align="center"><img src="/img/pokemon/metang.png" alt="metang" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">376</td>
-    <td>metagross</td>
+    <td align="center">376</td>
+    <td><code>metagross</code></td>
     <td align="center"><img src="/img/pokemon/metagross.png" alt="metagross" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">377</td>
-    <td>regirock</td>
+    <td align="center">377</td>
+    <td><code>regirock</code></td>
     <td align="center"><img src="/img/pokemon/regirock.png" alt="regirock" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">378</td>
-    <td>regice</td>
+    <td align="center">378</td>
+    <td><code>regice</code></td>
     <td align="center"><img src="/img/pokemon/regice.png" alt="regice" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">379</td>
-    <td>registeel</td>
+    <td align="center">379</td>
+    <td><code>registeel</code></td>
     <td align="center"><img src="/img/pokemon/registeel.png" alt="registeel" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">380</td>
-    <td>latias</td>
+    <td align="center">380</td>
+    <td><code>latias</code></td>
     <td align="center"><img src="/img/pokemon/latias.png" alt="latias" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">381</td>
-    <td>latios</td>
+    <td align="center">381</td>
+    <td><code>latios</code></td>
     <td align="center"><img src="/img/pokemon/latios.png" alt="latios" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">382</td>
-    <td>kyogre</td>
+    <td align="center">382</td>
+    <td><code>kyogre</code></td>
     <td align="center"><img src="/img/pokemon/kyogre.png" alt="kyogre" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">383</td>
-    <td>groudon</td>
+    <td align="center">383</td>
+    <td><code>groudon</code></td>
     <td align="center"><img src="/img/pokemon/groudon.png" alt="groudon" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">384</td>
-    <td>rayquaza</td>
+    <td align="center">384</td>
+    <td><code>rayquaza</code></td>
     <td align="center"><img src="/img/pokemon/rayquaza.png" alt="rayquaza" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">385</td>
-    <td>jirachi</td>
+    <td align="center">385</td>
+    <td><code>jirachi</code></td>
     <td align="center"><img src="/img/pokemon/jirachi.png" alt="jirachi" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">386</td>
-    <td>deoxys</td>
+    <td align="center">386</td>
+    <td><code>deoxys</code></td>
     <td align="center"><img src="/img/pokemon/deoxys.png" alt="deoxys" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">387</td>
-    <td>turtwig</td>
+    <td align="center">387</td>
+    <td><code>turtwig</code></td>
     <td align="center"><img src="/img/pokemon/turtwig.png" alt="turtwig" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">388</td>
-    <td>grotle</td>
+    <td align="center">388</td>
+    <td><code>grotle</code></td>
     <td align="center"><img src="/img/pokemon/grotle.png" alt="grotle" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">389</td>
-    <td>torterra</td>
+    <td align="center">389</td>
+    <td><code>torterra</code></td>
     <td align="center"><img src="/img/pokemon/torterra.png" alt="torterra" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">390</td>
-    <td>chimchar</td>
+    <td align="center">390</td>
+    <td><code>chimchar</code></td>
     <td align="center"><img src="/img/pokemon/chimchar.png" alt="chimchar" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">391</td>
-    <td>monferno</td>
+    <td align="center">391</td>
+    <td><code>monferno</code></td>
     <td align="center"><img src="/img/pokemon/monferno.png" alt="monferno" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">392</td>
-    <td>infernape</td>
+    <td align="center">392</td>
+    <td><code>infernape</code></td>
     <td align="center"><img src="/img/pokemon/infernape.png" alt="infernape" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">393</td>
-    <td>piplup</td>
+    <td align="center">393</td>
+    <td><code>piplup</code></td>
     <td align="center"><img src="/img/pokemon/piplup.png" alt="piplup" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">394</td>
-    <td>prinplup</td>
+    <td align="center">394</td>
+    <td><code>prinplup</code></td>
     <td align="center"><img src="/img/pokemon/prinplup.png" alt="prinplup" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">395</td>
-    <td>empoleon</td>
+    <td align="center">395</td>
+    <td><code>empoleon</code></td>
     <td align="center"><img src="/img/pokemon/empoleon.png" alt="empoleon" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">396</td>
-    <td>starly</td>
+    <td align="center">396</td>
+    <td><code>starly</code></td>
     <td align="center"><img src="/img/pokemon/starly.png" alt="starly" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">397</td>
-    <td>staravia</td>
+    <td align="center">397</td>
+    <td><code>staravia</code></td>
     <td align="center"><img src="/img/pokemon/staravia.png" alt="staravia" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">398</td>
-    <td>staraptor</td>
+    <td align="center">398</td>
+    <td><code>staraptor</code></td>
     <td align="center"><img src="/img/pokemon/staraptor.png" alt="staraptor" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">399</td>
-    <td>bidoof</td>
+    <td align="center">399</td>
+    <td><code>bidoof</code></td>
     <td align="center"><img src="/img/pokemon/bidoof.png" alt="bidoof" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">400</td>
-    <td>bibarel</td>
+    <td align="center">400</td>
+    <td><code>bibarel</code></td>
     <td align="center"><img src="/img/pokemon/bibarel.png" alt="bibarel" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">401</td>
-    <td>kricketot</td>
+    <td align="center">401</td>
+    <td><code>kricketot</code></td>
     <td align="center"><img src="/img/pokemon/kricketot.png" alt="kricketot" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">402</td>
-    <td>kricketune</td>
+    <td align="center">402</td>
+    <td><code>kricketune</code></td>
     <td align="center"><img src="/img/pokemon/kricketune.png" alt="kricketune" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">403</td>
-    <td>shinx</td>
+    <td align="center">403</td>
+    <td><code>shinx</code></td>
     <td align="center"><img src="/img/pokemon/shinx.png" alt="shinx" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">404</td>
-    <td>luxio</td>
+    <td align="center">404</td>
+    <td><code>luxio</code></td>
     <td align="center"><img src="/img/pokemon/luxio.png" alt="luxio" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">405</td>
-    <td>luxray</td>
+    <td align="center">405</td>
+    <td><code>luxray</code></td>
     <td align="center"><img src="/img/pokemon/luxray.png" alt="luxray" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">406</td>
-    <td>budew</td>
+    <td align="center">406</td>
+    <td><code>budew</code></td>
     <td align="center"><img src="/img/pokemon/budew.png" alt="budew" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">407</td>
-    <td>roserade</td>
+    <td align="center">407</td>
+    <td><code>roserade</code></td>
     <td align="center"><img src="/img/pokemon/roserade.png" alt="roserade" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">408</td>
-    <td>cranidos</td>
+    <td align="center">408</td>
+    <td><code>cranidos</code></td>
     <td align="center"><img src="/img/pokemon/cranidos.png" alt="cranidos" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">409</td>
-    <td>rampardos</td>
+    <td align="center">409</td>
+    <td><code>rampardos</code></td>
     <td align="center"><img src="/img/pokemon/rampardos.png" alt="rampardos" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">410</td>
-    <td>shieldon</td>
+    <td align="center">410</td>
+    <td><code>shieldon</code></td>
     <td align="center"><img src="/img/pokemon/shieldon.png" alt="shieldon" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">411</td>
-    <td>bastiodon</td>
+    <td align="center">411</td>
+    <td><code>bastiodon</code></td>
     <td align="center"><img src="/img/pokemon/bastiodon.png" alt="bastiodon" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">412</td>
-    <td>burmy</td>
+    <td align="center">412</td>
+    <td><code>burmy</code></td>
     <td align="center"><img src="/img/pokemon/burmy.png" alt="burmy" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">413</td>
-    <td>wormadam</td>
+    <td align="center">413</td>
+    <td><code>wormadam</code></td>
     <td align="center"><img src="/img/pokemon/wormadam.png" alt="wormadam" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">414</td>
-    <td>mothim</td>
+    <td align="center">414</td>
+    <td><code>mothim</code></td>
     <td align="center"><img src="/img/pokemon/mothim.png" alt="mothim" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">415</td>
-    <td>combee</td>
+    <td align="center">415</td>
+    <td><code>combee</code></td>
     <td align="center"><img src="/img/pokemon/combee.png" alt="combee" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">416</td>
-    <td>vespiquen</td>
+    <td align="center">416</td>
+    <td><code>vespiquen</code></td>
     <td align="center"><img src="/img/pokemon/vespiquen.png" alt="vespiquen" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">417</td>
-    <td>pachirisu</td>
+    <td align="center">417</td>
+    <td><code>pachirisu</code></td>
     <td align="center"><img src="/img/pokemon/pachirisu.png" alt="pachirisu" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">418</td>
-    <td>buizel</td>
+    <td align="center">418</td>
+    <td><code>buizel</code></td>
     <td align="center"><img src="/img/pokemon/buizel.png" alt="buizel" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">419</td>
-    <td>floatzel</td>
+    <td align="center">419</td>
+    <td><code>floatzel</code></td>
     <td align="center"><img src="/img/pokemon/floatzel.png" alt="floatzel" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">420</td>
-    <td>cherubi</td>
+    <td align="center">420</td>
+    <td><code>cherubi</code></td>
     <td align="center"><img src="/img/pokemon/cherubi.png" alt="cherubi" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">421</td>
-    <td>cherrim</td>
+    <td align="center">421</td>
+    <td><code>cherrim</code></td>
     <td align="center"><img src="/img/pokemon/cherrim.png" alt="cherrim" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">422</td>
-    <td>shellos</td>
+    <td align="center">422</td>
+    <td><code>shellos</code></td>
     <td align="center"><img src="/img/pokemon/shellos.png" alt="shellos" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">423</td>
-    <td>gastrodon</td>
+    <td align="center">423</td>
+    <td><code>gastrodon</code></td>
     <td align="center"><img src="/img/pokemon/gastrodon.png" alt="gastrodon" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">424</td>
-    <td>ambipom</td>
+    <td align="center">424</td>
+    <td><code>ambipom</code></td>
     <td align="center"><img src="/img/pokemon/ambipom.png" alt="ambipom" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">425</td>
-    <td>drifloon</td>
+    <td align="center">425</td>
+    <td><code>drifloon</code></td>
     <td align="center"><img src="/img/pokemon/drifloon.png" alt="drifloon" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">426</td>
-    <td>drifblim</td>
+    <td align="center">426</td>
+    <td><code>drifblim</code></td>
     <td align="center"><img src="/img/pokemon/drifblim.png" alt="drifblim" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">427</td>
-    <td>buneary</td>
+    <td align="center">427</td>
+    <td><code>buneary</code></td>
     <td align="center"><img src="/img/pokemon/buneary.png" alt="buneary" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">428</td>
-    <td>lopunny</td>
+    <td align="center">428</td>
+    <td><code>lopunny</code></td>
     <td align="center"><img src="/img/pokemon/lopunny.png" alt="lopunny" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">429</td>
-    <td>mismagius</td>
+    <td align="center">429</td>
+    <td><code>mismagius</code></td>
     <td align="center"><img src="/img/pokemon/mismagius.png" alt="mismagius" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">430</td>
-    <td>honchkrow</td>
+    <td align="center">430</td>
+    <td><code>honchkrow</code></td>
     <td align="center"><img src="/img/pokemon/honchkrow.png" alt="honchkrow" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">431</td>
-    <td>glameow</td>
+    <td align="center">431</td>
+    <td><code>glameow</code></td>
     <td align="center"><img src="/img/pokemon/glameow.png" alt="glameow" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">432</td>
-    <td>purugly</td>
+    <td align="center">432</td>
+    <td><code>purugly</code></td>
     <td align="center"><img src="/img/pokemon/purugly.png" alt="purugly" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">433</td>
-    <td>chingling</td>
+    <td align="center">433</td>
+    <td><code>chingling</code></td>
     <td align="center"><img src="/img/pokemon/chingling.png" alt="chingling" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">434</td>
-    <td>stunky</td>
+    <td align="center">434</td>
+    <td><code>stunky</code></td>
     <td align="center"><img src="/img/pokemon/stunky.png" alt="stunky" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">435</td>
-    <td>skuntank</td>
+    <td align="center">435</td>
+    <td><code>skuntank</code></td>
     <td align="center"><img src="/img/pokemon/skuntank.png" alt="skuntank" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">436</td>
-    <td>bronzor</td>
+    <td align="center">436</td>
+    <td><code>bronzor</code></td>
     <td align="center"><img src="/img/pokemon/bronzor.png" alt="bronzor" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">437</td>
-    <td>bronzong</td>
+    <td align="center">437</td>
+    <td><code>bronzong</code></td>
     <td align="center"><img src="/img/pokemon/bronzong.png" alt="bronzong" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">438</td>
-    <td>bonsly</td>
+    <td align="center">438</td>
+    <td><code>bonsly</code></td>
     <td align="center"><img src="/img/pokemon/bonsly.png" alt="bonsly" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">439</td>
-    <td>mime jr</td>
+    <td align="center">439</td>
+    <td><code>mime jr</code></td>
     <td align="center"><img src="/img/pokemon/mime&#32;jr.png" alt="mime jr" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">440</td>
-    <td>happiny</td>
+    <td align="center">440</td>
+    <td><code>happiny</code></td>
     <td align="center"><img src="/img/pokemon/happiny.png" alt="happiny" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">441</td>
-    <td>chatot</td>
+    <td align="center">441</td>
+    <td><code>chatot</code></td>
     <td align="center"><img src="/img/pokemon/chatot.png" alt="chatot" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">442</td>
-    <td>spiritomb</td>
+    <td align="center">442</td>
+    <td><code>spiritomb</code></td>
     <td align="center"><img src="/img/pokemon/spiritomb.png" alt="spiritomb" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">443</td>
-    <td>gible</td>
+    <td align="center">443</td>
+    <td><code>gible</code></td>
     <td align="center"><img src="/img/pokemon/gible.png" alt="gible" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">444</td>
-    <td>gabite</td>
+    <td align="center">444</td>
+    <td><code>gabite</code></td>
     <td align="center"><img src="/img/pokemon/gabite.png" alt="gabite" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">445</td>
-    <td>garchomp</td>
+    <td align="center">445</td>
+    <td><code>garchomp</code></td>
     <td align="center"><img src="/img/pokemon/garchomp.png" alt="garchomp" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">446</td>
-    <td>munchlax</td>
+    <td align="center">446</td>
+    <td><code>munchlax</code></td>
     <td align="center"><img src="/img/pokemon/munchlax.png" alt="munchlax" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">447</td>
-    <td>riolu</td>
+    <td align="center">447</td>
+    <td><code>riolu</code></td>
     <td align="center"><img src="/img/pokemon/riolu.png" alt="riolu" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">448</td>
-    <td>lucario</td>
+    <td align="center">448</td>
+    <td><code>lucario</code></td>
     <td align="center"><img src="/img/pokemon/lucario.png" alt="lucario" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">449</td>
-    <td>hippopotas</td>
+    <td align="center">449</td>
+    <td><code>hippopotas</code></td>
     <td align="center"><img src="/img/pokemon/hippopotas.png" alt="hippopotas" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">450</td>
-    <td>hippowdon</td>
+    <td align="center">450</td>
+    <td><code>hippowdon</code></td>
     <td align="center"><img src="/img/pokemon/hippowdon.png" alt="hippowdon" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">451</td>
-    <td>skorupi</td>
+    <td align="center">451</td>
+    <td><code>skorupi</code></td>
     <td align="center"><img src="/img/pokemon/skorupi.png" alt="skorupi" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">452</td>
-    <td>drapion</td>
+    <td align="center">452</td>
+    <td><code>drapion</code></td>
     <td align="center"><img src="/img/pokemon/drapion.png" alt="drapion" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">453</td>
-    <td>croagunk</td>
+    <td align="center">453</td>
+    <td><code>croagunk</code></td>
     <td align="center"><img src="/img/pokemon/croagunk.png" alt="croagunk" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">454</td>
-    <td>toxicroak</td>
+    <td align="center">454</td>
+    <td><code>toxicroak</code></td>
     <td align="center"><img src="/img/pokemon/toxicroak.png" alt="toxicroak" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">455</td>
-    <td>carnivine</td>
+    <td align="center">455</td>
+    <td><code>carnivine</code></td>
     <td align="center"><img src="/img/pokemon/carnivine.png" alt="carnivine" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">456</td>
-    <td>finneon</td>
+    <td align="center">456</td>
+    <td><code>finneon</code></td>
     <td align="center"><img src="/img/pokemon/finneon.png" alt="finneon" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">457</td>
-    <td>lumineon</td>
+    <td align="center">457</td>
+    <td><code>lumineon</code></td>
     <td align="center"><img src="/img/pokemon/lumineon.png" alt="lumineon" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">458</td>
-    <td>mantyke</td>
+    <td align="center">458</td>
+    <td><code>mantyke</code></td>
     <td align="center"><img src="/img/pokemon/mantyke.png" alt="mantyke" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">459</td>
-    <td>snover</td>
+    <td align="center">459</td>
+    <td><code>snover</code></td>
     <td align="center"><img src="/img/pokemon/snover.png" alt="snover" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">460</td>
-    <td>abomasnow</td>
+    <td align="center">460</td>
+    <td><code>abomasnow</code></td>
     <td align="center"><img src="/img/pokemon/abomasnow.png" alt="abomasnow" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">461</td>
-    <td>weavile</td>
+    <td align="center">461</td>
+    <td><code>weavile</code></td>
     <td align="center"><img src="/img/pokemon/weavile.png" alt="weavile" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">462</td>
-    <td>magnezone</td>
+    <td align="center">462</td>
+    <td><code>magnezone</code></td>
     <td align="center"><img src="/img/pokemon/magnezone.png" alt="magnezone" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">463</td>
-    <td>lickilicky</td>
+    <td align="center">463</td>
+    <td><code>lickilicky</code></td>
     <td align="center"><img src="/img/pokemon/lickilicky.png" alt="lickilicky" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">464</td>
-    <td>rhyperior</td>
+    <td align="center">464</td>
+    <td><code>rhyperior</code></td>
     <td align="center"><img src="/img/pokemon/rhyperior.png" alt="rhyperior" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">465</td>
-    <td>tangrowth</td>
+    <td align="center">465</td>
+    <td><code>tangrowth</code></td>
     <td align="center"><img src="/img/pokemon/tangrowth.png" alt="tangrowth" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">466</td>
-    <td>electivire</td>
+    <td align="center">466</td>
+    <td><code>electivire</code></td>
     <td align="center"><img src="/img/pokemon/electivire.png" alt="electivire" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">467</td>
-    <td>magmortar</td>
+    <td align="center">467</td>
+    <td><code>magmortar</code></td>
     <td align="center"><img src="/img/pokemon/magmortar.png" alt="magmortar" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">468</td>
-    <td>togekiss</td>
+    <td align="center">468</td>
+    <td><code>togekiss</code></td>
     <td align="center"><img src="/img/pokemon/togekiss.png" alt="togekiss" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">469</td>
-    <td>yanmega</td>
+    <td align="center">469</td>
+    <td><code>yanmega</code></td>
     <td align="center"><img src="/img/pokemon/yanmega.png" alt="yanmega" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">470</td>
-    <td>leafeon</td>
+    <td align="center">470</td>
+    <td><code>leafeon</code></td>
     <td align="center"><img src="/img/pokemon/leafeon.png" alt="leafeon" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">471</td>
-    <td>glaceon</td>
+    <td align="center">471</td>
+    <td><code>glaceon</code></td>
     <td align="center"><img src="/img/pokemon/glaceon.png" alt="glaceon" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">472</td>
-    <td>gliscor</td>
+    <td align="center">472</td>
+    <td><code>gliscor</code></td>
     <td align="center"><img src="/img/pokemon/gliscor.png" alt="gliscor" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">473</td>
-    <td>mamoswine</td>
+    <td align="center">473</td>
+    <td><code>mamoswine</code></td>
     <td align="center"><img src="/img/pokemon/mamoswine.png" alt="mamoswine" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">474</td>
-    <td>porygon-z</td>
+    <td align="center">474</td>
+    <td><code>porygon-z</code></td>
     <td align="center"><img src="/img/pokemon/porygon-z.png" alt="porygon-z" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">475</td>
-    <td>gallade</td>
+    <td align="center">475</td>
+    <td><code>gallade</code></td>
     <td align="center"><img src="/img/pokemon/gallade.png" alt="gallade" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">476</td>
-    <td>probopass</td>
+    <td align="center">476</td>
+    <td><code>probopass</code></td>
     <td align="center"><img src="/img/pokemon/probopass.png" alt="probopass" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">477</td>
-    <td>dusknoir</td>
+    <td align="center">477</td>
+    <td><code>dusknoir</code></td>
     <td align="center"><img src="/img/pokemon/dusknoir.png" alt="dusknoir" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">478</td>
-    <td>froslass</td>
+    <td align="center">478</td>
+    <td><code>froslass</code></td>
     <td align="center"><img src="/img/pokemon/froslass.png" alt="froslass" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">479</td>
-    <td>rotom</td>
+    <td align="center">479</td>
+    <td><code>rotom</code></td>
     <td align="center"><img src="/img/pokemon/rotom.png" alt="rotom" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">480</td>
-    <td>uxie</td>
+    <td align="center">480</td>
+    <td><code>uxie</code></td>
     <td align="center"><img src="/img/pokemon/uxie.png" alt="uxie" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">481</td>
-    <td>mesprit</td>
+    <td align="center">481</td>
+    <td><code>mesprit</code></td>
     <td align="center"><img src="/img/pokemon/mesprit.png" alt="mesprit" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">482</td>
-    <td>azelf</td>
+    <td align="center">482</td>
+    <td><code>azelf</code></td>
     <td align="center"><img src="/img/pokemon/azelf.png" alt="azelf" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">483</td>
-    <td>dialga</td>
+    <td align="center">483</td>
+    <td><code>dialga</code></td>
     <td align="center"><img src="/img/pokemon/dialga.png" alt="dialga" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">484</td>
-    <td>palkia</td>
+    <td align="center">484</td>
+    <td><code>palkia</code></td>
     <td align="center"><img src="/img/pokemon/palkia.png" alt="palkia" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">485</td>
-    <td>heatran</td>
+    <td align="center">485</td>
+    <td><code>heatran</code></td>
     <td align="center"><img src="/img/pokemon/heatran.png" alt="heatran" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">486</td>
-    <td>regigigas</td>
+    <td align="center">486</td>
+    <td><code>regigigas</code></td>
     <td align="center"><img src="/img/pokemon/regigigas.png" alt="regigigas" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">487</td>
-    <td>giratina</td>
+    <td align="center">487</td>
+    <td><code>giratina</code></td>
     <td align="center"><img src="/img/pokemon/giratina.png" alt="giratina" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">488</td>
-    <td>cresselia</td>
+    <td align="center">488</td>
+    <td><code>cresselia</code></td>
     <td align="center"><img src="/img/pokemon/cresselia.png" alt="cresselia" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">489</td>
-    <td>phione</td>
+    <td align="center">489</td>
+    <td><code>phione</code></td>
     <td align="center"><img src="/img/pokemon/phione.png" alt="phione" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">490</td>
-    <td>manaphy</td>
+    <td align="center">490</td>
+    <td><code>manaphy</code></td>
     <td align="center"><img src="/img/pokemon/manaphy.png" alt="manaphy" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">491</td>
-    <td>darkrai</td>
+    <td align="center">491</td>
+    <td><code>darkrai</code></td>
     <td align="center"><img src="/img/pokemon/darkrai.png" alt="darkrai" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">492</td>
-    <td>shaymin</td>
+    <td align="center">492</td>
+    <td><code>shaymin</code></td>
     <td align="center"><img src="/img/pokemon/shaymin.png" alt="shaymin" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">493</td>
-    <td>arceus</td>
+    <td align="center">493</td>
+    <td><code>arceus</code></td>
     <td align="center"><img src="/img/pokemon/arceus.png" alt="arceus" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">494</td>
-    <td>victini</td>
+    <td align="center">494</td>
+    <td><code>victini</code></td>
     <td align="center"><img src="/img/pokemon/victini.png" alt="victini" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">495</td>
-    <td>snivy</td>
+    <td align="center">495</td>
+    <td><code>snivy</code></td>
     <td align="center"><img src="/img/pokemon/snivy.png" alt="snivy" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">496</td>
-    <td>servine</td>
+    <td align="center">496</td>
+    <td><code>servine</code></td>
     <td align="center"><img src="/img/pokemon/servine.png" alt="servine" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">497</td>
-    <td>serperior</td>
+    <td align="center">497</td>
+    <td><code>serperior</code></td>
     <td align="center"><img src="/img/pokemon/serperior.png" alt="serperior" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">498</td>
-    <td>tepig</td>
+    <td align="center">498</td>
+    <td><code>tepig</code></td>
     <td align="center"><img src="/img/pokemon/tepig.png" alt="tepig" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">499</td>
-    <td>pignite</td>
+    <td align="center">499</td>
+    <td><code>pignite</code></td>
     <td align="center"><img src="/img/pokemon/pignite.png" alt="pignite" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">500</td>
-    <td>emboar</td>
+    <td align="center">500</td>
+    <td><code>emboar</code></td>
     <td align="center"><img src="/img/pokemon/emboar.png" alt="emboar" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">501</td>
-    <td>oshawott</td>
+    <td align="center">501</td>
+    <td><code>oshawott</code></td>
     <td align="center"><img src="/img/pokemon/oshawott.png" alt="oshawott" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">502</td>
-    <td>dewott</td>
+    <td align="center">502</td>
+    <td><code>dewott</code></td>
     <td align="center"><img src="/img/pokemon/dewott.png" alt="dewott" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">503</td>
-    <td>samurott</td>
+    <td align="center">503</td>
+    <td><code>samurott</code></td>
     <td align="center"><img src="/img/pokemon/samurott.png" alt="samurott" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">504</td>
-    <td>patrat</td>
+    <td align="center">504</td>
+    <td><code>patrat</code></td>
     <td align="center"><img src="/img/pokemon/patrat.png" alt="patrat" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">505</td>
-    <td>watchog</td>
+    <td align="center">505</td>
+    <td><code>watchog</code></td>
     <td align="center"><img src="/img/pokemon/watchog.png" alt="watchog" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">506</td>
-    <td>lillipup</td>
+    <td align="center">506</td>
+    <td><code>lillipup</code></td>
     <td align="center"><img src="/img/pokemon/lillipup.png" alt="lillipup" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">507</td>
-    <td>herdier</td>
+    <td align="center">507</td>
+    <td><code>herdier</code></td>
     <td align="center"><img src="/img/pokemon/herdier.png" alt="herdier" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">508</td>
-    <td>stoutland</td>
+    <td align="center">508</td>
+    <td><code>stoutland</code></td>
     <td align="center"><img src="/img/pokemon/stoutland.png" alt="stoutland" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">509</td>
-    <td>purrloin</td>
+    <td align="center">509</td>
+    <td><code>purrloin</code></td>
     <td align="center"><img src="/img/pokemon/purrloin.png" alt="purrloin" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">510</td>
-    <td>liepard</td>
+    <td align="center">510</td>
+    <td><code>liepard</code></td>
     <td align="center"><img src="/img/pokemon/liepard.png" alt="liepard" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">511</td>
-    <td>pansage</td>
+    <td align="center">511</td>
+    <td><code>pansage</code></td>
     <td align="center"><img src="/img/pokemon/pansage.png" alt="pansage" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">512</td>
-    <td>simisage</td>
+    <td align="center">512</td>
+    <td><code>simisage</code></td>
     <td align="center"><img src="/img/pokemon/simisage.png" alt="simisage" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">513</td>
-    <td>pansear</td>
+    <td align="center">513</td>
+    <td><code>pansear</code></td>
     <td align="center"><img src="/img/pokemon/pansear.png" alt="pansear" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">514</td>
-    <td>simisear</td>
+    <td align="center">514</td>
+    <td><code>simisear</code></td>
     <td align="center"><img src="/img/pokemon/simisear.png" alt="simisear" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">515</td>
-    <td>panpour</td>
+    <td align="center">515</td>
+    <td><code>panpour</code></td>
     <td align="center"><img src="/img/pokemon/panpour.png" alt="panpour" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">516</td>
-    <td>simipour</td>
+    <td align="center">516</td>
+    <td><code>simipour</code></td>
     <td align="center"><img src="/img/pokemon/simipour.png" alt="simipour" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">517</td>
-    <td>munna</td>
+    <td align="center">517</td>
+    <td><code>munna</code></td>
     <td align="center"><img src="/img/pokemon/munna.png" alt="munna" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">518</td>
-    <td>musharna</td>
+    <td align="center">518</td>
+    <td><code>musharna</code></td>
     <td align="center"><img src="/img/pokemon/musharna.png" alt="musharna" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">519</td>
-    <td>pidove</td>
+    <td align="center">519</td>
+    <td><code>pidove</code></td>
     <td align="center"><img src="/img/pokemon/pidove.png" alt="pidove" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">520</td>
-    <td>tranquill</td>
+    <td align="center">520</td>
+    <td><code>tranquill</code></td>
     <td align="center"><img src="/img/pokemon/tranquill.png" alt="tranquill" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">521</td>
-    <td>unfezant</td>
+    <td align="center">521</td>
+    <td><code>unfezant</code></td>
     <td align="center"><img src="/img/pokemon/unfezant.png" alt="unfezant" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">522</td>
-    <td>blitzle</td>
+    <td align="center">522</td>
+    <td><code>blitzle</code></td>
     <td align="center"><img src="/img/pokemon/blitzle.png" alt="blitzle" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">523</td>
-    <td>zebstrika</td>
+    <td align="center">523</td>
+    <td><code>zebstrika</code></td>
     <td align="center"><img src="/img/pokemon/zebstrika.png" alt="zebstrika" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">524</td>
-    <td>roggenrola</td>
+    <td align="center">524</td>
+    <td><code>roggenrola</code></td>
     <td align="center"><img src="/img/pokemon/roggenrola.png" alt="roggenrola" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">525</td>
-    <td>boldore</td>
+    <td align="center">525</td>
+    <td><code>boldore</code></td>
     <td align="center"><img src="/img/pokemon/boldore.png" alt="boldore" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">526</td>
-    <td>gigalith</td>
+    <td align="center">526</td>
+    <td><code>gigalith</code></td>
     <td align="center"><img src="/img/pokemon/gigalith.png" alt="gigalith" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">527</td>
-    <td>woobat</td>
+    <td align="center">527</td>
+    <td><code>woobat</code></td>
     <td align="center"><img src="/img/pokemon/woobat.png" alt="woobat" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">528</td>
-    <td>swoobat</td>
+    <td align="center">528</td>
+    <td><code>swoobat</code></td>
     <td align="center"><img src="/img/pokemon/swoobat.png" alt="swoobat" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">529</td>
-    <td>drilbur</td>
+    <td align="center">529</td>
+    <td><code>drilbur</code></td>
     <td align="center"><img src="/img/pokemon/drilbur.png" alt="drilbur" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">530</td>
-    <td>excadrill</td>
+    <td align="center">530</td>
+    <td><code>excadrill</code></td>
     <td align="center"><img src="/img/pokemon/excadrill.png" alt="excadrill" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">531</td>
-    <td>audino</td>
+    <td align="center">531</td>
+    <td><code>audino</code></td>
     <td align="center"><img src="/img/pokemon/audino.png" alt="audino" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">532</td>
-    <td>timburr</td>
+    <td align="center">532</td>
+    <td><code>timburr</code></td>
     <td align="center"><img src="/img/pokemon/timburr.png" alt="timburr" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">533</td>
-    <td>gurdurr</td>
+    <td align="center">533</td>
+    <td><code>gurdurr</code></td>
     <td align="center"><img src="/img/pokemon/gurdurr.png" alt="gurdurr" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">534</td>
-    <td>conkeldurr</td>
+    <td align="center">534</td>
+    <td><code>conkeldurr</code></td>
     <td align="center"><img src="/img/pokemon/conkeldurr.png" alt="conkeldurr" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">535</td>
-    <td>tympole</td>
+    <td align="center">535</td>
+    <td><code>tympole</code></td>
     <td align="center"><img src="/img/pokemon/tympole.png" alt="tympole" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">536</td>
-    <td>palpitoad</td>
+    <td align="center">536</td>
+    <td><code>palpitoad</code></td>
     <td align="center"><img src="/img/pokemon/palpitoad.png" alt="palpitoad" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">537</td>
-    <td>seismitoad</td>
+    <td align="center">537</td>
+    <td><code>seismitoad</code></td>
     <td align="center"><img src="/img/pokemon/seismitoad.png" alt="seismitoad" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">538</td>
-    <td>throh</td>
+    <td align="center">538</td>
+    <td><code>throh</code></td>
     <td align="center"><img src="/img/pokemon/throh.png" alt="throh" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">539</td>
-    <td>sawk</td>
+    <td align="center">539</td>
+    <td><code>sawk</code></td>
     <td align="center"><img src="/img/pokemon/sawk.png" alt="sawk" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">540</td>
-    <td>sewaddle</td>
+    <td align="center">540</td>
+    <td><code>sewaddle</code></td>
     <td align="center"><img src="/img/pokemon/sewaddle.png" alt="sewaddle" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">541</td>
-    <td>swadloon</td>
+    <td align="center">541</td>
+    <td><code>swadloon</code></td>
     <td align="center"><img src="/img/pokemon/swadloon.png" alt="swadloon" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">542</td>
-    <td>leavanny</td>
+    <td align="center">542</td>
+    <td><code>leavanny</code></td>
     <td align="center"><img src="/img/pokemon/leavanny.png" alt="leavanny" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">543</td>
-    <td>venipede</td>
+    <td align="center">543</td>
+    <td><code>venipede</code></td>
     <td align="center"><img src="/img/pokemon/venipede.png" alt="venipede" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">544</td>
-    <td>whirlipede</td>
+    <td align="center">544</td>
+    <td><code>whirlipede</code></td>
     <td align="center"><img src="/img/pokemon/whirlipede.png" alt="whirlipede" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">545</td>
-    <td>scolipede</td>
+    <td align="center">545</td>
+    <td><code>scolipede</code></td>
     <td align="center"><img src="/img/pokemon/scolipede.png" alt="scolipede" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">546</td>
-    <td>cottonee</td>
+    <td align="center">546</td>
+    <td><code>cottonee</code></td>
     <td align="center"><img src="/img/pokemon/cottonee.png" alt="cottonee" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">547</td>
-    <td>whimsicott</td>
+    <td align="center">547</td>
+    <td><code>whimsicott</code></td>
     <td align="center"><img src="/img/pokemon/whimsicott.png" alt="whimsicott" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">548</td>
-    <td>petilil</td>
+    <td align="center">548</td>
+    <td><code>petilil</code></td>
     <td align="center"><img src="/img/pokemon/petilil.png" alt="petilil" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">549</td>
-    <td>lilligant</td>
+    <td align="center">549</td>
+    <td><code>lilligant</code></td>
     <td align="center"><img src="/img/pokemon/lilligant.png" alt="lilligant" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">550</td>
-    <td>basculin</td>
+    <td align="center">550</td>
+    <td><code>basculin</code></td>
     <td align="center"><img src="/img/pokemon/basculin.png" alt="basculin" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">551</td>
-    <td>sandile</td>
+    <td align="center">551</td>
+    <td><code>sandile</code></td>
     <td align="center"><img src="/img/pokemon/sandile.png" alt="sandile" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">552</td>
-    <td>krokorok</td>
+    <td align="center">552</td>
+    <td><code>krokorok</code></td>
     <td align="center"><img src="/img/pokemon/krokorok.png" alt="krokorok" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">553</td>
-    <td>krookodile</td>
+    <td align="center">553</td>
+    <td><code>krookodile</code></td>
     <td align="center"><img src="/img/pokemon/krookodile.png" alt="krookodile" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">554</td>
-    <td>darumaka</td>
+    <td align="center">554</td>
+    <td><code>darumaka</code></td>
     <td align="center"><img src="/img/pokemon/darumaka.png" alt="darumaka" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">555</td>
-    <td>darmanitan</td>
+    <td align="center">555</td>
+    <td><code>darmanitan</code></td>
     <td align="center"><img src="/img/pokemon/darmanitan.png" alt="darmanitan" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">556</td>
-    <td>maractus</td>
+    <td align="center">556</td>
+    <td><code>maractus</code></td>
     <td align="center"><img src="/img/pokemon/maractus.png" alt="maractus" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">557</td>
-    <td>dwebble</td>
+    <td align="center">557</td>
+    <td><code>dwebble</code></td>
     <td align="center"><img src="/img/pokemon/dwebble.png" alt="dwebble" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">558</td>
-    <td>crustle</td>
+    <td align="center">558</td>
+    <td><code>crustle</code></td>
     <td align="center"><img src="/img/pokemon/crustle.png" alt="crustle" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">559</td>
-    <td>scraggy</td>
+    <td align="center">559</td>
+    <td><code>scraggy</code></td>
     <td align="center"><img src="/img/pokemon/scraggy.png" alt="scraggy" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">560</td>
-    <td>scrafty</td>
+    <td align="center">560</td>
+    <td><code>scrafty</code></td>
     <td align="center"><img src="/img/pokemon/scrafty.png" alt="scrafty" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">561</td>
-    <td>sigilyph</td>
+    <td align="center">561</td>
+    <td><code>sigilyph</code></td>
     <td align="center"><img src="/img/pokemon/sigilyph.png" alt="sigilyph" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">562</td>
-    <td>yamask</td>
+    <td align="center">562</td>
+    <td><code>yamask</code></td>
     <td align="center"><img src="/img/pokemon/yamask.png" alt="yamask" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">563</td>
-    <td>cofagrigus</td>
+    <td align="center">563</td>
+    <td><code>cofagrigus</code></td>
     <td align="center"><img src="/img/pokemon/cofagrigus.png" alt="cofagrigus" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">564</td>
-    <td>tirtouga</td>
+    <td align="center">564</td>
+    <td><code>tirtouga</code></td>
     <td align="center"><img src="/img/pokemon/tirtouga.png" alt="tirtouga" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">565</td>
-    <td>carracosta</td>
+    <td align="center">565</td>
+    <td><code>carracosta</code></td>
     <td align="center"><img src="/img/pokemon/carracosta.png" alt="carracosta" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">566</td>
-    <td>archen</td>
+    <td align="center">566</td>
+    <td><code>archen</code></td>
     <td align="center"><img src="/img/pokemon/archen.png" alt="archen" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">567</td>
-    <td>archeops</td>
+    <td align="center">567</td>
+    <td><code>archeops</code></td>
     <td align="center"><img src="/img/pokemon/archeops.png" alt="archeops" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">568</td>
-    <td>trubbish</td>
+    <td align="center">568</td>
+    <td><code>trubbish</code></td>
     <td align="center"><img src="/img/pokemon/trubbish.png" alt="trubbish" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">569</td>
-    <td>garbodor</td>
+    <td align="center">569</td>
+    <td><code>garbodor</code></td>
     <td align="center"><img src="/img/pokemon/garbodor.png" alt="garbodor" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">570</td>
-    <td>zorua</td>
+    <td align="center">570</td>
+    <td><code>zorua</code></td>
     <td align="center"><img src="/img/pokemon/zorua.png" alt="zorua" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">571</td>
-    <td>zoroark</td>
+    <td align="center">571</td>
+    <td><code>zoroark</code></td>
     <td align="center"><img src="/img/pokemon/zoroark.png" alt="zoroark" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">572</td>
-    <td>minccino</td>
+    <td align="center">572</td>
+    <td><code>minccino</code></td>
     <td align="center"><img src="/img/pokemon/minccino.png" alt="minccino" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">573</td>
-    <td>cinccino</td>
+    <td align="center">573</td>
+    <td><code>cinccino</code></td>
     <td align="center"><img src="/img/pokemon/cinccino.png" alt="cinccino" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">574</td>
-    <td>gothita</td>
+    <td align="center">574</td>
+    <td><code>gothita</code></td>
     <td align="center"><img src="/img/pokemon/gothita.png" alt="gothita" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">575</td>
-    <td>gothorita</td>
+    <td align="center">575</td>
+    <td><code>gothorita</code></td>
     <td align="center"><img src="/img/pokemon/gothorita.png" alt="gothorita" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">576</td>
-    <td>gothitelle</td>
+    <td align="center">576</td>
+    <td><code>gothitelle</code></td>
     <td align="center"><img src="/img/pokemon/gothitelle.png" alt="gothitelle" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">577</td>
-    <td>solosis</td>
+    <td align="center">577</td>
+    <td><code>solosis</code></td>
     <td align="center"><img src="/img/pokemon/solosis.png" alt="solosis" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">578</td>
-    <td>duosion</td>
+    <td align="center">578</td>
+    <td><code>duosion</code></td>
     <td align="center"><img src="/img/pokemon/duosion.png" alt="duosion" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">579</td>
-    <td>reuniclus</td>
+    <td align="center">579</td>
+    <td><code>reuniclus</code></td>
     <td align="center"><img src="/img/pokemon/reuniclus.png" alt="reuniclus" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">580</td>
-    <td>ducklett</td>
+    <td align="center">580</td>
+    <td><code>ducklett</code></td>
     <td align="center"><img src="/img/pokemon/ducklett.png" alt="ducklett" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">581</td>
-    <td>swanna</td>
+    <td align="center">581</td>
+    <td><code>swanna</code></td>
     <td align="center"><img src="/img/pokemon/swanna.png" alt="swanna" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">582</td>
-    <td>vanillite</td>
+    <td align="center">582</td>
+    <td><code>vanillite</code></td>
     <td align="center"><img src="/img/pokemon/vanillite.png" alt="vanillite" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">583</td>
-    <td>vanillish</td>
+    <td align="center">583</td>
+    <td><code>vanillish</code></td>
     <td align="center"><img src="/img/pokemon/vanillish.png" alt="vanillish" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">584</td>
-    <td>vanilluxe</td>
+    <td align="center">584</td>
+    <td><code>vanilluxe</code></td>
     <td align="center"><img src="/img/pokemon/vanilluxe.png" alt="vanilluxe" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">585</td>
-    <td>deerling</td>
+    <td align="center">585</td>
+    <td><code>deerling</code></td>
     <td align="center"><img src="/img/pokemon/deerling.png" alt="deerling" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">586</td>
-    <td>sawsbuck</td>
+    <td align="center">586</td>
+    <td><code>sawsbuck</code></td>
     <td align="center"><img src="/img/pokemon/sawsbuck.png" alt="sawsbuck" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">587</td>
-    <td>emolga</td>
+    <td align="center">587</td>
+    <td><code>emolga</code></td>
     <td align="center"><img src="/img/pokemon/emolga.png" alt="emolga" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">588</td>
-    <td>karrablast</td>
+    <td align="center">588</td>
+    <td><code>karrablast</code></td>
     <td align="center"><img src="/img/pokemon/karrablast.png" alt="karrablast" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">589</td>
-    <td>escavalier</td>
+    <td align="center">589</td>
+    <td><code>escavalier</code></td>
     <td align="center"><img src="/img/pokemon/escavalier.png" alt="escavalier" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">590</td>
-    <td>foongus</td>
+    <td align="center">590</td>
+    <td><code>foongus</code></td>
     <td align="center"><img src="/img/pokemon/foongus.png" alt="foongus" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">591</td>
-    <td>amoonguss</td>
+    <td align="center">591</td>
+    <td><code>amoonguss</code></td>
     <td align="center"><img src="/img/pokemon/amoonguss.png" alt="amoonguss" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">592</td>
-    <td>frillish</td>
+    <td align="center">592</td>
+    <td><code>frillish</code></td>
     <td align="center"><img src="/img/pokemon/frillish.png" alt="frillish" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">593</td>
-    <td>jellicent</td>
+    <td align="center">593</td>
+    <td><code>jellicent</code></td>
     <td align="center"><img src="/img/pokemon/jellicent.png" alt="jellicent" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">594</td>
-    <td>alomomola</td>
+    <td align="center">594</td>
+    <td><code>alomomola</code></td>
     <td align="center"><img src="/img/pokemon/alomomola.png" alt="alomomola" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">595</td>
-    <td>joltik</td>
+    <td align="center">595</td>
+    <td><code>joltik</code></td>
     <td align="center"><img src="/img/pokemon/joltik.png" alt="joltik" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">596</td>
-    <td>galvantula</td>
+    <td align="center">596</td>
+    <td><code>galvantula</code></td>
     <td align="center"><img src="/img/pokemon/galvantula.png" alt="galvantula" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">597</td>
-    <td>ferroseed</td>
+    <td align="center">597</td>
+    <td><code>ferroseed</code></td>
     <td align="center"><img src="/img/pokemon/ferroseed.png" alt="ferroseed" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">598</td>
-    <td>ferrothorn</td>
+    <td align="center">598</td>
+    <td><code>ferrothorn</code></td>
     <td align="center"><img src="/img/pokemon/ferrothorn.png" alt="ferrothorn" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">599</td>
-    <td>klink</td>
+    <td align="center">599</td>
+    <td><code>klink</code></td>
     <td align="center"><img src="/img/pokemon/klink.png" alt="klink" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">600</td>
-    <td>klang</td>
+    <td align="center">600</td>
+    <td><code>klang</code></td>
     <td align="center"><img src="/img/pokemon/klang.png" alt="klang" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">601</td>
-    <td>klinklang</td>
+    <td align="center">601</td>
+    <td><code>klinklang</code></td>
     <td align="center"><img src="/img/pokemon/klinklang.png" alt="klinklang" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">602</td>
-    <td>tynamo</td>
+    <td align="center">602</td>
+    <td><code>tynamo</code></td>
     <td align="center"><img src="/img/pokemon/tynamo.png" alt="tynamo" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">603</td>
-    <td>eelektrik</td>
+    <td align="center">603</td>
+    <td><code>eelektrik</code></td>
     <td align="center"><img src="/img/pokemon/eelektrik.png" alt="eelektrik" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">604</td>
-    <td>eelektross</td>
+    <td align="center">604</td>
+    <td><code>eelektross</code></td>
     <td align="center"><img src="/img/pokemon/eelektross.png" alt="eelektross" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">605</td>
-    <td>elgyem</td>
+    <td align="center">605</td>
+    <td><code>elgyem</code></td>
     <td align="center"><img src="/img/pokemon/elgyem.png" alt="elgyem" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">606</td>
-    <td>beheeyem</td>
+    <td align="center">606</td>
+    <td><code>beheeyem</code></td>
     <td align="center"><img src="/img/pokemon/beheeyem.png" alt="beheeyem" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">607</td>
-    <td>litwick</td>
+    <td align="center">607</td>
+    <td><code>litwick</code></td>
     <td align="center"><img src="/img/pokemon/litwick.png" alt="litwick" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">608</td>
-    <td>lampent</td>
+    <td align="center">608</td>
+    <td><code>lampent</code></td>
     <td align="center"><img src="/img/pokemon/lampent.png" alt="lampent" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">609</td>
-    <td>chandelure</td>
+    <td align="center">609</td>
+    <td><code>chandelure</code></td>
     <td align="center"><img src="/img/pokemon/chandelure.png" alt="chandelure" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">610</td>
-    <td>axew</td>
+    <td align="center">610</td>
+    <td><code>axew</code></td>
     <td align="center"><img src="/img/pokemon/axew.png" alt="axew" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">611</td>
-    <td>fraxure</td>
+    <td align="center">611</td>
+    <td><code>fraxure</code></td>
     <td align="center"><img src="/img/pokemon/fraxure.png" alt="fraxure" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">612</td>
-    <td>haxorus</td>
+    <td align="center">612</td>
+    <td><code>haxorus</code></td>
     <td align="center"><img src="/img/pokemon/haxorus.png" alt="haxorus" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">613</td>
-    <td>cubchoo</td>
+    <td align="center">613</td>
+    <td><code>cubchoo</code></td>
     <td align="center"><img src="/img/pokemon/cubchoo.png" alt="cubchoo" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">614</td>
-    <td>beartic</td>
+    <td align="center">614</td>
+    <td><code>beartic</code></td>
     <td align="center"><img src="/img/pokemon/beartic.png" alt="beartic" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">615</td>
-    <td>cryogonal</td>
+    <td align="center">615</td>
+    <td><code>cryogonal</code></td>
     <td align="center"><img src="/img/pokemon/cryogonal.png" alt="cryogonal" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">616</td>
-    <td>shelmet</td>
+    <td align="center">616</td>
+    <td><code>shelmet</code></td>
     <td align="center"><img src="/img/pokemon/shelmet.png" alt="shelmet" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">617</td>
-    <td>accelgor</td>
+    <td align="center">617</td>
+    <td><code>accelgor</code></td>
     <td align="center"><img src="/img/pokemon/accelgor.png" alt="accelgor" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">618</td>
-    <td>stunfisk</td>
+    <td align="center">618</td>
+    <td><code>stunfisk</code></td>
     <td align="center"><img src="/img/pokemon/stunfisk.png" alt="stunfisk" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">619</td>
-    <td>mienfoo</td>
+    <td align="center">619</td>
+    <td><code>mienfoo</code></td>
     <td align="center"><img src="/img/pokemon/mienfoo.png" alt="mienfoo" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">620</td>
-    <td>mienshao</td>
+    <td align="center">620</td>
+    <td><code>mienshao</code></td>
     <td align="center"><img src="/img/pokemon/mienshao.png" alt="mienshao" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">621</td>
-    <td>druddigon</td>
+    <td align="center">621</td>
+    <td><code>druddigon</code></td>
     <td align="center"><img src="/img/pokemon/druddigon.png" alt="druddigon" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">622</td>
-    <td>golett</td>
+    <td align="center">622</td>
+    <td><code>golett</code></td>
     <td align="center"><img src="/img/pokemon/golett.png" alt="golett" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">623</td>
-    <td>golurk</td>
+    <td align="center">623</td>
+    <td><code>golurk</code></td>
     <td align="center"><img src="/img/pokemon/golurk.png" alt="golurk" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">624</td>
-    <td>pawniard</td>
+    <td align="center">624</td>
+    <td><code>pawniard</code></td>
     <td align="center"><img src="/img/pokemon/pawniard.png" alt="pawniard" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">625</td>
-    <td>bisharp</td>
+    <td align="center">625</td>
+    <td><code>bisharp</code></td>
     <td align="center"><img src="/img/pokemon/bisharp.png" alt="bisharp" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">626</td>
-    <td>bouffalant</td>
+    <td align="center">626</td>
+    <td><code>bouffalant</code></td>
     <td align="center"><img src="/img/pokemon/bouffalant.png" alt="bouffalant" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">627</td>
-    <td>rufflet</td>
+    <td align="center">627</td>
+    <td><code>rufflet</code></td>
     <td align="center"><img src="/img/pokemon/rufflet.png" alt="rufflet" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">628</td>
-    <td>braviary</td>
+    <td align="center">628</td>
+    <td><code>braviary</code></td>
     <td align="center"><img src="/img/pokemon/braviary.png" alt="braviary" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">629</td>
-    <td>vullaby</td>
+    <td align="center">629</td>
+    <td><code>vullaby</code></td>
     <td align="center"><img src="/img/pokemon/vullaby.png" alt="vullaby" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">630</td>
-    <td>mandibuzz</td>
+    <td align="center">630</td>
+    <td><code>mandibuzz</code></td>
     <td align="center"><img src="/img/pokemon/mandibuzz.png" alt="mandibuzz" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">631</td>
-    <td>heatmor</td>
+    <td align="center">631</td>
+    <td><code>heatmor</code></td>
     <td align="center"><img src="/img/pokemon/heatmor.png" alt="heatmor" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">632</td>
-    <td>durant</td>
+    <td align="center">632</td>
+    <td><code>durant</code></td>
     <td align="center"><img src="/img/pokemon/durant.png" alt="durant" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">633</td>
-    <td>deino</td>
+    <td align="center">633</td>
+    <td><code>deino</code></td>
     <td align="center"><img src="/img/pokemon/deino.png" alt="deino" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">634</td>
-    <td>zweilous</td>
+    <td align="center">634</td>
+    <td><code>zweilous</code></td>
     <td align="center"><img src="/img/pokemon/zweilous.png" alt="zweilous" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">635</td>
-    <td>hydreigon</td>
+    <td align="center">635</td>
+    <td><code>hydreigon</code></td>
     <td align="center"><img src="/img/pokemon/hydreigon.png" alt="hydreigon" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">636</td>
-    <td>larvesta</td>
+    <td align="center">636</td>
+    <td><code>larvesta</code></td>
     <td align="center"><img src="/img/pokemon/larvesta.png" alt="larvesta" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">637</td>
-    <td>volcarona</td>
+    <td align="center">637</td>
+    <td><code>volcarona</code></td>
     <td align="center"><img src="/img/pokemon/volcarona.png" alt="volcarona" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">638</td>
-    <td>cobalion</td>
+    <td align="center">638</td>
+    <td><code>cobalion</code></td>
     <td align="center"><img src="/img/pokemon/cobalion.png" alt="cobalion" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">639</td>
-    <td>terrakion</td>
+    <td align="center">639</td>
+    <td><code>terrakion</code></td>
     <td align="center"><img src="/img/pokemon/terrakion.png" alt="terrakion" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">640</td>
-    <td>virizion</td>
+    <td align="center">640</td>
+    <td><code>virizion</code></td>
     <td align="center"><img src="/img/pokemon/virizion.png" alt="virizion" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">641</td>
-    <td>tornadus</td>
+    <td align="center">641</td>
+    <td><code>tornadus</code></td>
     <td align="center"><img src="/img/pokemon/tornadus.png" alt="tornadus" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">642</td>
-    <td>thundurus</td>
+    <td align="center">642</td>
+    <td><code>thundurus</code></td>
     <td align="center"><img src="/img/pokemon/thundurus.png" alt="thundurus" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">643</td>
-    <td>reshiram</td>
+    <td align="center">643</td>
+    <td><code>reshiram</code></td>
     <td align="center"><img src="/img/pokemon/reshiram.png" alt="reshiram" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">644</td>
-    <td>zekrom</td>
+    <td align="center">644</td>
+    <td><code>zekrom</code></td>
     <td align="center"><img src="/img/pokemon/zekrom.png" alt="zekrom" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">645</td>
-    <td>landorus</td>
+    <td align="center">645</td>
+    <td><code>landorus</code></td>
     <td align="center"><img src="/img/pokemon/landorus.png" alt="landorus" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">646</td>
-    <td>kyurem</td>
+    <td align="center">646</td>
+    <td><code>kyurem</code></td>
     <td align="center"><img src="/img/pokemon/kyurem.png" alt="kyurem" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">647</td>
-    <td>keldeo</td>
+    <td align="center">647</td>
+    <td><code>keldeo</code></td>
     <td align="center"><img src="/img/pokemon/keldeo.png" alt="keldeo" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">648</td>
-    <td>meloetta</td>
+    <td align="center">648</td>
+    <td><code>meloetta</code></td>
     <td align="center"><img src="/img/pokemon/meloetta.png" alt="meloetta" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">649</td>
-    <td>genesect</td>
+    <td align="center">649</td>
+    <td><code>genesect</code></td>
     <td align="center"><img src="/img/pokemon/genesect.png" alt="genesect" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">650</td>
-    <td>chespin</td>
+    <td align="center">650</td>
+    <td><code>chespin</code></td>
     <td align="center"><img src="/img/pokemon/chespin.png" alt="chespin" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">651</td>
-    <td>quilladin</td>
+    <td align="center">651</td>
+    <td><code>quilladin</code></td>
     <td align="center"><img src="/img/pokemon/quilladin.png" alt="quilladin" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">652</td>
-    <td>chesnaught</td>
+    <td align="center">652</td>
+    <td><code>chesnaught</code></td>
     <td align="center"><img src="/img/pokemon/chesnaught.png" alt="chesnaught" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">653</td>
-    <td>fennekin</td>
+    <td align="center">653</td>
+    <td><code>fennekin</code></td>
     <td align="center"><img src="/img/pokemon/fennekin.png" alt="fennekin" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">654</td>
-    <td>braixen</td>
+    <td align="center">654</td>
+    <td><code>braixen</code></td>
     <td align="center"><img src="/img/pokemon/braixen.png" alt="braixen" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">655</td>
-    <td>delphox</td>
+    <td align="center">655</td>
+    <td><code>delphox</code></td>
     <td align="center"><img src="/img/pokemon/delphox.png" alt="delphox" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">656</td>
-    <td>froakie</td>
+    <td align="center">656</td>
+    <td><code>froakie</code></td>
     <td align="center"><img src="/img/pokemon/froakie.png" alt="froakie" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">657</td>
-    <td>frogadier</td>
+    <td align="center">657</td>
+    <td><code>frogadier</code></td>
     <td align="center"><img src="/img/pokemon/frogadier.png" alt="frogadier" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">658</td>
-    <td>greninja</td>
+    <td align="center">658</td>
+    <td><code>greninja</code></td>
     <td align="center"><img src="/img/pokemon/greninja.png" alt="greninja" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">659</td>
-    <td>bunnelby</td>
+    <td align="center">659</td>
+    <td><code>bunnelby</code></td>
     <td align="center"><img src="/img/pokemon/bunnelby.png" alt="bunnelby" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">660</td>
-    <td>diggersby</td>
+    <td align="center">660</td>
+    <td><code>diggersby</code></td>
     <td align="center"><img src="/img/pokemon/diggersby.png" alt="diggersby" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">661</td>
-    <td>fletchling</td>
+    <td align="center">661</td>
+    <td><code>fletchling</code></td>
     <td align="center"><img src="/img/pokemon/fletchling.png" alt="fletchling" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">662</td>
-    <td>fletchinder</td>
+    <td align="center">662</td>
+    <td><code>fletchinder</code></td>
     <td align="center"><img src="/img/pokemon/fletchinder.png" alt="fletchinder" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">663</td>
-    <td>talonflame</td>
+    <td align="center">663</td>
+    <td><code>talonflame</code></td>
     <td align="center"><img src="/img/pokemon/talonflame.png" alt="talonflame" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">664</td>
-    <td>scatterbug</td>
+    <td align="center">664</td>
+    <td><code>scatterbug</code></td>
     <td align="center"><img src="/img/pokemon/scatterbug.png" alt="scatterbug" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">665</td>
-    <td>spewpa</td>
+    <td align="center">665</td>
+    <td><code>spewpa</code></td>
     <td align="center"><img src="/img/pokemon/spewpa.png" alt="spewpa" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">666</td>
-    <td>vivillon</td>
+    <td align="center">666</td>
+    <td><code>vivillon</code></td>
     <td align="center"><img src="/img/pokemon/vivillon.png" alt="vivillon" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">667</td>
-    <td>litleo</td>
+    <td align="center">667</td>
+    <td><code>litleo</code></td>
     <td align="center"><img src="/img/pokemon/litleo.png" alt="litleo" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">668</td>
-    <td>pyroar</td>
+    <td align="center">668</td>
+    <td><code>pyroar</code></td>
     <td align="center"><img src="/img/pokemon/pyroar.png" alt="pyroar" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">669</td>
-    <td>flabebe</td>
+    <td align="center">669</td>
+    <td><code>flabebe</code></td>
     <td align="center"><img src="/img/pokemon/flabebe.png" alt="flabebe" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">670</td>
-    <td>floette</td>
+    <td align="center">670</td>
+    <td><code>floette</code></td>
     <td align="center"><img src="/img/pokemon/floette.png" alt="floette" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">671</td>
-    <td>florges</td>
+    <td align="center">671</td>
+    <td><code>florges</code></td>
     <td align="center"><img src="/img/pokemon/florges.png" alt="florges" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">672</td>
-    <td>skiddo</td>
+    <td align="center">672</td>
+    <td><code>skiddo</code></td>
     <td align="center"><img src="/img/pokemon/skiddo.png" alt="skiddo" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">673</td>
-    <td>gogoat</td>
+    <td align="center">673</td>
+    <td><code>gogoat</code></td>
     <td align="center"><img src="/img/pokemon/gogoat.png" alt="gogoat" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">674</td>
-    <td>pancham</td>
+    <td align="center">674</td>
+    <td><code>pancham</code></td>
     <td align="center"><img src="/img/pokemon/pancham.png" alt="pancham" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">675</td>
-    <td>pangoro</td>
+    <td align="center">675</td>
+    <td><code>pangoro</code></td>
     <td align="center"><img src="/img/pokemon/pangoro.png" alt="pangoro" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">676</td>
-    <td>furfrou</td>
+    <td align="center">676</td>
+    <td><code>furfrou</code></td>
     <td align="center"><img src="/img/pokemon/furfrou.png" alt="furfrou" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">677</td>
-    <td>espurr</td>
+    <td align="center">677</td>
+    <td><code>espurr</code></td>
     <td align="center"><img src="/img/pokemon/espurr.png" alt="espurr" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">678</td>
-    <td>meowstic</td>
+    <td align="center">678</td>
+    <td><code>meowstic</code></td>
     <td align="center"><img src="/img/pokemon/meowstic.png" alt="meowstic" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">679</td>
-    <td>honedge</td>
+    <td align="center">679</td>
+    <td><code>honedge</code></td>
     <td align="center"><img src="/img/pokemon/honedge.png" alt="honedge" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">680</td>
-    <td>doublade</td>
+    <td align="center">680</td>
+    <td><code>doublade</code></td>
     <td align="center"><img src="/img/pokemon/doublade.png" alt="doublade" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">681</td>
-    <td>aegislash</td>
+    <td align="center">681</td>
+    <td><code>aegislash</code></td>
     <td align="center"><img src="/img/pokemon/aegislash.png" alt="aegislash" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">682</td>
-    <td>spritzee</td>
+    <td align="center">682</td>
+    <td><code>spritzee</code></td>
     <td align="center"><img src="/img/pokemon/spritzee.png" alt="spritzee" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">683</td>
-    <td>aromatisse</td>
+    <td align="center">683</td>
+    <td><code>aromatisse</code></td>
     <td align="center"><img src="/img/pokemon/aromatisse.png" alt="aromatisse" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">684</td>
-    <td>swirlix</td>
+    <td align="center">684</td>
+    <td><code>swirlix</code></td>
     <td align="center"><img src="/img/pokemon/swirlix.png" alt="swirlix" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">685</td>
-    <td>slurpuff</td>
+    <td align="center">685</td>
+    <td><code>slurpuff</code></td>
     <td align="center"><img src="/img/pokemon/slurpuff.png" alt="slurpuff" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">686</td>
-    <td>inkay</td>
+    <td align="center">686</td>
+    <td><code>inkay</code></td>
     <td align="center"><img src="/img/pokemon/inkay.png" alt="inkay" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">687</td>
-    <td>malamar</td>
+    <td align="center">687</td>
+    <td><code>malamar</code></td>
     <td align="center"><img src="/img/pokemon/malamar.png" alt="malamar" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">688</td>
-    <td>binacle</td>
+    <td align="center">688</td>
+    <td><code>binacle</code></td>
     <td align="center"><img src="/img/pokemon/binacle.png" alt="binacle" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">689</td>
-    <td>barbaracle</td>
+    <td align="center">689</td>
+    <td><code>barbaracle</code></td>
     <td align="center"><img src="/img/pokemon/barbaracle.png" alt="barbaracle" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">690</td>
-    <td>skrelp</td>
+    <td align="center">690</td>
+    <td><code>skrelp</code></td>
     <td align="center"><img src="/img/pokemon/skrelp.png" alt="skrelp" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">691</td>
-    <td>dragalge</td>
+    <td align="center">691</td>
+    <td><code>dragalge</code></td>
     <td align="center"><img src="/img/pokemon/dragalge.png" alt="dragalge" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">692</td>
-    <td>clauncher</td>
+    <td align="center">692</td>
+    <td><code>clauncher</code></td>
     <td align="center"><img src="/img/pokemon/clauncher.png" alt="clauncher" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">693</td>
-    <td>clawitzer</td>
+    <td align="center">693</td>
+    <td><code>clawitzer</code></td>
     <td align="center"><img src="/img/pokemon/clawitzer.png" alt="clawitzer" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">694</td>
-    <td>helioptile</td>
+    <td align="center">694</td>
+    <td><code>helioptile</code></td>
     <td align="center"><img src="/img/pokemon/helioptile.png" alt="helioptile" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">695</td>
-    <td>heliolisk</td>
+    <td align="center">695</td>
+    <td><code>heliolisk</code></td>
     <td align="center"><img src="/img/pokemon/heliolisk.png" alt="heliolisk" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">696</td>
-    <td>tyrunt</td>
+    <td align="center">696</td>
+    <td><code>tyrunt</code></td>
     <td align="center"><img src="/img/pokemon/tyrunt.png" alt="tyrunt" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">697</td>
-    <td>tyrantrum</td>
+    <td align="center">697</td>
+    <td><code>tyrantrum</code></td>
     <td align="center"><img src="/img/pokemon/tyrantrum.png" alt="tyrantrum" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">698</td>
-    <td>amaura</td>
+    <td align="center">698</td>
+    <td><code>amaura</code></td>
     <td align="center"><img src="/img/pokemon/amaura.png" alt="amaura" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">699</td>
-    <td>aurorus</td>
+    <td align="center">699</td>
+    <td><code>aurorus</code></td>
     <td align="center"><img src="/img/pokemon/aurorus.png" alt="aurorus" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">700</td>
-    <td>sylveon</td>
+    <td align="center">700</td>
+    <td><code>sylveon</code></td>
     <td align="center"><img src="/img/pokemon/sylveon.png" alt="sylveon" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">701</td>
-    <td>hawlucha</td>
+    <td align="center">701</td>
+    <td><code>hawlucha</code></td>
     <td align="center"><img src="/img/pokemon/hawlucha.png" alt="hawlucha" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">702</td>
-    <td>dedenne</td>
+    <td align="center">702</td>
+    <td><code>dedenne</code></td>
     <td align="center"><img src="/img/pokemon/dedenne.png" alt="dedenne" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">703</td>
-    <td>carbink</td>
+    <td align="center">703</td>
+    <td><code>carbink</code></td>
     <td align="center"><img src="/img/pokemon/carbink.png" alt="carbink" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">704</td>
-    <td>goomy</td>
+    <td align="center">704</td>
+    <td><code>goomy</code></td>
     <td align="center"><img src="/img/pokemon/goomy.png" alt="goomy" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">705</td>
-    <td>sliggoo</td>
+    <td align="center">705</td>
+    <td><code>sliggoo</code></td>
     <td align="center"><img src="/img/pokemon/sliggoo.png" alt="sliggoo" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">706</td>
-    <td>goodra</td>
+    <td align="center">706</td>
+    <td><code>goodra</code></td>
     <td align="center"><img src="/img/pokemon/goodra.png" alt="goodra" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">707</td>
-    <td>klefki</td>
+    <td align="center">707</td>
+    <td><code>klefki</code></td>
     <td align="center"><img src="/img/pokemon/klefki.png" alt="klefki" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">708</td>
-    <td>phantump</td>
+    <td align="center">708</td>
+    <td><code>phantump</code></td>
     <td align="center"><img src="/img/pokemon/phantump.png" alt="phantump" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">709</td>
-    <td>trevenant</td>
+    <td align="center">709</td>
+    <td><code>trevenant</code></td>
     <td align="center"><img src="/img/pokemon/trevenant.png" alt="trevenant" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">710</td>
-    <td>pumpkaboo</td>
+    <td align="center">710</td>
+    <td><code>pumpkaboo</code></td>
     <td align="center"><img src="/img/pokemon/pumpkaboo.png" alt="pumpkaboo" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">711</td>
-    <td>gourgeist</td>
+    <td align="center">711</td>
+    <td><code>gourgeist</code></td>
     <td align="center"><img src="/img/pokemon/gourgeist.png" alt="gourgeist" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">712</td>
-    <td>bergmite</td>
+    <td align="center">712</td>
+    <td><code>bergmite</code></td>
     <td align="center"><img src="/img/pokemon/bergmite.png" alt="bergmite" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">713</td>
-    <td>avalugg</td>
+    <td align="center">713</td>
+    <td><code>avalugg</code></td>
     <td align="center"><img src="/img/pokemon/avalugg.png" alt="avalugg" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">714</td>
-    <td>noibat</td>
+    <td align="center">714</td>
+    <td><code>noibat</code></td>
     <td align="center"><img src="/img/pokemon/noibat.png" alt="noibat" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">715</td>
-    <td>noivern</td>
+    <td align="center">715</td>
+    <td><code>noivern</code></td>
     <td align="center"><img src="/img/pokemon/noivern.png" alt="noivern" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">716</td>
-    <td>xerneas</td>
+    <td align="center">716</td>
+    <td><code>xerneas</code></td>
     <td align="center"><img src="/img/pokemon/xerneas.png" alt="xerneas" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">717</td>
-    <td>yveltal</td>
+    <td align="center">717</td>
+    <td><code>yveltal</code></td>
     <td align="center"><img src="/img/pokemon/yveltal.png" alt="yveltal" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">718</td>
-    <td>zygarde</td>
+    <td align="center">718</td>
+    <td><code>zygarde</code></td>
     <td align="center"><img src="/img/pokemon/zygarde.png" alt="zygarde" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">719</td>
-    <td>diancie</td>
+    <td align="center">719</td>
+    <td><code>diancie</code></td>
     <td align="center"><img src="/img/pokemon/diancie.png" alt="diancie" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">720</td>
-    <td>hoopa</td>
+    <td align="center">720</td>
+    <td><code>hoopa</code></td>
     <td align="center"><img src="/img/pokemon/hoopa.png" alt="hoopa" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">721</td>
-    <td>volcanion</td>
+    <td align="center">721</td>
+    <td><code>volcanion</code></td>
     <td align="center"><img src="/img/pokemon/volcanion.png" alt="volcanion" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">722</td>
-    <td>rowlet</td>
+    <td align="center">722</td>
+    <td><code>rowlet</code></td>
     <td align="center"><img src="/img/pokemon/rowlet.png" alt="rowlet" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">723</td>
-    <td>dartrix</td>
+    <td align="center">723</td>
+    <td><code>dartrix</code></td>
     <td align="center"><img src="/img/pokemon/dartrix.png" alt="dartrix" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">724</td>
-    <td>decidueye</td>
+    <td align="center">724</td>
+    <td><code>decidueye</code></td>
     <td align="center"><img src="/img/pokemon/decidueye.png" alt="decidueye" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">725</td>
-    <td>litten</td>
+    <td align="center">725</td>
+    <td><code>litten</code></td>
     <td align="center"><img src="/img/pokemon/litten.png" alt="litten" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">726</td>
-    <td>torracat</td>
+    <td align="center">726</td>
+    <td><code>torracat</code></td>
     <td align="center"><img src="/img/pokemon/torracat.png" alt="torracat" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">727</td>
-    <td>incineroar</td>
+    <td align="center">727</td>
+    <td><code>incineroar</code></td>
     <td align="center"><img src="/img/pokemon/incineroar.png" alt="incineroar" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">728</td>
-    <td>popplio</td>
+    <td align="center">728</td>
+    <td><code>popplio</code></td>
     <td align="center"><img src="/img/pokemon/popplio.png" alt="popplio" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">729</td>
-    <td>brionne</td>
+    <td align="center">729</td>
+    <td><code>brionne</code></td>
     <td align="center"><img src="/img/pokemon/brionne.png" alt="brionne" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">730</td>
-    <td>primarina</td>
+    <td align="center">730</td>
+    <td><code>primarina</code></td>
     <td align="center"><img src="/img/pokemon/primarina.png" alt="primarina" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">731</td>
-    <td>pikipek</td>
+    <td align="center">731</td>
+    <td><code>pikipek</code></td>
     <td align="center"><img src="/img/pokemon/pikipek.png" alt="pikipek" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">732</td>
-    <td>trumbeak</td>
+    <td align="center">732</td>
+    <td><code>trumbeak</code></td>
     <td align="center"><img src="/img/pokemon/trumbeak.png" alt="trumbeak" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">733</td>
-    <td>toucannon</td>
+    <td align="center">733</td>
+    <td><code>toucannon</code></td>
     <td align="center"><img src="/img/pokemon/toucannon.png" alt="toucannon" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">734</td>
-    <td>yungoos</td>
+    <td align="center">734</td>
+    <td><code>yungoos</code></td>
     <td align="center"><img src="/img/pokemon/yungoos.png" alt="yungoos" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">735</td>
-    <td>gumshoos</td>
+    <td align="center">735</td>
+    <td><code>gumshoos</code></td>
     <td align="center"><img src="/img/pokemon/gumshoos.png" alt="gumshoos" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">736</td>
-    <td>grubbin</td>
+    <td align="center">736</td>
+    <td><code>grubbin</code></td>
     <td align="center"><img src="/img/pokemon/grubbin.png" alt="grubbin" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">737</td>
-    <td>charjabug</td>
+    <td align="center">737</td>
+    <td><code>charjabug</code></td>
     <td align="center"><img src="/img/pokemon/charjabug.png" alt="charjabug" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">738</td>
-    <td>vikavolt</td>
+    <td align="center">738</td>
+    <td><code>vikavolt</code></td>
     <td align="center"><img src="/img/pokemon/vikavolt.png" alt="vikavolt" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">739</td>
-    <td>crabrawler</td>
+    <td align="center">739</td>
+    <td><code>crabrawler</code></td>
     <td align="center"><img src="/img/pokemon/crabrawler.png" alt="crabrawler" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">740</td>
-    <td>crabominable</td>
+    <td align="center">740</td>
+    <td><code>crabominable</code></td>
     <td align="center"><img src="/img/pokemon/crabominable.png" alt="crabominable" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">741</td>
-    <td>oricorio</td>
+    <td align="center">741</td>
+    <td><code>oricorio</code></td>
     <td align="center"><img src="/img/pokemon/oricorio.png" alt="oricorio" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">742</td>
-    <td>cutiefly</td>
+    <td align="center">742</td>
+    <td><code>cutiefly</code></td>
     <td align="center"><img src="/img/pokemon/cutiefly.png" alt="cutiefly" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">743</td>
-    <td>ribombee</td>
+    <td align="center">743</td>
+    <td><code>ribombee</code></td>
     <td align="center"><img src="/img/pokemon/ribombee.png" alt="ribombee" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">744</td>
-    <td>rockruff</td>
+    <td align="center">744</td>
+    <td><code>rockruff</code></td>
     <td align="center"><img src="/img/pokemon/rockruff.png" alt="rockruff" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">745</td>
-    <td>lycanroc</td>
+    <td align="center">745</td>
+    <td><code>lycanroc</code></td>
     <td align="center"><img src="/img/pokemon/lycanroc.png" alt="lycanroc" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">746</td>
-    <td>wishiwashi</td>
+    <td align="center">746</td>
+    <td><code>wishiwashi</code></td>
     <td align="center"><img src="/img/pokemon/wishiwashi.png" alt="wishiwashi" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">747</td>
-    <td>mareanie</td>
+    <td align="center">747</td>
+    <td><code>mareanie</code></td>
     <td align="center"><img src="/img/pokemon/mareanie.png" alt="mareanie" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">748</td>
-    <td>toxapex</td>
+    <td align="center">748</td>
+    <td><code>toxapex</code></td>
     <td align="center"><img src="/img/pokemon/toxapex.png" alt="toxapex" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">749</td>
-    <td>mudbray</td>
+    <td align="center">749</td>
+    <td><code>mudbray</code></td>
     <td align="center"><img src="/img/pokemon/mudbray.png" alt="mudbray" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">750</td>
-    <td>mudsdale</td>
+    <td align="center">750</td>
+    <td><code>mudsdale</code></td>
     <td align="center"><img src="/img/pokemon/mudsdale.png" alt="mudsdale" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">751</td>
-    <td>dewpider</td>
+    <td align="center">751</td>
+    <td><code>dewpider</code></td>
     <td align="center"><img src="/img/pokemon/dewpider.png" alt="dewpider" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">752</td>
-    <td>araquanid</td>
+    <td align="center">752</td>
+    <td><code>araquanid</code></td>
     <td align="center"><img src="/img/pokemon/araquanid.png" alt="araquanid" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">753</td>
-    <td>fomantis</td>
+    <td align="center">753</td>
+    <td><code>fomantis</code></td>
     <td align="center"><img src="/img/pokemon/fomantis.png" alt="fomantis" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">754</td>
-    <td>lurantis</td>
+    <td align="center">754</td>
+    <td><code>lurantis</code></td>
     <td align="center"><img src="/img/pokemon/lurantis.png" alt="lurantis" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">755</td>
-    <td>morelull</td>
+    <td align="center">755</td>
+    <td><code>morelull</code></td>
     <td align="center"><img src="/img/pokemon/morelull.png" alt="morelull" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">756</td>
-    <td>shiinotic</td>
+    <td align="center">756</td>
+    <td><code>shiinotic</code></td>
     <td align="center"><img src="/img/pokemon/shiinotic.png" alt="shiinotic" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">757</td>
-    <td>salandit</td>
+    <td align="center">757</td>
+    <td><code>salandit</code></td>
     <td align="center"><img src="/img/pokemon/salandit.png" alt="salandit" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">758</td>
-    <td>salazzle</td>
+    <td align="center">758</td>
+    <td><code>salazzle</code></td>
     <td align="center"><img src="/img/pokemon/salazzle.png" alt="salazzle" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">759</td>
-    <td>stufful</td>
+    <td align="center">759</td>
+    <td><code>stufful</code></td>
     <td align="center"><img src="/img/pokemon/stufful.png" alt="stufful" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">760</td>
-    <td>bewear</td>
+    <td align="center">760</td>
+    <td><code>bewear</code></td>
     <td align="center"><img src="/img/pokemon/bewear.png" alt="bewear" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">761</td>
-    <td>bounsweet</td>
+    <td align="center">761</td>
+    <td><code>bounsweet</code></td>
     <td align="center"><img src="/img/pokemon/bounsweet.png" alt="bounsweet" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">762</td>
-    <td>steenee</td>
+    <td align="center">762</td>
+    <td><code>steenee</code></td>
     <td align="center"><img src="/img/pokemon/steenee.png" alt="steenee" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">763</td>
-    <td>tsareena</td>
+    <td align="center">763</td>
+    <td><code>tsareena</code></td>
     <td align="center"><img src="/img/pokemon/tsareena.png" alt="tsareena" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">764</td>
-    <td>comfey</td>
+    <td align="center">764</td>
+    <td><code>comfey</code></td>
     <td align="center"><img src="/img/pokemon/comfey.png" alt="comfey" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">765</td>
-    <td>oranguru</td>
+    <td align="center">765</td>
+    <td><code>oranguru</code></td>
     <td align="center"><img src="/img/pokemon/oranguru.png" alt="oranguru" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">766</td>
-    <td>passimian</td>
+    <td align="center">766</td>
+    <td><code>passimian</code></td>
     <td align="center"><img src="/img/pokemon/passimian.png" alt="passimian" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">767</td>
-    <td>wimpod</td>
+    <td align="center">767</td>
+    <td><code>wimpod</code></td>
     <td align="center"><img src="/img/pokemon/wimpod.png" alt="wimpod" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">768</td>
-    <td>golisopod</td>
+    <td align="center">768</td>
+    <td><code>golisopod</code></td>
     <td align="center"><img src="/img/pokemon/golisopod.png" alt="golisopod" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">769</td>
-    <td>sandygast</td>
+    <td align="center">769</td>
+    <td><code>sandygast</code></td>
     <td align="center"><img src="/img/pokemon/sandygast.png" alt="sandygast" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">770</td>
-    <td>palossand</td>
+    <td align="center">770</td>
+    <td><code>palossand</code></td>
     <td align="center"><img src="/img/pokemon/palossand.png" alt="palossand" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">771</td>
-    <td>pyukumuku</td>
+    <td align="center">771</td>
+    <td><code>pyukumuku</code></td>
     <td align="center"><img src="/img/pokemon/pyukumuku.png" alt="pyukumuku" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">772</td>
-    <td>type-null</td>
+    <td align="center">772</td>
+    <td><code>type-null</code></td>
     <td align="center"><img src="/img/pokemon/type-null.png" alt="type-null" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">773</td>
-    <td>silvally</td>
+    <td align="center">773</td>
+    <td><code>silvally</code></td>
     <td align="center"><img src="/img/pokemon/silvally.png" alt="silvally" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">774</td>
-    <td>minior</td>
+    <td align="center">774</td>
+    <td><code>minior</code></td>
     <td align="center"><img src="/img/pokemon/minior.png" alt="minior" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">775</td>
-    <td>komala</td>
+    <td align="center">775</td>
+    <td><code>komala</code></td>
     <td align="center"><img src="/img/pokemon/komala.png" alt="komala" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">776</td>
-    <td>turtonator</td>
+    <td align="center">776</td>
+    <td><code>turtonator</code></td>
     <td align="center"><img src="/img/pokemon/turtonator.png" alt="turtonator" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">777</td>
-    <td>togedemaru</td>
+    <td align="center">777</td>
+    <td><code>togedemaru</code></td>
     <td align="center"><img src="/img/pokemon/togedemaru.png" alt="togedemaru" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">778</td>
-    <td>mimikyu</td>
+    <td align="center">778</td>
+    <td><code>mimikyu</code></td>
     <td align="center"><img src="/img/pokemon/mimikyu.png" alt="mimikyu" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">779</td>
-    <td>bruxish</td>
+    <td align="center">779</td>
+    <td><code>bruxish</code></td>
     <td align="center"><img src="/img/pokemon/bruxish.png" alt="bruxish" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">780</td>
-    <td>drampa</td>
+    <td align="center">780</td>
+    <td><code>drampa</code></td>
     <td align="center"><img src="/img/pokemon/drampa.png" alt="drampa" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">781</td>
-    <td>dhelmise</td>
+    <td align="center">781</td>
+    <td><code>dhelmise</code></td>
     <td align="center"><img src="/img/pokemon/dhelmise.png" alt="dhelmise" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">782</td>
-    <td>jangmo-o</td>
+    <td align="center">782</td>
+    <td><code>jangmo-o</code></td>
     <td align="center"><img src="/img/pokemon/jangmo-o.png" alt="jangmo-o" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">783</td>
-    <td>hakamo-o</td>
+    <td align="center">783</td>
+    <td><code>hakamo-o</code></td>
     <td align="center"><img src="/img/pokemon/hakamo-o.png" alt="hakamo-o" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">784</td>
-    <td>kommo-o</td>
+    <td align="center">784</td>
+    <td><code>kommo-o</code></td>
     <td align="center"><img src="/img/pokemon/kommo-o.png" alt="kommo-o" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">785</td>
-    <td>tapu koko</td>
+    <td align="center">785</td>
+    <td><code>tapu koko</code></td>
     <td align="center"><img src="/img/pokemon/tapu&#32;koko.png" alt="tapu koko" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">786</td>
-    <td>tapu lele</td>
+    <td align="center">786</td>
+    <td><code>tapu lele</code></td>
     <td align="center"><img src="/img/pokemon/tapu&#32;lele.png" alt="tapu lele" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">787</td>
-    <td>tapu bulu</td>
+    <td align="center">787</td>
+    <td><code>tapu bulu</code></td>
     <td align="center"><img src="/img/pokemon/tapu&#32;bulu.png" alt="tapu bulu" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">788</td>
-    <td>tapu fini</td>
+    <td align="center">788</td>
+    <td><code>tapu fini</code></td>
     <td align="center"><img src="/img/pokemon/tapu&#32;fini.png" alt="tapu fini" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">789</td>
-    <td>cosmog</td>
+    <td align="center">789</td>
+    <td><code>cosmog</code></td>
     <td align="center"><img src="/img/pokemon/cosmog.png" alt="cosmog" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">790</td>
-    <td>cosmoem</td>
+    <td align="center">790</td>
+    <td><code>cosmoem</code></td>
     <td align="center"><img src="/img/pokemon/cosmoem.png" alt="cosmoem" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">791</td>
-    <td>solgaleo</td>
+    <td align="center">791</td>
+    <td><code>solgaleo</code></td>
     <td align="center"><img src="/img/pokemon/solgaleo.png" alt="solgaleo" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">792</td>
-    <td>lunala</td>
+    <td align="center">792</td>
+    <td><code>lunala</code></td>
     <td align="center"><img src="/img/pokemon/lunala.png" alt="lunala" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">793</td>
-    <td>nihilego</td>
+    <td align="center">793</td>
+    <td><code>nihilego</code></td>
     <td align="center"><img src="/img/pokemon/nihilego.png" alt="nihilego" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">794</td>
-    <td>buzzwole</td>
+    <td align="center">794</td>
+    <td><code>buzzwole</code></td>
     <td align="center"><img src="/img/pokemon/buzzwole.png" alt="buzzwole" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">795</td>
-    <td>pheromosa</td>
+    <td align="center">795</td>
+    <td><code>pheromosa</code></td>
     <td align="center"><img src="/img/pokemon/pheromosa.png" alt="pheromosa" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">796</td>
-    <td>xurkitree</td>
+    <td align="center">796</td>
+    <td><code>xurkitree</code></td>
     <td align="center"><img src="/img/pokemon/xurkitree.png" alt="xurkitree" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">797</td>
-    <td>celesteela</td>
+    <td align="center">797</td>
+    <td><code>celesteela</code></td>
     <td align="center"><img src="/img/pokemon/celesteela.png" alt="celesteela" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">798</td>
-    <td>kartana</td>
+    <td align="center">798</td>
+    <td><code>kartana</code></td>
     <td align="center"><img src="/img/pokemon/kartana.png" alt="kartana" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">799</td>
-    <td>guzzlord</td>
+    <td align="center">799</td>
+    <td><code>guzzlord</code></td>
     <td align="center"><img src="/img/pokemon/guzzlord.png" alt="guzzlord" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">800</td>
-    <td>necrozma</td>
+    <td align="center">800</td>
+    <td><code>necrozma</code></td>
     <td align="center"><img src="/img/pokemon/necrozma.png" alt="necrozma" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">801</td>
-    <td>magearna</td>
+    <td align="center">801</td>
+    <td><code>magearna</code></td>
     <td align="center"><img src="/img/pokemon/magearna.png" alt="magearna" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">802</td>
-    <td>marshadow</td>
+    <td align="center">802</td>
+    <td><code>marshadow</code></td>
     <td align="center"><img src="/img/pokemon/marshadow.png" alt="marshadow" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">803</td>
-    <td>poipole</td>
+    <td align="center">803</td>
+    <td><code>poipole</code></td>
     <td align="center"><img src="/img/pokemon/poipole.png" alt="poipole" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">804</td>
-    <td>naganadel</td>
+    <td align="center">804</td>
+    <td><code>naganadel</code></td>
     <td align="center"><img src="/img/pokemon/naganadel.png" alt="naganadel" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">805</td>
-    <td>stakataka</td>
+    <td align="center">805</td>
+    <td><code>stakataka</code></td>
     <td align="center"><img src="/img/pokemon/stakataka.png" alt="stakataka" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">806</td>
-    <td>blacephalon</td>
+    <td align="center">806</td>
+    <td><code>blacephalon</code></td>
     <td align="center"><img src="/img/pokemon/blacephalon.png" alt="blacephalon" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">807</td>
-    <td>zeraora</td>
+    <td align="center">807</td>
+    <td><code>zeraora</code></td>
     <td align="center"><img src="/img/pokemon/zeraora.png" alt="zeraora" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">808</td>
-    <td>meltan</td>
+    <td align="center">808</td>
+    <td><code>meltan</code></td>
     <td align="center"><img src="/img/pokemon/meltan.png" alt="meltan" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">809</td>
-    <td>melmetal</td>
+    <td align="center">809</td>
+    <td><code>melmetal</code></td>
     <td align="center"><img src="/img/pokemon/melmetal.png" alt="melmetal" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">810</td>
-    <td>grookey</td>
+    <td align="center">810</td>
+    <td><code>grookey</code></td>
     <td align="center"><img src="/img/pokemon/grookey.png" alt="grookey" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">811</td>
-    <td>thwackey</td>
+    <td align="center">811</td>
+    <td><code>thwackey</code></td>
     <td align="center"><img src="/img/pokemon/thwackey.png" alt="thwackey" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">812</td>
-    <td>rillaboom</td>
+    <td align="center">812</td>
+    <td><code>rillaboom</code></td>
     <td align="center"><img src="/img/pokemon/rillaboom.png" alt="rillaboom" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">813</td>
-    <td>scorbunny</td>
+    <td align="center">813</td>
+    <td><code>scorbunny</code></td>
     <td align="center"><img src="/img/pokemon/scorbunny.png" alt="scorbunny" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">814</td>
-    <td>raboot</td>
+    <td align="center">814</td>
+    <td><code>raboot</code></td>
     <td align="center"><img src="/img/pokemon/raboot.png" alt="raboot" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">815</td>
-    <td>cinderace</td>
+    <td align="center">815</td>
+    <td><code>cinderace</code></td>
     <td align="center"><img src="/img/pokemon/cinderace.png" alt="cinderace" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">816</td>
-    <td>sobble</td>
+    <td align="center">816</td>
+    <td><code>sobble</code></td>
     <td align="center"><img src="/img/pokemon/sobble.png" alt="sobble" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">817</td>
-    <td>drizzile</td>
+    <td align="center">817</td>
+    <td><code>drizzile</code></td>
     <td align="center"><img src="/img/pokemon/drizzile.png" alt="drizzile" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">818</td>
-    <td>inteleon</td>
+    <td align="center">818</td>
+    <td><code>inteleon</code></td>
     <td align="center"><img src="/img/pokemon/inteleon.png" alt="inteleon" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">819</td>
-    <td>skwovet</td>
+    <td align="center">819</td>
+    <td><code>skwovet</code></td>
     <td align="center"><img src="/img/pokemon/skwovet.png" alt="skwovet" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">820</td>
-    <td>greedent</td>
+    <td align="center">820</td>
+    <td><code>greedent</code></td>
     <td align="center"><img src="/img/pokemon/greedent.png" alt="greedent" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">821</td>
-    <td>rookidee</td>
+    <td align="center">821</td>
+    <td><code>rookidee</code></td>
     <td align="center"><img src="/img/pokemon/rookidee.png" alt="rookidee" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">822</td>
-    <td>corvisquire</td>
+    <td align="center">822</td>
+    <td><code>corvisquire</code></td>
     <td align="center"><img src="/img/pokemon/corvisquire.png" alt="corvisquire" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">823</td>
-    <td>corviknight</td>
+    <td align="center">823</td>
+    <td><code>corviknight</code></td>
     <td align="center"><img src="/img/pokemon/corviknight.png" alt="corviknight" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">824</td>
-    <td>blipbug</td>
+    <td align="center">824</td>
+    <td><code>blipbug</code></td>
     <td align="center"><img src="/img/pokemon/blipbug.png" alt="blipbug" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">825</td>
-    <td>dottler</td>
+    <td align="center">825</td>
+    <td><code>dottler</code></td>
     <td align="center"><img src="/img/pokemon/dottler.png" alt="dottler" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">826</td>
-    <td>orbeetle</td>
+    <td align="center">826</td>
+    <td><code>orbeetle</code></td>
     <td align="center"><img src="/img/pokemon/orbeetle.png" alt="orbeetle" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /><img src="/img/elements/bug.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">827</td>
-    <td>nickit</td>
+    <td align="center">827</td>
+    <td><code>nickit</code></td>
     <td align="center"><img src="/img/pokemon/nickit.png" alt="nickit" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">828</td>
-    <td>thievul</td>
+    <td align="center">828</td>
+    <td><code>thievul</code></td>
     <td align="center"><img src="/img/pokemon/thievul.png" alt="thievul" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">829</td>
-    <td>gossifleur</td>
+    <td align="center">829</td>
+    <td><code>gossifleur</code></td>
     <td align="center"><img src="/img/pokemon/gossifleur.png" alt="gossifleur" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">830</td>
-    <td>eldegoss</td>
+    <td align="center">830</td>
+    <td><code>eldegoss</code></td>
     <td align="center"><img src="/img/pokemon/eldegoss.png" alt="eldegoss" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">831</td>
-    <td>wooloo</td>
+    <td align="center">831</td>
+    <td><code>wooloo</code></td>
     <td align="center"><img src="/img/pokemon/wooloo.png" alt="wooloo" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">832</td>
-    <td>dubwool</td>
+    <td align="center">832</td>
+    <td><code>dubwool</code></td>
     <td align="center"><img src="/img/pokemon/dubwool.png" alt="dubwool" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /><img src="/img/elements/normal.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">833</td>
-    <td>chewtle</td>
+    <td align="center">833</td>
+    <td><code>chewtle</code></td>
     <td align="center"><img src="/img/pokemon/chewtle.png" alt="chewtle" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">834</td>
-    <td>drednaw</td>
+    <td align="center">834</td>
+    <td><code>drednaw</code></td>
     <td align="center"><img src="/img/pokemon/drednaw.png" alt="drednaw" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">835</td>
-    <td>yamper</td>
+    <td align="center">835</td>
+    <td><code>yamper</code></td>
     <td align="center"><img src="/img/pokemon/yamper.png" alt="yamper" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">836</td>
-    <td>boltund</td>
+    <td align="center">836</td>
+    <td><code>boltund</code></td>
     <td align="center"><img src="/img/pokemon/boltund.png" alt="boltund" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">837</td>
-    <td>rolycoly</td>
+    <td align="center">837</td>
+    <td><code>rolycoly</code></td>
     <td align="center"><img src="/img/pokemon/rolycoly.png" alt="rolycoly" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">838</td>
-    <td>carkol</td>
+    <td align="center">838</td>
+    <td><code>carkol</code></td>
     <td align="center"><img src="/img/pokemon/carkol.png" alt="carkol" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">839</td>
-    <td>coalossal</td>
+    <td align="center">839</td>
+    <td><code>coalossal</code></td>
     <td align="center"><img src="/img/pokemon/coalossal.png" alt="coalossal" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">840</td>
-    <td>applin</td>
+    <td align="center">840</td>
+    <td><code>applin</code></td>
     <td align="center"><img src="/img/pokemon/applin.png" alt="applin" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">841</td>
-    <td>flapple</td>
+    <td align="center">841</td>
+    <td><code>flapple</code></td>
     <td align="center"><img src="/img/pokemon/flapple.png" alt="flapple" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">842</td>
-    <td>appletun</td>
+    <td align="center">842</td>
+    <td><code>appletun</code></td>
     <td align="center"><img src="/img/pokemon/appletun.png" alt="appletun" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /><img src="/img/elements/grass.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">843</td>
-    <td>silicobra</td>
+    <td align="center">843</td>
+    <td><code>silicobra</code></td>
     <td align="center"><img src="/img/pokemon/silicobra.png" alt="silicobra" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">844</td>
-    <td>sandaconda</td>
+    <td align="center">844</td>
+    <td><code>sandaconda</code></td>
     <td align="center"><img src="/img/pokemon/sandaconda.png" alt="sandaconda" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">845</td>
-    <td>cramorant</td>
+    <td align="center">845</td>
+    <td><code>cramorant</code></td>
     <td align="center"><img src="/img/pokemon/cramorant.png" alt="cramorant" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /><img src="/img/elements/flying.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">846</td>
-    <td>arrokuda</td>
+    <td align="center">846</td>
+    <td><code>arrokuda</code></td>
     <td align="center"><img src="/img/pokemon/arrokuda.png" alt="arrokuda" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">847</td>
-    <td>barraskewda</td>
+    <td align="center">847</td>
+    <td><code>barraskewda</code></td>
     <td align="center"><img src="/img/pokemon/barraskewda.png" alt="barraskewda" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">848</td>
-    <td>toxel</td>
+    <td align="center">848</td>
+    <td><code>toxel</code></td>
     <td align="center"><img src="/img/pokemon/toxel.png" alt="toxel" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">849</td>
-    <td>toxtricity</td>
+    <td align="center">849</td>
+    <td><code>toxtricity</code></td>
     <td align="center"><img src="/img/pokemon/toxtricity.png" alt="toxtricity" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">850</td>
-    <td>sizzlipede</td>
+    <td align="center">850</td>
+    <td><code>sizzlipede</code></td>
     <td align="center"><img src="/img/pokemon/sizzlipede.png" alt="sizzlipede" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">851</td>
-    <td>centiskorch</td>
+    <td align="center">851</td>
+    <td><code>centiskorch</code></td>
     <td align="center"><img src="/img/pokemon/centiskorch.png" alt="centiskorch" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /><img src="/img/elements/fire.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">852</td>
-    <td>clobbopus</td>
+    <td align="center">852</td>
+    <td><code>clobbopus</code></td>
     <td align="center"><img src="/img/pokemon/clobbopus.png" alt="clobbopus" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">853</td>
-    <td>grapploct</td>
+    <td align="center">853</td>
+    <td><code>grapploct</code></td>
     <td align="center"><img src="/img/pokemon/grapploct.png" alt="grapploct" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">854</td>
-    <td>sinistea</td>
+    <td align="center">854</td>
+    <td><code>sinistea</code></td>
     <td align="center"><img src="/img/pokemon/sinistea.png" alt="sinistea" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">855</td>
-    <td>polteageist</td>
+    <td align="center">855</td>
+    <td><code>polteageist</code></td>
     <td align="center"><img src="/img/pokemon/polteageist.png" alt="polteageist" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">856</td>
-    <td>hatenna</td>
+    <td align="center">856</td>
+    <td><code>hatenna</code></td>
     <td align="center"><img src="/img/pokemon/hatenna.png" alt="hatenna" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">857</td>
-    <td>hattrem</td>
+    <td align="center">857</td>
+    <td><code>hattrem</code></td>
     <td align="center"><img src="/img/pokemon/hattrem.png" alt="hattrem" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">858</td>
-    <td>hatterene</td>
+    <td align="center">858</td>
+    <td><code>hatterene</code></td>
     <td align="center"><img src="/img/pokemon/hatterene.png" alt="hatterene" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">859</td>
-    <td>impidimp</td>
+    <td align="center">859</td>
+    <td><code>impidimp</code></td>
     <td align="center"><img src="/img/pokemon/impidimp.png" alt="impidimp" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">860</td>
-    <td>morgrem</td>
+    <td align="center">860</td>
+    <td><code>morgrem</code></td>
     <td align="center"><img src="/img/pokemon/morgrem.png" alt="morgrem" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">861</td>
-    <td>grimmsnarl</td>
+    <td align="center">861</td>
+    <td><code>grimmsnarl</code></td>
     <td align="center"><img src="/img/pokemon/grimmsnarl.png" alt="grimmsnarl" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">862</td>
-    <td>obstagoon</td>
+    <td align="center">862</td>
+    <td><code>obstagoon</code></td>
     <td align="center"><img src="/img/pokemon/obstagoon.png" alt="obstagoon" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /><img src="/img/elements/dark.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">863</td>
-    <td>perrserker</td>
+    <td align="center">863</td>
+    <td><code>perrserker</code></td>
     <td align="center"><img src="/img/pokemon/perrserker.png" alt="perrserker" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">864</td>
-    <td>cursola</td>
+    <td align="center">864</td>
+    <td><code>cursola</code></td>
     <td align="center"><img src="/img/pokemon/cursola.png" alt="cursola" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /><img src="/img/elements/ghost.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">865</td>
-    <td>sirfetchd</td>
+    <td align="center">865</td>
+    <td><code>sirfetchd</code></td>
     <td align="center"><img src="/img/pokemon/sirfetchd.png" alt="sirfetchd" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">866</td>
-    <td>mr rime</td>
+    <td align="center">866</td>
+    <td><code>mr rime</code></td>
     <td align="center"><img src="/img/pokemon/mr&#32;rime.png" alt="mr rime" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">867</td>
-    <td>runerigus</td>
+    <td align="center">867</td>
+    <td><code>runerigus</code></td>
     <td align="center"><img src="/img/pokemon/runerigus.png" alt="runerigus" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /><img src="/img/elements/ground.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">868</td>
-    <td>milcery</td>
+    <td align="center">868</td>
+    <td><code>milcery</code></td>
     <td align="center"><img src="/img/pokemon/milcery.png" alt="milcery" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">869</td>
-    <td>alcremie</td>
+    <td align="center">869</td>
+    <td><code>alcremie</code></td>
     <td align="center"><img src="/img/pokemon/alcremie.png" alt="alcremie" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">870</td>
-    <td>falinks</td>
+    <td align="center">870</td>
+    <td><code>falinks</code></td>
     <td align="center"><img src="/img/pokemon/falinks.png" alt="falinks" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">871</td>
-    <td>pincurchin</td>
+    <td align="center">871</td>
+    <td><code>pincurchin</code></td>
     <td align="center"><img src="/img/pokemon/pincurchin.png" alt="pincurchin" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">872</td>
-    <td>snom</td>
+    <td align="center">872</td>
+    <td><code>snom</code></td>
     <td align="center"><img src="/img/pokemon/snom.png" alt="snom" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">873</td>
-    <td>frosmoth</td>
+    <td align="center">873</td>
+    <td><code>frosmoth</code></td>
     <td align="center"><img src="/img/pokemon/frosmoth.png" alt="frosmoth" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">874</td>
-    <td>stonjourner</td>
+    <td align="center">874</td>
+    <td><code>stonjourner</code></td>
     <td align="center"><img src="/img/pokemon/stonjourner.png" alt="stonjourner" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /><img src="/img/elements/rock.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">875</td>
-    <td>eiscue</td>
+    <td align="center">875</td>
+    <td><code>eiscue</code></td>
     <td align="center"><img src="/img/pokemon/eiscue.png" alt="eiscue" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /><img src="/img/elements/ice.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">876</td>
-    <td>indeedee</td>
+    <td align="center">876</td>
+    <td><code>indeedee</code></td>
     <td align="center"><img src="/img/pokemon/indeedee.png" alt="indeedee" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /><img src="/img/elements/psychic.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">877</td>
-    <td>morpeko</td>
+    <td align="center">877</td>
+    <td><code>morpeko</code></td>
     <td align="center"><img src="/img/pokemon/morpeko.png" alt="morpeko" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">878</td>
-    <td>cufant</td>
+    <td align="center">878</td>
+    <td><code>cufant</code></td>
     <td align="center"><img src="/img/pokemon/cufant.png" alt="cufant" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">879</td>
-    <td>copperajah</td>
+    <td align="center">879</td>
+    <td><code>copperajah</code></td>
     <td align="center"><img src="/img/pokemon/copperajah.png" alt="copperajah" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">880</td>
-    <td>dracozolt</td>
+    <td align="center">880</td>
+    <td><code>dracozolt</code></td>
     <td align="center"><img src="/img/pokemon/dracozolt.png" alt="dracozolt" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">881</td>
-    <td>arctozolt</td>
+    <td align="center">881</td>
+    <td><code>arctozolt</code></td>
     <td align="center"><img src="/img/pokemon/arctozolt.png" alt="arctozolt" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /><img src="/img/elements/electric.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">882</td>
-    <td>dracovish</td>
+    <td align="center">882</td>
+    <td><code>dracovish</code></td>
     <td align="center"><img src="/img/pokemon/dracovish.png" alt="dracovish" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">883</td>
-    <td>arctovish</td>
+    <td align="center">883</td>
+    <td><code>arctovish</code></td>
     <td align="center"><img src="/img/pokemon/arctovish.png" alt="arctovish" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /><img src="/img/elements/water.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">884</td>
-    <td>duraludon</td>
+    <td align="center">884</td>
+    <td><code>duraludon</code></td>
     <td align="center"><img src="/img/pokemon/duraludon.png" alt="duraludon" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /><img src="/img/elements/steel.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">885</td>
-    <td>dreepy</td>
+    <td align="center">885</td>
+    <td><code>dreepy</code></td>
     <td align="center"><img src="/img/pokemon/dreepy.png" alt="dreepy" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">886</td>
-    <td>drakloak</td>
+    <td align="center">886</td>
+    <td><code>drakloak</code></td>
     <td align="center"><img src="/img/pokemon/drakloak.png" alt="drakloak" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">887</td>
-    <td>dragapult</td>
+    <td align="center">887</td>
+    <td><code>dragapult</code></td>
     <td align="center"><img src="/img/pokemon/dragapult.png" alt="dragapult" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /><img src="/img/elements/dragon.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">888</td>
-    <td>zacian</td>
+    <td align="center">888</td>
+    <td><code>zacian</code></td>
     <td align="center"><img src="/img/pokemon/zacian.png" alt="zacian" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /><img src="/img/elements/fairy.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">889</td>
-    <td>zamazenta</td>
+    <td align="center">889</td>
+    <td><code>zamazenta</code></td>
     <td align="center"><img src="/img/pokemon/zamazenta.png" alt="zamazenta" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /><img src="/img/elements/fighting.png" alt="-" /></td>
   </tr>
   <tr>
-    <td align="right">890</td>
-    <td>eternatus</td>
+    <td align="center">890</td>
+    <td><code>eternatus</code></td>
     <td align="center"><img src="/img/pokemon/eternatus.png" alt="eternatus" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /><img src="/img/elements/poison.png" alt="-" /></td>
   </tr>
 </table>
