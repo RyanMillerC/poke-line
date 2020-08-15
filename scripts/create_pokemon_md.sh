@@ -22,9 +22,9 @@ using this list if you run into issues setting poke-line to a particular value.
 
 <table>
   <tr>
-    <th width="20">Pokédex ID</td>
+    <th width="35">Pokédex ID</td>
     <th width="150">Pokémon Name</td>
-    <th width="200">Sprite</td>
+    <th width="130">Sprite</td>
   </tr>
 EOF
 
@@ -35,9 +35,9 @@ get_pokemon_data() {
     pokemon_type=$(jq -r ".[${index}].type" pokemon-data.json)
     pokemon_image_file_name=$(echo "${pokemon_name}" | sed 's/ /\&#32;/')
     echo "  <tr>"
-    echo "    <td>${pokemon_id}</td>"
+    echo "    <td align=\"right\">${pokemon_id}</td>"
     echo "    <td>${pokemon_name}</td>"
-    printf "    <td><img src=\"/img/pokemon/${pokemon_image_file_name}.png\" alt=\"${pokemon_name}\" />"
+    printf "    <td align=\"center\"><img src=\"/img/pokemon/${pokemon_image_file_name}.png\" alt=\"${pokemon_name}\" />"
     for ((element_counter=0; element_counter<10; element_counter++)) ; do
       printf "<img src=\"/img/elements/${pokemon_type}.png\" alt=\"-\" />"
     done
