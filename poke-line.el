@@ -128,7 +128,6 @@ Minimum of 3 units are required for poke-line."
 
 (defun poke-line-create ()
   "Return the Pokemon indicator to be inserted into mode line."
-  (setq debug-on-error t)
   (if (< (window-width) poke-line-minimum-window-width)
       "" ; Disable for small windows
     (let* ((elements (poke-line-number-of-elements))
