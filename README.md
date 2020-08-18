@@ -7,7 +7,7 @@
 ![Demo GIF](/docs/demo.gif)
 
 Select from all 890 different Pokémon! Change Pokémon on the fly! Set a
-different Pokéeon for each mode!
+different Pokémon for each mode!
 
 ## Installation
 
