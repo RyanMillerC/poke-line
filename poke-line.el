@@ -86,7 +86,7 @@ This is important because poke-line will push out all informations from small wi
   :set (lambda (sym val)
          (set-default sym val)
          (poke-line-refresh))
-  :group 'poke)
+  :group 'poke-line)
 
 (defcustom poke-line-bar-length 32
   "Length of Poke element bar in units.
@@ -96,7 +96,7 @@ Minimum of 3 units are required for poke-line."
   :set (lambda (sym val)
          (set-default sym val)
          (poke-line-refresh))
-  :group 'poke)
+  :group 'poke-line)
 
 (defun poke-line-get-pokemon-image ()
   "Get path to Pokemon PNG image."
