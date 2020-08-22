@@ -96,6 +96,15 @@ Intended to be called when customizations were changed, to reapply them immediat
     (poke-line-refresh)
     (message "%s, i choose you!" (upcase-initials name))))
 
+(defun poke-line-set-random-pokemon ()
+  "Choose a Pokemon at random."
+  (interactive)
+  (pcase-let*
+      ((i (random (length poke-line-pokemon-types)))
+       (`(,name . ,type) (elt poke-line-pokemon-types i)))
+    (setq poke-line-pokemon name)
+    (poke-line-refresh)))
+
 (defun poke-line-get-pokemon-image ()
   "Get path to Pokemon PNG image."
   (concat poke-line-directory "img/pokemon/" poke-line-pokemon ".png"))
