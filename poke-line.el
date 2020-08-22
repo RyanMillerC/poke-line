@@ -98,22 +98,33 @@ Minimum of 3 units are required for poke-line."
          (poke-line-refresh))
   :group 'poke)
 
-(defun poke-line-get-pokemon-image ()
-  "Get path to Pokemon PNG image."
-  (concat poke-line-directory "img/pokemon/" poke-line-active-pokemon ".png"))
+(defcustom poke-line-capture-predicate nil
+  "Predicate function to determine when to show a pokeball in the modline.
+The function is called with no args.
+If it returns a non-nil value, a pokeball is shown. Otherwise it is not."
+  :type 'function
+  :group 'poke)
 
-(defun poke-line-get-element-image ()
+(defun poke-line-image-file (file)
+  "Return FILE relative to `poke-line-drectory' img directory."
+  (expand-file-name file (concat poke-line-directory "img/")))
+
+(defun poke-line-active-pokemon-image ()
+  "Get path to Pokemon PNG image."
+  (poke-line-image-file (concat "pokemon/" poke-line-active-pokemon ".png")))
+
+(defun poke-line-active-element-image ()
   "Get path to Pokemon PNG image."
   (concat poke-line-directory "img/elements/" poke-line-active-pokemon-type ".png"))
 
 (defun poke-line-number-of-elements ()
   "Calculate number of elements."
   (round (/ (* (round (* 100
-                        (/ (- (float (point))
-                             (float (point-min)))
-                          (float (point-max)))))
-              (- poke-line-bar-length poke-line-size))
-           100)))
+                         (/ (- (float (point))
+                               (float (point-min)))
+                            (float (point-max)))))
+               (- poke-line-bar-length poke-line-size))
+            100)))
 
 (defun poke-line-scroll-buffer (percentage buffer)
   "Move point `BUFFER' to `PERCENTAGE' percent in the buffer."
@@ -128,38 +139,41 @@ Minimum of 3 units are required for poke-line."
 
 (defun poke-line-create ()
   "Return the Pokemon indicator to be inserted into mode line."
-  (if (< (window-width) poke-line-minimum-window-width)
-      "" ; Disable for small windows
+  (cond
+   ((< (window-width) poke-line-minimum-window-width) "") ; Disable for small windows
+   ((funcall (or poke-line-capture-predicate #'ignore))
+    (propertize " " 'display (create-image (poke-line-image-file "pokeball.png") 'png nil :ascent 'center)))
+   (t
     (let* ((elements (poke-line-number-of-elements))
            (backgrounds (- poke-line-bar-length elements poke-line-size))
            (element-string "")
            (png-support (image-type-available-p 'png))
-           (pokemon-string (propertize "|||" 'display (create-image (poke-line-get-pokemon-image) 'png nil :ascent 'center)))
+           (pokemon-string (propertize "   " 'display (create-image (poke-line-active-pokemon-image) 'png nil :ascent 'center)))
            (background-string "")
            (buffer (current-buffer)))
-           (dotimes (number elements)
-             (setq element-string
-               (concat element-string
-                 (poke-line-add-scroll-handler
-                   (if png-support
-                       (propertize "|" 'display (create-image (poke-line-get-element-image) 'png nil :ascent 'center))
-                     "|")
-                   (/ (float number) poke-line-bar-length) buffer))))
-             (dotimes (number backgrounds)
-               (setq background-string
-                 (concat background-string
-                   (poke-line-add-scroll-handler
-                     (if png-support
-                         (propertize "-" 'display (create-image poke-line-background-image 'png nil :ascent 'center))
-                       "-")
-                     (/ (float (+ elements poke-line-size number)) poke-line-bar-length) buffer))))
+      (dotimes (number elements)
+        (setq element-string
+              (concat element-string
+                      (poke-line-add-scroll-handler
+                       (if png-support
+                           (propertize " " 'display (create-image (poke-line-active-element-image) 'png nil :ascent 'center))
+                         " ")
+                       (/ (float number) poke-line-bar-length) buffer))))
+      (dotimes (number backgrounds)
+        (setq background-string
+              (concat background-string
+                      (poke-line-add-scroll-handler
+                       (if png-support
+                           (propertize " " 'display (create-image poke-line-background-image 'png nil :ascent 'center))
+                         " ")
+                       (/ (float (+ elements poke-line-size number)) poke-line-bar-length) buffer))))
       ;; Compute Poke Cat string.
       (propertize
-        (concat
-          pokemon-string
-          element-string
-          background-string)
-        'help-echo poke-line-modeline-help-string))))
+       (concat
+        pokemon-string
+        element-string
+        background-string)
+       'help-echo poke-line-modeline-help-string)))))
 
 ;;;###autoload
 (define-minor-mode poke-line-mode
@@ -171,13 +185,13 @@ option `scroll-bar-mode'."
   :global t
   :group 'poke-line
   (cond (poke-line-mode
-          (unless poke-line-old-car-mode-line-position
-            (setq poke-line-old-car-mode-line-position (car mode-line-position)))
-          (poke-line-create)
-          (setcar mode-line-position '(:eval (list (poke-line-create)))))
+         (unless poke-line-old-car-mode-line-position
+           (setq poke-line-old-car-mode-line-position (car mode-line-position)))
+         (poke-line-create)
+         (setcar mode-line-position '(:eval (list (poke-line-create)))))
         ((not poke-line-mode)
-          (setcar mode-line-position poke-line-old-car-mode-line-position)
-          (setq poke-line-old-car-mode-line-position nil))))
+         (setcar mode-line-position poke-line-old-car-mode-line-position)
+         (setq poke-line-old-car-mode-line-position nil))))
 
 (provide 'poke-line)
 
