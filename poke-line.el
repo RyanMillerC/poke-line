@@ -109,11 +109,11 @@ Minimum of 3 units are required for poke-line."
 (defun poke-line-number-of-elements ()
   "Calculate number of elements."
   (round (/ (* (round (* 100
-                        (/ (- (float (point))
-                             (float (point-min)))
-                          (float (point-max)))))
-              (- poke-line-bar-length poke-line-size))
-           100)))
+                         (/ (- (float (point))
+                               (float (point-min)))
+                            (float (point-max)))))
+               (- poke-line-bar-length poke-line-size))
+            100)))
 
 (defun poke-line-scroll-buffer (percentage buffer)
   "Move point `BUFFER' to `PERCENTAGE' percent in the buffer."
@@ -135,40 +135,40 @@ Minimum of 3 units are required for poke-line."
            (element-string "")
            (png-support (image-type-available-p 'png))
            (pokemon-string (propertize "|||" 'display
-                             (create-image (poke-line-get-pokemon-image) 'png nil
-                               :ascent 'center
-                               :mask 'heuristic)))
+                                       (create-image (poke-line-get-pokemon-image) 'png nil
+                                                     :ascent 'center
+                                                     :mask 'heuristic)))
            (background-string "")
            (buffer (current-buffer)))
-           (dotimes (number elements)
-             (setq element-string
-               (concat element-string
-                 (poke-line-add-scroll-handler
-                   (if png-support
-                       (propertize "|" 'display
-                         (create-image (poke-line-get-element-image) 'png nil
-                           :ascent 'center
-                           :mask 'heuristic))
-                     "|")
-                   (/ (float number) poke-line-bar-length) buffer))))
-             (dotimes (number backgrounds)
-               (setq background-string
-                 (concat background-string
-                   (poke-line-add-scroll-handler
-                     (if png-support
-                         (propertize "-" 'display
-                           (create-image poke-line-background-image 'png nil
-                             :ascent 'center
-                             :mask 'heuristic))
-                       "-")
-                     (/ (float (+ elements poke-line-size number)) poke-line-bar-length) buffer))))
+      (dotimes (number elements)
+        (setq element-string
+              (concat element-string
+                      (poke-line-add-scroll-handler
+                       (if png-support
+                           (propertize "|" 'display
+                                       (create-image (poke-line-get-element-image) 'png nil
+                                                     :ascent 'center
+                                                     :mask 'heuristic))
+                         "|")
+                       (/ (float number) poke-line-bar-length) buffer))))
+      (dotimes (number backgrounds)
+        (setq background-string
+              (concat background-string
+                      (poke-line-add-scroll-handler
+                       (if png-support
+                           (propertize "-" 'display
+                                       (create-image poke-line-background-image 'png nil
+                                                     :ascent 'center
+                                                     :mask 'heuristic))
+                         "-")
+                       (/ (float (+ elements poke-line-size number)) poke-line-bar-length) buffer))))
       ;; Compute Poke Cat string.
       (propertize
-        (concat
-          pokemon-string
-          element-string
-          background-string)
-        'help-echo poke-line-modeline-help-string))))
+       (concat
+        pokemon-string
+        element-string
+        background-string)
+       'help-echo poke-line-modeline-help-string))))
 
 ;;;###autoload
 (define-minor-mode poke-line-mode
@@ -180,13 +180,13 @@ option `scroll-bar-mode'."
   :global t
   :group 'poke-line
   (cond (poke-line-mode
-          (unless poke-line-old-car-mode-line-position
-            (setq poke-line-old-car-mode-line-position (car mode-line-position)))
-          (poke-line-create)
-          (setcar mode-line-position '(:eval (list (poke-line-create)))))
+         (unless poke-line-old-car-mode-line-position
+           (setq poke-line-old-car-mode-line-position (car mode-line-position)))
+         (poke-line-create)
+         (setcar mode-line-position '(:eval (list (poke-line-create)))))
         ((not poke-line-mode)
-          (setcar mode-line-position poke-line-old-car-mode-line-position)
-          (setq poke-line-old-car-mode-line-position nil))))
+         (setcar mode-line-position poke-line-old-car-mode-line-position)
+         (setq poke-line-old-car-mode-line-position nil))))
 
 (provide 'poke-line)
 
