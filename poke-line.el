@@ -94,7 +94,7 @@ Minimum of 3 units are required for poke-line."
     (unless pokemon (user-error "Couldn't find Pokemon \"%s\"" name))
     (setq poke-line-pokemon name)
     (poke-line-refresh)
-    (message "%s, i choose you!" (upcase-initials name))))
+    (message "%s, I choose you!" (upcase-initials name))))
 
 (defun poke-line-set-random-pokemon ()
   "Choose a Pokemon at random."
