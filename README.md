@@ -36,7 +36,7 @@ M-x package-install RET poke-line
 poke-line can be activated with:
 
 ```elisp
-(poke-line-mode 1)
+(poke-line-global-mode 1)
 ```
 
 The chosen Pokémon can be selected with:
@@ -52,28 +52,34 @@ on the fly:
 M-x poke-line-set-pokemon "charmander"
 ```
 
+You can also choose a random Pokémon using the
+`poke-line-set-random-pokemon` command.
+
 Easily set the default Pokémon in your config with use-package:
 
 ```elisp
 (use-package poke-line
   :ensure t
   :config
-  (poke-line-mode 1)
-  (poke-line-set-pokemon "gengar"))
+  (poke-line-global-mode 1)
+  (setq-default poke-line-pokemon "gengar"))
 ```
 
 See [this page](docs/pokemon.md) for a list of available Pokémon.
 
 ## Customization
 
-poke-line allows for two custom variables to be set. If either variable is
-updated after starting poke-line, `poke-line-refresh` must be called to
-refresh their values.
+`poke-line` allows for several custom variables to be set. (If setting
+them programmatically code, you may need to call `poke-line-refresh`.)
+
+### poke-line-pokemon
+
+This is the name of the desired Pokémon.
 
 ### poke-line-minimum-window-width
 
-Minimum width of the window, below which poke-line-mode will not be displayed. This
-is important because poke-line-mode will push out all information from small
+Minimum width of the window, below which `poke-line-mode` will not be displayed. This
+is important because `poke-line-mode` will push out all information from small
 windows.
 
 ```elisp
