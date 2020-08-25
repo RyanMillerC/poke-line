@@ -76,6 +76,10 @@ them programmatically code, you may need to call `poke-line-refresh`.)
 
 This is the name of the desired Pokémon.
 
+```elisp
+(setq poke-line-pokemon "charmander")
+```
+
 ### poke-line-minimum-window-width
 
 Minimum width of the window, below which `poke-line-mode` will not be displayed. This
