@@ -47,6 +47,11 @@
 (defconst poke-line-modeline-help-string "Gotta catch 'em all!\nmouse-1: Scroll buffer position")
 (defconst poke-line-size 3)
 
+(defun poke-line-refresh ()
+  "Refresh poke-line.
+Intended to be called when customizations were changed, to reapply them immediately."
+  (force-mode-line-update))
+
 (defgroup poke-line nil
   "Customization group for `poke-line'."
   :group 'frames)
@@ -79,11 +84,6 @@ Minimum of 3 units are required for poke-line."
          (set-default sym val)
          (poke-line-refresh))
   :group 'poke-line)
-
-(defun poke-line-refresh ()
-  "Refresh poke-line.
-Intended to be called when customizations were changed, to reapply them immediately."
-  (force-mode-line-update))
 
 (defun poke-line-set-pokemon (name)
   "Choose active pokemon by NAME."
