@@ -134,7 +134,10 @@ Minimum of 3 units are required for poke-line."
            (backgrounds (- poke-line-bar-length elements poke-line-size))
            (element-string "")
            (png-support (image-type-available-p 'png))
-           (pokemon-string (propertize "|||" 'display (create-image (poke-line-get-pokemon-image) 'png nil :ascent 'center)))
+           (pokemon-string (propertize "|||" 'display
+                             (create-image (poke-line-get-pokemon-image) 'png nil
+                               :ascent 'center
+                               :mask 'heuristic)))
            (background-string "")
            (buffer (current-buffer)))
            (dotimes (number elements)
@@ -142,7 +145,10 @@ Minimum of 3 units are required for poke-line."
                (concat element-string
                  (poke-line-add-scroll-handler
                    (if png-support
-                       (propertize "|" 'display (create-image (poke-line-get-element-image) 'png nil :ascent 'center))
+                       (propertize "|" 'display
+                         (create-image (poke-line-get-element-image) 'png nil
+                           :ascent 'center
+                           :mask 'heuristic))
                      "|")
                    (/ (float number) poke-line-bar-length) buffer))))
              (dotimes (number backgrounds)
@@ -150,7 +156,10 @@ Minimum of 3 units are required for poke-line."
                  (concat background-string
                    (poke-line-add-scroll-handler
                      (if png-support
-                         (propertize "-" 'display (create-image poke-line-background-image 'png nil :ascent 'center))
+                         (propertize "-" 'display
+                           (create-image poke-line-background-image 'png nil
+                             :ascent 'center
+                             :mask 'heuristic))
                        "-")
                      (/ (float (+ elements poke-line-size number)) poke-line-bar-length) buffer))))
       ;; Compute Poke Cat string.
