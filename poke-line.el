@@ -99,9 +99,9 @@ Minimum of 3 units are required for poke-line."
 (defun poke-line-set-random-pokemon ()
   "Choose a Pokemon at random."
   (interactive)
-  (pcase-let*
-      ((i (random (length poke-line-pokemon-types)))
-       (`(,name . ,type) (elt poke-line-pokemon-types i)))
+  (pcase-let
+      ((`(,name . ,type) (nth (random (length poke-line-pokemon-types))
+                              poke-line-pokemon-types)))
     (setq poke-line-pokemon name)
     (poke-line-refresh)))
 
