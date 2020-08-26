@@ -99,11 +99,10 @@ Minimum of 3 units are required for poke-line."
 (defun poke-line-set-random-pokemon ()
   "Choose a Pokemon at random."
   (interactive)
-  (pcase-let
-      ((`(,name . ,type) (nth (random (length poke-line-pokemon-types))
-                              poke-line-pokemon-types)))
-    (setq poke-line-pokemon name)
-    (poke-line-refresh)))
+  (setq poke-line-pokemon
+        (car (nth (random (length poke-line-pokemon-types))
+                  poke-line-pokemon-types)))
+  (poke-line-refresh))
 
 (defun poke-line-get-pokemon-image ()
   "Get path to Pokemon PNG image."
