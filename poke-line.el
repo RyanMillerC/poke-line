@@ -99,11 +99,10 @@ Minimum of 3 units are required for poke-line."
 (defun poke-line-set-random-pokemon ()
   "Choose a Pokemon at random."
   (interactive)
-  (pcase-let
-      ((`(,name . ,type) (nth (random (length poke-line-pokemon-types))
-                              poke-line-pokemon-types)))
-    (setq poke-line-pokemon name)
-    (poke-line-refresh)))
+  (setq poke-line-pokemon
+        (car (nth (random (length poke-line-pokemon-types))
+                  poke-line-pokemon-types)))
+  (poke-line-refresh))
 
 (defun poke-line-get-pokemon-image ()
   "Get path to Pokemon PNG image."
@@ -140,48 +139,41 @@ Minimum of 3 units are required for poke-line."
         (buffer buffer))
     (propertize string 'keymap `(keymap (mode-line keymap (down-mouse-1 . ,(lambda () (interactive) (poke-line-scroll-buffer percentage buffer))))))))
 
+(defun poke-line-image-string (str image-path)
+  "Return STR propertized to display the PNG at IMAGE-PATH."
+  (if (image-type-available-p 'png)
+      (propertize str 'display
+                  (create-image image-path 'png nil :ascent 'center :mask 'heuristic))
+    str))
+
 (defun poke-line-create ()
   "Return the Pokemon indicator to be inserted into mode line."
   (if (< (window-width) poke-line-minimum-window-width)
-      "" ; Disable for small windows
+      "" ;; Disable for small windows
     (let* ((elements (poke-line-number-of-elements))
            (backgrounds (- poke-line-bar-length elements poke-line-size))
            (element-string "")
-           (png-support (image-type-available-p 'png))
-           (pokemon-string (propertize "|||" 'display
-                                       (create-image (poke-line-get-pokemon-image) 'png nil
-                                                     :ascent 'center
-                                                     :mask 'heuristic)))
            (background-string "")
            (buffer (current-buffer)))
       (dotimes (number elements)
         (setq element-string
               (concat element-string
                       (poke-line-add-scroll-handler
-                       (if png-support
-                           (propertize "|" 'display
-                                       (create-image (poke-line-get-element-image) 'png nil
-                                                     :ascent 'center
-                                                     :mask 'heuristic))
-                         "|")
+                       (poke-line-image-string "|" (poke-line-get-element-image))
                        (/ (float number) poke-line-bar-length) buffer))))
       (dotimes (number backgrounds)
         (setq background-string
               (concat background-string
                       (poke-line-add-scroll-handler
-                       (if png-support
-                           (propertize "-" 'display
-                                       (create-image poke-line-background-image 'png nil
-                                                     :ascent 'center
-                                                     :mask 'heuristic))
-                         "-")
+                       (poke-line-image-string "-" poke-line-background-image)
                        (/ (float (+ elements poke-line-size number)) poke-line-bar-length) buffer))))
       ;; Compute Poke Cat string.
       (propertize
        (concat
-        pokemon-string
+        (poke-line-image-string "|||" (poke-line-get-pokemon-image))
         element-string
-        background-string)
+        background-string
+        " ")
        'help-echo poke-line-modeline-help-string))))
 
 ;;;###autoload
