@@ -38,6 +38,8 @@
 ;; in the modeline.
 
 ;;; Code:
+(unless (image-type-available-p 'png)
+  (user-error "PNG support not detected. poke-line requires png support"))
 
 (require 'cl-lib)
 (require 'poke-line-types)
@@ -141,10 +143,8 @@ Minimum of 3 units are required for poke-line."
 
 (defun poke-line-image-string (str image-path)
   "Return STR propertized to display the PNG at IMAGE-PATH."
-  (if (image-type-available-p 'png)
       (propertize str 'display
-                  (create-image image-path 'png nil :ascent 'center :mask 'heuristic))
-    str))
+                  (create-image image-path 'png nil :ascent 'center :mask 'heuristic)))
 
 (defun poke-line-create ()
   "Return the Pokemon indicator to be inserted into mode line."
