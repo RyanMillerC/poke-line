@@ -174,7 +174,10 @@ Minimum of 3 units are required for poke-line."
         element-string
         background-string
         " ")
-       'help-echo poke-line-modeline-help-string))))
+       'help-echo (format "%s (%s)\n%s"
+                          (capitalize poke-line-pokemon)
+                          (gethash poke-line-pokemon poke-line-element-by-name-table)
+                          poke-line-modeline-help-string)))))
 
 ;;;###autoload
 (define-minor-mode poke-line-mode
